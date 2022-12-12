@@ -13,7 +13,10 @@
             "enum": [
                 "soccer",
                 "basketball",
-                "hockey"
+                "hockey",
+                "tennis",
+                "baseball",
+                "american-football"
             ],
             "enumTitles": [
                 "soccer",
