@@ -1,9 +1,0 @@
-{
-	"id": "cdQUBXCCmB9JNwJ",
-	"json": "{\"id\":\"cdQUBXCCmB9JNwJ\",\"url\":\"https://www.livesport.com//en/soccer/germany/bundesliga/results\",\"loadedUrl\":\"https://www.livesport.com/en/soccer/germany/bundesliga/results/\",\"uniqueKey\":\"https://www.livesport.com//en/soccer/germany/bundesliga/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"league\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:27.831Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com//en/soccer/germany/bundesliga/results",
-	"url": "https://www.livesport.com//en/soccer/germany/bundesliga/results"
-}

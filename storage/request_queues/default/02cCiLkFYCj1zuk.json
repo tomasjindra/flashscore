@@ -1,9 +1,0 @@
-{
-	"id": "02cCiLkFYCj1zuk",
-	"json": "{\"id\":\"02cCiLkFYCj1zuk\",\"url\":\"https://www.livesport.com//en/soccer/world/world-cup/results\",\"loadedUrl\":\"https://www.livesport.com/en/soccer/world/world-cup/results/\",\"uniqueKey\":\"https://www.livesport.com//en/soccer/world/world-cup/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"league\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:58.834Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com//en/soccer/world/world-cup/results",
-	"url": "https://www.livesport.com//en/soccer/world/world-cup/results"
-}

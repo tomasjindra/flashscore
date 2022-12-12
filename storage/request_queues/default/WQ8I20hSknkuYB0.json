@@ -1,9 +1,0 @@
-{
-	"id": "WQ8I20hSknkuYB0",
-	"json": "{\"id\":\"WQ8I20hSknkuYB0\",\"url\":\"https://www.livesport.com/en/match/IquGrilI/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/IquGrilI/#/match-summary/match-statistics/0\",\"uniqueKey\":\"https://www.livesport.com/en/match/IquGrilI\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:37:29.911Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/IquGrilI",
-	"url": "https://www.livesport.com/en/match/IquGrilI/#/match-summary/match-statistics/0"
-}

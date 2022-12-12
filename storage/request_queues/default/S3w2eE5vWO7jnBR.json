@@ -1,9 +1,0 @@
-{
-	"id": "S3w2eE5vWO7jnBR",
-	"json": "{\"id\":\"S3w2eE5vWO7jnBR\",\"url\":\"https://www.livesport.com/en/match/EJAaURiC/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/EJAaURiC/#/match-summary/match-statistics/0\",\"uniqueKey\":\"https://www.livesport.com/en/match/EJAaURiC\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:38:49.521Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/EJAaURiC",
-	"url": "https://www.livesport.com/en/match/EJAaURiC/#/match-summary/match-statistics/0"
-}

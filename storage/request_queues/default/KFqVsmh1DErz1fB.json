@@ -1,9 +1,0 @@
-{
-	"id": "KFqVsmh1DErz1fB",
-	"json": "{\"id\":\"KFqVsmh1DErz1fB\",\"url\":\"https://www.livesport.com//en/basketball/europe/champions-league/results\",\"loadedUrl\":\"https://www.livesport.com/en/basketball/europe/champions-league/results/\",\"uniqueKey\":\"https://www.livesport.com//en/basketball/europe/champions-league/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"league\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:40.591Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com//en/basketball/europe/champions-league/results",
-	"url": "https://www.livesport.com//en/basketball/europe/champions-league/results"
-}

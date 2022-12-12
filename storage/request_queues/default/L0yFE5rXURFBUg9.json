@@ -1,9 +1,0 @@
-{
-	"id": "L0yFE5rXURFBUg9",
-	"json": "{\"id\":\"L0yFE5rXURFBUg9\",\"url\":\"https://www.livesport.com/en/match/lInepNte/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/lInepNte/#/match-summary/match-statistics/0\",\"uniqueKey\":\"https://www.livesport.com/en/match/lInepNte\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:35:40.394Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/lInepNte",
-	"url": "https://www.livesport.com/en/match/lInepNte/#/match-summary/match-statistics/0"
-}

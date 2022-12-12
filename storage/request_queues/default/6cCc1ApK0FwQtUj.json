@@ -1,9 +1,0 @@
-{
-	"id": "6cCc1ApK0FwQtUj",
-	"json": "{\"id\":\"6cCc1ApK0FwQtUj\",\"url\":\"https://www.livesport.com/en/match/rkXDegze/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/rkXDegze/#/match-summary/match-statistics/0\",\"uniqueKey\":\"https://www.livesport.com/en/match/rkXDegze\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:31:08.366Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/rkXDegze",
-	"url": "https://www.livesport.com/en/match/rkXDegze/#/match-summary/match-statistics/0"
-}

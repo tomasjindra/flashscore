@@ -1,9 +1,0 @@
-{
-	"id": "WrDDR64M1whFj5c",
-	"json": "{\"id\":\"WrDDR64M1whFj5c\",\"url\":\"https://www.livesport.com/en/match/OOjUTRIr/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/OOjUTRIr/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/OOjUTRIr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:39:18.222Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/OOjUTRIr",
-	"url": "https://www.livesport.com/en/match/OOjUTRIr/#/match-summary/match-statistics/0"
-}

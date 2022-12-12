@@ -1,9 +1,0 @@
-{
-	"id": "1XQ73g3jTd88Vmb",
-	"json": "{\"id\":\"1XQ73g3jTd88Vmb\",\"url\":\"https://www.livesport.com/en/golf/\",\"loadedUrl\":\"https://www.livesport.com/en/golf/\",\"uniqueKey\":\"https://www.livesport.com/en/golf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:22.084Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/golf",
-	"url": "https://www.livesport.com/en/golf/"
-}

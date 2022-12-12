@@ -1,9 +1,0 @@
-{
-	"id": "vPwHb0RCzZG3iou",
-	"json": "{\"id\":\"vPwHb0RCzZG3iou\",\"url\":\"https://www.livesport.com//en/basketball/europe/eurocup/results\",\"loadedUrl\":\"https://www.livesport.com/en/basketball/europe/eurocup/results/\",\"uniqueKey\":\"https://www.livesport.com//en/basketball/europe/eurocup/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"league\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:39.592Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com//en/basketball/europe/eurocup/results",
-	"url": "https://www.livesport.com//en/basketball/europe/eurocup/results"
-}

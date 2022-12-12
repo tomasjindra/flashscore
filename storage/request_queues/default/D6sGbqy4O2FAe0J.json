@@ -1,9 +1,0 @@
-{
-	"id": "D6sGbqy4O2FAe0J",
-	"json": "{\"id\":\"D6sGbqy4O2FAe0J\",\"url\":\"https://www.livesport.com/en/match/Am7NHA24/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/Am7NHA24/#/match-summary/match-statistics/0\",\"uniqueKey\":\"https://www.livesport.com/en/match/Am7NHA24\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:27:06.772Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/Am7NHA24",
-	"url": "https://www.livesport.com/en/match/Am7NHA24/#/match-summary/match-statistics/0"
-}

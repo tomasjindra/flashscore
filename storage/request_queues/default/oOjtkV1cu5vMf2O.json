@@ -1,9 +1,0 @@
-{
-	"id": "oOjtkV1cu5vMf2O",
-	"json": "{\"id\":\"oOjtkV1cu5vMf2O\",\"url\":\"https://www.livesport.com/en/match/UafRimNH/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/UafRimNH/#/match-summary/match-statistics/0\",\"uniqueKey\":\"https://www.livesport.com/en/match/UafRimNH\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:32:27.114Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/UafRimNH",
-	"url": "https://www.livesport.com/en/match/UafRimNH/#/match-summary/match-statistics/0"
-}
