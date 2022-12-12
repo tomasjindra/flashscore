@@ -18,8 +18,12 @@
             "enumTitles": [
                 "soccer",
                 "basketball",
-                "hockey"
+                "hockey",
+                "tennis",
+                "baseball",
+                "american-football"
             ]
         }
-    }
+    },
+    "required":["sports"]
 }
