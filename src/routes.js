@@ -29,10 +29,10 @@ router.addHandler('sport', async ({ request, page, log, enqueueLinks }) => {
         }
 
         log.info(`To be crawled URLs of leagues: ${leagueURLs}`);
-
+let _leagueURLs = ["https://www.livesport.com/en/soccer/england/premier-league/results/"]
         await enqueueLinks({
             label: "league",
-            urls: leagueURLs
+            urls: _leagueURLs
         });
     }
 }
