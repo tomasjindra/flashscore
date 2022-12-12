@@ -1,6 +1,6 @@
 {
 	"id": "gH26p8NmRhz8Dbj",
-	"json": "{\"id\":\"gH26p8NmRhz8Dbj\",\"url\":\"https://www.livesport.com/en/basketball/\",\"loadedUrl\":\"https://www.livesport.com/en/basketball/\",\"uniqueKey\":\"https://www.livesport.com/en/basketball\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:15:57.265Z\"}",
+	"json": "{\"id\":\"gH26p8NmRhz8Dbj\",\"url\":\"https://www.livesport.com/en/basketball/\",\"loadedUrl\":\"https://www.livesport.com/en/basketball/\",\"uniqueKey\":\"https://www.livesport.com/en/basketball\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:37:21.258Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,6 +1,6 @@
 {
 	"id": "SvYTCN8xGyFB4iK",
-	"json": "{\"id\":\"SvYTCN8xGyFB4iK\",\"url\":\"https://www.livesport.com/en/baseball/\",\"loadedUrl\":\"https://www.livesport.com/en/baseball/\",\"uniqueKey\":\"https://www.livesport.com/en/baseball\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:15:57.901Z\"}",
+	"json": "{\"id\":\"SvYTCN8xGyFB4iK\",\"url\":\"https://www.livesport.com/en/baseball/\",\"loadedUrl\":\"https://www.livesport.com/en/baseball/\",\"uniqueKey\":\"https://www.livesport.com/en/baseball\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:37:22.290Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

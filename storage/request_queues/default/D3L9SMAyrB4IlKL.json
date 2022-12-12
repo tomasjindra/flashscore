@@ -1,6 +1,6 @@
 {
 	"id": "D3L9SMAyrB4IlKL",
-	"json": "{\"id\":\"D3L9SMAyrB4IlKL\",\"url\":\"https://www.livesport.com/en/\",\"loadedUrl\":\"https://www.livesport.com/en/\",\"uniqueKey\":\"https://www.livesport.com/en\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:15:55.090Z\"}",
+	"json": "{\"id\":\"D3L9SMAyrB4IlKL\",\"url\":\"https://www.livesport.com/en/\",\"loadedUrl\":\"https://www.livesport.com/en/\",\"uniqueKey\":\"https://www.livesport.com/en\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:37:18.959Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,
