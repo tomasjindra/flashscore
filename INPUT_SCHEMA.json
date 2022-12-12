@@ -4,7 +4,7 @@
     "type": "object",
     "schemaVersion": 1,
     "properties": {
-        "sports": {
+        "Sport": {
             "title": "Sport",
             "type": "string",
             "description": "Select sport",
@@ -28,5 +28,5 @@
             ]
         }
     },
-    "required":["sports"]
+    "required":["Sport"]
 }
