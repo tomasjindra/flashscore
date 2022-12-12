@@ -2,6 +2,7 @@
     "title": "Adding actor input",
     "description": "Choose a sport you would like to collect results from.",
     "schemaVersion": 1,
+    "type":"object",
     "properties": {
         "title": "Sport",
         "type": "string",
