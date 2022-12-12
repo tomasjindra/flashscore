@@ -1,0 +1,9 @@
+{
+	"id": "EW6h5QQa67MIwTT",
+	"json": "{\"id\":\"EW6h5QQa67MIwTT\",\"url\":\"https://www.livesport.com/en/tennis/\",\"loadedUrl\":\"https://www.livesport.com/en/tennis/\",\"uniqueKey\":\"https://www.livesport.com/en/tennis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:15:56.516Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/tennis",
+	"url": "https://www.livesport.com/en/tennis/"
+}

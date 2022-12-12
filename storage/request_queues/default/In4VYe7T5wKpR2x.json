@@ -1,0 +1,9 @@
+{
+	"id": "In4VYe7T5wKpR2x",
+	"json": "{\"id\":\"In4VYe7T5wKpR2x\",\"url\":\"https://www.livesport.com/en/soccer/england/premier-league/results/\",\"uniqueKey\":\"https://www.livesport.com/en/soccer/england/premier-league/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"page.goto: Navigation failed because page was closed!\\n=========================== logs ===========================\\nnavigating to \\\"https://www.livesport.com/en/soccer/england/premier-league/results/\\\", waiting until \\\"load\\\"\\n============================================================\\n    at gotoExtended (/Users/tomas/flashscore/node_modules/@crawlee/playwright/internals/utils/playwright-utils.js:153:17)\\n    at PlaywrightCrawler._navigationHandler (/Users/tomas/flashscore/node_modules/@crawlee/playwright/internals/playwright-crawler.js:113:52)\\n    at PlaywrightCrawler._handleNavigation (/Users/tomas/flashscore/node_modules/@crawlee/browser/internals/browser-crawler.js:285:51)\\n    at async PlaywrightCrawler._runRequestHandler (/Users/tomas/flashscore/node_modules/@crawlee/browser/internals/browser-crawler.js:227:13)\\n    at async PlaywrightCrawler._runRequestHandler (/Users/tomas/flashscore/node_modules/@crawlee/playwright/internals/playwright-crawler.js:110:9)\\n    at async wrap (/Users/tomas/flashscore/node_modules/@apify/timeout/index.js:52:21)\"],\"headers\":{},\"userData\":{\"label\":\"league\",\"__crawlee\":{\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1670883358455,
+	"retryCount": 1,
+	"uniqueKey": "https://www.livesport.com/en/soccer/england/premier-league/results",
+	"url": "https://www.livesport.com/en/soccer/england/premier-league/results/"
+}

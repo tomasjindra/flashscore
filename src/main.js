@@ -4,6 +4,8 @@ import { Actor } from 'apify';
 import { router } from './routes.js';
 
 await Actor.init();
+const input = await Actor.getInput()
+console.log(input)
 
 const startUrls = ['https://www.livesport.com/en/'];
 

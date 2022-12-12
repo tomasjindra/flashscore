@@ -1,0 +1,17 @@
+{
+    "title": "Sport",
+    "type": "string",
+    "description": "Select sport",
+    "editor": "select",
+    "default": "Soccer",
+    "enum": [
+        "Soccer",
+        "Basketball",
+        "Hockey"
+    ],
+    "enumTitles": [
+        "Soccer",
+        "Basketball",
+        "Hockey"
+    ]
+}

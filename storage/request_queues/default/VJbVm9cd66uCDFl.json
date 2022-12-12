@@ -1,0 +1,9 @@
+{
+	"id": "VJbVm9cd66uCDFl",
+	"json": "{\"id\":\"VJbVm9cd66uCDFl\",\"url\":\"https://www.livesport.com/en/soccer/\",\"loadedUrl\":\"https://www.livesport.com/en/soccer/\",\"uniqueKey\":\"https://www.livesport.com/en/soccer\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:15:56.024Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/soccer",
+	"url": "https://www.livesport.com/en/soccer/"
+}

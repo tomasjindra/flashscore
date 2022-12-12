@@ -1,4 +1,7 @@
 import { Dataset, createPlaywrightRouter } from 'crawlee';
+import { Actor } from 'apify'
+
+
 
 export const router = createPlaywrightRouter();
 
@@ -29,7 +32,7 @@ router.addHandler('sport', async ({ request, page, log, enqueueLinks }) => {
         }
 
         log.info(`To be crawled URLs of leagues: ${leagueURLs}`);
-let _leagueURLs = ["https://www.livesport.com/en/soccer/england/premier-league/results/"]
+        let _leagueURLs = ["https://www.livesport.com/en/soccer/england/premier-league/results/"]
         await enqueueLinks({
             label: "league",
             urls: _leagueURLs
@@ -76,7 +79,7 @@ router.addHandler('match', async ({ request, page, log }) => {
     log.info(`Collecting info from match: ${title}`, { url: request.loadedUrl });
 
     let results = {
-        URL:request.loadedUrl,
+        URL: request.loadedUrl,
         country: await (await page.locator("span.tournamentHeader__country")?.textContent()).replace(/\:.*$/, "") || null,
         league: await page.locator("span.tournamentHeader__country a")?.textContent() || null,
         matchTime: await page.locator(".duelParticipant__startTime")?.textContent() || null,
@@ -89,9 +92,9 @@ router.addHandler('match', async ({ request, page, log }) => {
     }
 
     if (request.loadedUrl.includes("statistics")) {
-        
+
         await page.waitForSelector(".stat__category")
-         
+
         const statCategories = await page.$$(".stat__categoryName")
         const homeTeamStatValues = await page.$$(".stat__homeValue")
         const awayTeamStatValues = await page.$$(".stat__awayValue")
@@ -109,11 +112,11 @@ router.addHandler('match', async ({ request, page, log }) => {
                 }
             )
         }
-        results ={...results, statistics}
+        results = { ...results, statistics }
     }
-   
+
     await Dataset.pushData(results)
-    
+
 });
 
 
