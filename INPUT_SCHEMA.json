@@ -1,17 +1,21 @@
 {
-    "title": "Sport",
-    "type": "string",
-    "description": "Select sport",
-    "editor": "select",
-    "default": "Soccer",
-    "enum": [
-        "Soccer",
-        "Basketball",
-        "Hockey"
-    ],
-    "enumTitles": [
-        "Soccer",
-        "Basketball",
-        "Hockey"
-    ]
+    "title": "Adding actor input",
+    "description": "Choose a sport you would like to collect results from.",
+    "properties": {
+        "title": "Sport",
+        "type": "string",
+        "description": "Select sport",
+        "editor": "select",
+        "default": "Soccer",
+        "enum": [
+            "Soccer",
+            "Basketball",
+            "Hockey"
+        ],
+        "enumTitles": [
+            "Soccer",
+            "Basketball",
+            "Hockey"
+        ]
+    }
 }
