@@ -9,7 +9,7 @@
             "type": "string",
             "description": "Select sport",
             "editor": "select",
-            "default": "Soccer",
+            "default": "soccer",
             "enum": [
                 "soccer",
                 "basketball",
