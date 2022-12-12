@@ -5,9 +5,9 @@ import { router } from './routes.js';
 
 await Actor.init();
 const input = await Actor.getInput()
-console.log(input)
+console.log(input.Sport)
 
-const startUrls = ['https://www.livesport.com/en/'];
+const startUrls = [`https://www.livesport.com/en/${input.Sport}`];
 
 const crawler = new PlaywrightCrawler({
 //maxConcurrency:1,

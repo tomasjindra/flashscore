@@ -1,22 +1,29 @@
 import { Dataset, createPlaywrightRouter } from 'crawlee';
-import { Actor } from 'apify'
-
+import { Actor } from 'apify';
 
 
 export const router = createPlaywrightRouter();
 
+//old implementation selecting all sports without an input from user
+/*
 router.addDefaultHandler(async ({ enqueueLinks, log }) => {
     log.info(`Enqueueing URLs for chosen sports`);
+
     await enqueueLinks({
         selector: "a.menuTop__item",
         label: "sport"
     });
 });
+*/
 
-router.addHandler('sport', async ({ request, page, log, enqueueLinks }) => {
+//router.addHandler('sport', async ({ request, page, log, enqueueLinks }) => {
 
-    //testing only soccer or basketball
-    if (request.url.includes("basketball") || request.url.includes("soccer")) {
+
+
+
+
+
+router.addDefaultHandler(async ({ request, page, log, enqueueLinks }) => {
 
         const title = await page.title();
         log.info(`Collecting leagues from ${title}`, { url: request.loadedUrl });
@@ -37,7 +44,7 @@ router.addHandler('sport', async ({ request, page, log, enqueueLinks }) => {
             label: "league",
             urls: _leagueURLs
         });
-    }
+    
 }
 );
 
@@ -115,7 +122,7 @@ router.addHandler('match', async ({ request, page, log }) => {
         results = { ...results, statistics }
     }
 
-    await Dataset.pushData(results)
+    await Actor.pushData(results)
 
 });
 

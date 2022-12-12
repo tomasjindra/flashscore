@@ -1,9 +1,0 @@
-{
-	"id": "Kbd5RnwpJYNM5Nw",
-	"json": "{\"id\":\"Kbd5RnwpJYNM5Nw\",\"url\":\"https://www.livesport.com/en/cricket/\",\"loadedUrl\":\"https://www.livesport.com/en/cricket/\",\"uniqueKey\":\"https://www.livesport.com/en/cricket\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T22:37:22.433Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/cricket",
-	"url": "https://www.livesport.com/en/cricket/"
-}

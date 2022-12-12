@@ -11,14 +11,14 @@
             "editor": "select",
             "default": "Soccer",
             "enum": [
-                "Soccer",
-                "Basketball",
-                "Hockey"
+                "soccer",
+                "basketball",
+                "hockey"
             ],
             "enumTitles": [
-                "Soccer",
-                "Basketball",
-                "Hockey"
+                "soccer",
+                "basketball",
+                "hockey"
             ]
         }
     }
