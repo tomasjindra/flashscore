@@ -1,6 +1,9 @@
 // For more information, see https://crawlee.dev/
 import { PlaywrightCrawler, ProxyConfiguration } from 'crawlee';
+import { Actor } from 'apify';
 import { router } from './routes.js';
+
+await Actor.init();
 
 const startUrls = ['https://www.livesport.com/en/'];
 
@@ -12,3 +15,5 @@ const crawler = new PlaywrightCrawler({
 });
 
 await crawler.run(startUrls);
+
+await Actor.exit();
