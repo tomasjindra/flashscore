@@ -1,0 +1,78 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Second stage - Round 3",
+	"matchTime": "07.10.2021 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Tanzania",
+	"awayTeamName": "Benin",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "59%",
+				"awayTeamValue": "41%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "158",
+				"awayTeamValue": "97"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "106",
+				"awayTeamValue": "55"
+			}
+		}
+	]
+}

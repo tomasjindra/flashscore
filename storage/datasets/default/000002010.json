@@ -1,0 +1,102 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - Final",
+	"matchTime": "25.08.2022 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Advancing to next roundFC Ballkani (Kos)",
+	"awayTeamName": "Shkupi (Mkd)",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "59%",
+				"awayTeamValue": "41%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "160",
+				"awayTeamValue": "101"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "79",
+				"awayTeamValue": "56"
+			}
+		}
+	]
+}

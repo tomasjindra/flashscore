@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "UEFA Nations League - League A - Round 3",
+	"matchTime": "11.06.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Wales",
+	"awayTeamName": "Belgium",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "37%",
+				"awayTeamValue": "63%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "365",
+				"awayTeamValue": "65"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "317",
+				"awayTeamValue": "591"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "90",
+				"awayTeamValue": "101"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "42"
+			}
+		}
+	]
+}

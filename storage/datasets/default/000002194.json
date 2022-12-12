@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - Quarter-finals",
+	"matchTime": "21.07.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Lech Poznan (Pol)",
+	"awayTeamName": "Dinamo Batumi (Geo)",
+	"homeTeamScore": "5",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "49%",
+				"awayTeamValue": "51%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "118",
+				"awayTeamValue": "135"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "75",
+				"awayTeamValue": "69"
+			}
+		}
+	]
+}

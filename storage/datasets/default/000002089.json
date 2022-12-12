@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - Semi-finals",
+	"matchTime": "04.08.2022 19:30",
+	"matchState": "Finished",
+	"homeTeamName": "FK Zorya Luhansk (Ukr)",
+	"awayTeamName": "Univ. Craiova (Rou)",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "60%",
+				"awayTeamValue": "40%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "180",
+				"awayTeamValue": "87"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "98",
+				"awayTeamValue": "45"
+			}
+		}
+	]
+}

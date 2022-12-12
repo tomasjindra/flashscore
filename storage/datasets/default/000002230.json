@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - 1/8-finals",
+	"matchTime": "14.07.2022 19:15",
+	"matchState": "After Penalties",
+	"homeTeamName": "Advancing to next roundNewtown (Wal)",
+	"awayTeamName": "HB Torshavn (Fai)",
+	"homeTeamScore": "3",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "50%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "86",
+				"awayTeamValue": "98"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "77",
+				"awayTeamValue": "67"
+			}
+		}
+	]
+}

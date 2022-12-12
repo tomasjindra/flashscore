@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Preliminary - Semi-finals",
+	"matchTime": "21.06.2022 21:30",
+	"matchState": "Finished",
+	"homeTeamName": "Levadia (Est)",
+	"awayTeamName": "Vikingur Reykjavik (Ice)Advancing to next round",
+	"homeTeamScore": "1",
+	"awayTeamScore": "6",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "46%",
+				"awayTeamValue": "54%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "98",
+				"awayTeamValue": "139"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "64"
+			}
+		}
+	]
+}

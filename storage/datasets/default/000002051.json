@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - Semi-finals",
+	"matchTime": "11.08.2022 20:30",
+	"matchState": "After Extra Time",
+	"homeTeamName": "Advancing to next roundRapid Vienna (Aut)",
+	"awayTeamName": "Neftci Baku (Aze)",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "53%",
+				"awayTeamValue": "47%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "42",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "154",
+				"awayTeamValue": "147"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "138",
+				"awayTeamValue": "92"
+			}
+		}
+	]
+}

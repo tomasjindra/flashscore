@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "07.09.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Norway",
+	"awayTeamName": "Gibraltar",
+	"homeTeamScore": "5",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "67%",
+				"awayTeamValue": "33%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "622",
+				"awayTeamValue": "232"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "537",
+				"awayTeamValue": "155"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "139",
+				"awayTeamValue": "45"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "140",
+				"awayTeamValue": "11"
+			}
+		}
+	]
+}

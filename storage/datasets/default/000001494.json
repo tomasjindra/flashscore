@@ -1,0 +1,114 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "30.06.2022 04:30",
+	"matchState": "Finished",
+	"homeTeamName": "Los Angeles Galaxy",
+	"awayTeamName": "Minnesota United",
+	"homeTeamScore": "2",
+	"awayTeamScore": "3",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "52%",
+				"awayTeamValue": "48%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "469",
+				"awayTeamValue": "446"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "387",
+				"awayTeamValue": "382"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "122",
+				"awayTeamValue": "92"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "54",
+				"awayTeamValue": "23"
+			}
+		}
+	]
+}

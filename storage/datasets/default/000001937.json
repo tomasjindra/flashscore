@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Group Stage - Round 5",
+	"matchTime": "27.10.2022 18:45",
+	"matchState": "Finished",
+	"homeTeamName": "Villarreal",
+	"awayTeamName": "H. Beer Sheva",
+	"homeTeamScore": "2",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "75%",
+				"awayTeamValue": "25%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "698",
+				"awayTeamValue": "213"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "617",
+				"awayTeamValue": "146"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "90",
+				"awayTeamValue": "50"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "48",
+				"awayTeamValue": "30"
+			}
+		}
+	]
+}

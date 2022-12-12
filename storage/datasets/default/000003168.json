@@ -1,0 +1,114 @@
+{
+	"country": "NORTH & CENTRAL AMERICA",
+	"league": "World Cup - Qualification - Third stage - Round 5",
+	"matchTime": "11.10.2021 00:00",
+	"matchState": "Finished",
+	"homeTeamName": "Jamaica",
+	"awayTeamName": "Canada",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "37%",
+				"awayTeamValue": "63%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "245",
+				"awayTeamValue": "418"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "156",
+				"awayTeamValue": "330"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "100",
+				"awayTeamValue": "119"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "68",
+				"awayTeamValue": "84"
+			}
+		}
+	]
+}

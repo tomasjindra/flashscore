@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 2",
+	"matchTime": "12.10.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Reggiana",
+	"awayTeamName": "AEK Athens",
+	"homeTeamScore": "73",
+	"awayTeamScore": "84",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "54",
+				"awayTeamValue": "55"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "48.1%",
+				"awayTeamValue": "47.3%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "45.5%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "46.2%",
+				"awayTeamValue": "50%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "75%",
+				"awayTeamValue": "87.5%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "18"
+			}
+		}
+	]
+}

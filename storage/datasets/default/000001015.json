@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Qualification - Semi-finals",
+	"matchTime": "03.08.2022 19:00",
+	"matchState": "Finished",
+	"homeTeamName": "Maccabi Haifa (Isr)",
+	"awayTeamName": "Apollon (Cyp)",
+	"homeTeamScore": "4",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "54%",
+				"awayTeamValue": "46%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "111",
+				"awayTeamValue": "68"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "78",
+				"awayTeamValue": "38"
+			}
+		}
+	]
+}

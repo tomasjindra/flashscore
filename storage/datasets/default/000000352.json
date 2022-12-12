@@ -1,0 +1,102 @@
+{
+	"country": "GERMANY",
+	"league": "Bundesliga - Round 9",
+	"matchTime": "08.10.2022 15:30",
+	"matchState": "Finished",
+	"homeTeamName": "Augsburg",
+	"awayTeamName": "Wolfsburg",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "52%",
+				"awayTeamValue": "48%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "276",
+				"awayTeamValue": "287"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "193",
+				"awayTeamValue": "218"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "87",
+				"awayTeamValue": "107"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "70",
+				"awayTeamValue": "90"
+			}
+		}
+	]
+}

@@ -1,0 +1,120 @@
+{
+	"country": "NORTH & CENTRAL AMERICA",
+	"league": "World Cup - Qualification - Third stage - Round 5",
+	"matchTime": "11.10.2021 01:00",
+	"matchState": "Finished",
+	"homeTeamName": "Mexico",
+	"awayTeamName": "Honduras",
+	"homeTeamScore": "3",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "76%",
+				"awayTeamValue": "24%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "564",
+				"awayTeamValue": "183"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "513",
+				"awayTeamValue": "112"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "160",
+				"awayTeamValue": "87"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "102",
+				"awayTeamValue": "40"
+			}
+		}
+	]
+}

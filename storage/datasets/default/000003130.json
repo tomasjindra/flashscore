@@ -1,0 +1,102 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "12.10.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Lithuania",
+	"awayTeamName": "Switzerland",
+	"homeTeamScore": "0",
+	"awayTeamScore": "4",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "33%",
+				"awayTeamValue": "67%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "294",
+				"awayTeamValue": "726"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "209",
+				"awayTeamValue": "639"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "79",
+				"awayTeamValue": "128"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "40",
+				"awayTeamValue": "80"
+			}
+		}
+	]
+}

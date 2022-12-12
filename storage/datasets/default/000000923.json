@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Group Stage - Round 5",
+	"matchTime": "25.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Dortmund",
+	"awayTeamName": "Manchester City",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "30%",
+				"awayTeamValue": "70%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "350",
+				"awayTeamValue": "900"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "290",
+				"awayTeamValue": "835"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "60",
+				"awayTeamValue": "129"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "74"
+			}
+		}
+	]
+}

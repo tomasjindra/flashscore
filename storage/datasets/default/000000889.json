@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Qualification - Semi-finals",
+	"matchTime": "04.08.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Shamrock Rovers (Irl)",
+	"awayTeamName": "Shkupi (Mkd)",
+	"homeTeamScore": "3",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "52%",
+				"awayTeamValue": "48%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "37",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "134",
+				"awayTeamValue": "101"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "66",
+				"awayTeamValue": "56"
+			}
+		}
+	]
+}

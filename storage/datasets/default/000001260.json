@@ -1,0 +1,114 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "09.10.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Orlando City",
+	"awayTeamName": "Columbus Crew",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "46%",
+				"awayTeamValue": "54%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "384",
+				"awayTeamValue": "463"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "333",
+				"awayTeamValue": "415"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "76",
+				"awayTeamValue": "120"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "40",
+				"awayTeamValue": "49"
+			}
+		}
+	]
+}

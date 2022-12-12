@@ -1,0 +1,120 @@
+{
+	"country": "FRANCE",
+	"league": "Ligue 1 - Round 15",
+	"matchTime": "13.11.2022 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Brest",
+	"awayTeamName": "Troyes",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "54%",
+				"awayTeamValue": "46%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "429",
+				"awayTeamValue": "372"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "355",
+				"awayTeamValue": "294"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "104",
+				"awayTeamValue": "67"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "45",
+				"awayTeamValue": "34"
+			}
+		}
+	]
+}

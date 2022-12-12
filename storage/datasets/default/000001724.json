@@ -1,0 +1,108 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "26.02.2022 21:30",
+	"matchState": "Finished",
+	"homeTeamName": "Columbus Crew",
+	"awayTeamName": "Vancouver Whitecaps",
+	"homeTeamScore": "4",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "56%",
+				"awayTeamValue": "44%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "539",
+				"awayTeamValue": "412"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "125",
+				"awayTeamValue": "96"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "69",
+				"awayTeamValue": "37"
+			}
+		}
+	]
+}

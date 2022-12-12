@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 2",
+	"matchTime": "18.10.2022 18:30",
+	"matchState": "Finished",
+	"homeTeamName": "Igokea",
+	"awayTeamName": "Nymburk",
+	"homeTeamScore": "91",
+	"awayTeamScore": "74",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "74",
+				"awayTeamValue": "68"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "47.3%",
+				"awayTeamValue": "36.8%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "49",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "53.1%",
+				"awayTeamValue": "41.7%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "36%",
+				"awayTeamValue": "31.3%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "60%",
+				"awayTeamValue": "82.4%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "44",
+				"awayTeamValue": "42"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "17"
+			}
+		}
+	]
+}

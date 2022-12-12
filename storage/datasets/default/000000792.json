@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Group Stage - Round 5",
+	"matchTime": "27.10.2022 18:45",
+	"matchState": "Finished",
+	"homeTeamName": "Lazio",
+	"awayTeamName": "Midtjylland",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "59%",
+				"awayTeamValue": "41%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "643",
+				"awayTeamValue": "403"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "572",
+				"awayTeamValue": "317"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "115",
+				"awayTeamValue": "77"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "53",
+				"awayTeamValue": "22"
+			}
+		}
+	]
+}

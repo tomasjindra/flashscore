@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Eurocup - Round 5",
+	"matchTime": "22.11.2022 19:00",
+	"matchState": "Finished",
+	"homeTeamName": "JL Bourg",
+	"awayTeamName": "Bursaspor",
+	"homeTeamScore": "80",
+	"awayTeamScore": "89",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "62",
+				"awayTeamValue": "65"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "45.2%",
+				"awayTeamValue": "52.3%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "40"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "47.4%",
+				"awayTeamValue": "60%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "41.7%",
+				"awayTeamValue": "40%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "77.8%",
+				"awayTeamValue": "73.3%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "41"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "21"
+			}
+		}
+	]
+}

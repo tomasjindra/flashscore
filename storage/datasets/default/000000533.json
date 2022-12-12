@@ -1,0 +1,114 @@
+{
+	"country": "ITALY",
+	"league": "Serie A - Round 5",
+	"matchTime": "05.09.2022 18:30",
+	"matchState": "Finished",
+	"homeTeamName": "Monza",
+	"awayTeamName": "Atalanta",
+	"homeTeamScore": "0",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "60%",
+				"awayTeamValue": "40%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "558",
+				"awayTeamValue": "366"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "458",
+				"awayTeamValue": "286"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "115",
+				"awayTeamValue": "105"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "54"
+			}
+		}
+	]
+}

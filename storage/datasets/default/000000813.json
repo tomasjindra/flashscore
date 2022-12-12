@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Group Stage - Round 4",
+	"matchTime": "13.10.2022 18:45",
+	"matchState": "Finished",
+	"homeTeamName": "Qarabag",
+	"awayTeamName": "Olympiacos Piraeus",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "59%",
+				"awayTeamValue": "41%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "502",
+				"awayTeamValue": "313"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "411",
+				"awayTeamValue": "234"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "116",
+				"awayTeamValue": "82"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "83",
+				"awayTeamValue": "21"
+			}
+		}
+	]
+}

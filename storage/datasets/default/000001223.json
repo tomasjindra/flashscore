@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "UEFA Nations League - League D - Round 1",
+	"matchTime": "03.06.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Liechtenstein",
+	"awayTeamName": "Moldova",
+	"homeTeamScore": "0",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "37%",
+				"awayTeamValue": "63%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "298",
+				"awayTeamValue": "552"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "204",
+				"awayTeamValue": "448"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "77",
+				"awayTeamValue": "133"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "52"
+			}
+		}
+	]
+}

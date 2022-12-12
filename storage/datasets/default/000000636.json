@@ -1,0 +1,120 @@
+{
+	"country": "SPAIN",
+	"league": "LaLiga - Round 9",
+	"matchTime": "16.10.2022 14:00",
+	"matchState": "Finished",
+	"homeTeamName": "Celta Vigo",
+	"awayTeamName": "Real Sociedad",
+	"homeTeamScore": "1",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "54%",
+				"awayTeamValue": "46%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "455",
+				"awayTeamValue": "396"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "381",
+				"awayTeamValue": "312"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "109",
+				"awayTeamValue": "99"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "53",
+				"awayTeamValue": "25"
+			}
+		}
+	]
+}

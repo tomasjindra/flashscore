@@ -1,0 +1,114 @@
+{
+	"country": "SPAIN",
+	"league": "LaLiga - Round 13",
+	"matchTime": "04.11.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Girona",
+	"awayTeamName": "Ath Bilbao",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "41%",
+				"awayTeamValue": "59%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "362",
+				"awayTeamValue": "517"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "292",
+				"awayTeamValue": "431"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "86",
+				"awayTeamValue": "128"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "40",
+				"awayTeamValue": "58"
+			}
+		}
+	]
+}

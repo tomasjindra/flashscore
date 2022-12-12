@@ -1,0 +1,114 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "18.09.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "New England Revolution",
+	"awayTeamName": "CF Montreal",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "40%",
+				"awayTeamValue": "60%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "356",
+				"awayTeamValue": "542"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "279",
+				"awayTeamValue": "468"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "90",
+				"awayTeamValue": "106"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "52"
+			}
+		}
+	]
+}

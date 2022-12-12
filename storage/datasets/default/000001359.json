@@ -1,0 +1,114 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "22.08.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "Sporting Kansas City",
+	"awayTeamName": "Portland Timbers",
+	"homeTeamScore": "4",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "56%",
+				"awayTeamValue": "44%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "469",
+				"awayTeamValue": "364"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "406",
+				"awayTeamValue": "292"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "104",
+				"awayTeamValue": "94"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "60",
+				"awayTeamValue": "49"
+			}
+		}
+	]
+}

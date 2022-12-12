@@ -1,0 +1,78 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 6",
+	"matchTime": "19.11.2019 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Afghanistan",
+	"awayTeamName": "Qatar",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "41%",
+				"awayTeamValue": "59%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "81",
+				"awayTeamValue": "129"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "51",
+				"awayTeamValue": "103"
+			}
+		}
+	]
+}

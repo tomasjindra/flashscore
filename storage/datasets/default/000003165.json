@@ -1,0 +1,120 @@
+{
+	"country": "SOUTH AMERICA",
+	"league": "World Cup - Qualification - Round 5",
+	"matchTime": "11.10.2021 02:00",
+	"matchState": "Finished",
+	"homeTeamName": "Chile",
+	"awayTeamName": "Paraguay",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "61%",
+				"awayTeamValue": "39%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "453",
+				"awayTeamValue": "291"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "362",
+				"awayTeamValue": "191"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "133",
+				"awayTeamValue": "89"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "30"
+			}
+		}
+	]
+}

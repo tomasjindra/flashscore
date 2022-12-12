@@ -1,0 +1,114 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "09.10.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Philadelphia Union",
+	"awayTeamName": "Toronto FC",
+	"homeTeamScore": "4",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "51%",
+				"awayTeamValue": "49%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "402",
+				"awayTeamValue": "386"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "325",
+				"awayTeamValue": "308"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "79",
+				"awayTeamValue": "98"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "43"
+			}
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Third stage - Round 10",
+	"matchTime": "29.03.2022 15:45",
+	"matchState": "Finished",
+	"homeTeamName": "Syria",
+	"awayTeamName": "Iraq",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "39%",
+				"awayTeamValue": "61%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "269",
+				"awayTeamValue": "392"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "158",
+				"awayTeamValue": "300"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "87",
+				"awayTeamValue": "135"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "88"
+			}
+		}
+	]
+}

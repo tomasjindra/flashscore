@@ -1,0 +1,102 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "29.05.2022 01:00",
+	"matchState": "Finished",
+	"homeTeamName": "Toronto FC",
+	"awayTeamName": "Chicago Fire",
+	"homeTeamScore": "3",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "38%",
+				"awayTeamValue": "62%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "317",
+				"awayTeamValue": "498"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "79",
+				"awayTeamValue": "136"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "95"
+			}
+		}
+	]
+}

@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "12.11.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "New York Knicks",
+	"awayTeamName": "Detroit Pistons",
+	"homeTeamScore": "121",
+	"awayTeamScore": "112",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "94",
+				"awayTeamValue": "80"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "42",
+				"awayTeamValue": "37"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "44.7%",
+				"awayTeamValue": "46.3%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "54",
+				"awayTeamValue": "49"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "30"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "59.3%",
+				"awayTeamValue": "61.2%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "40",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "25%",
+				"awayTeamValue": "22.6%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "41"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "93.1%",
+				"awayTeamValue": "75.6%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "47",
+				"awayTeamValue": "43"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		}
+	]
+}

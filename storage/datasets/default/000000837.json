@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Group Stage - Round 2",
+	"matchTime": "15.09.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Braga",
+	"awayTeamName": "Union Berlin",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "52%",
+				"awayTeamValue": "48%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "466",
+				"awayTeamValue": "388"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "372",
+				"awayTeamValue": "294"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "110",
+				"awayTeamValue": "110"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "36"
+			}
+		}
+	]
+}

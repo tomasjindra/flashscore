@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 4",
+	"matchTime": "30.11.2022 18:30",
+	"matchState": "Finished",
+	"homeTeamName": "Peristeri",
+	"awayTeamName": "Rytas",
+	"homeTeamScore": "71",
+	"awayTeamScore": "82",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "64",
+				"awayTeamValue": "53"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "37.5%",
+				"awayTeamValue": "50.9%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "51.5%",
+				"awayTeamValue": "60.6%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "22.6%",
+				"awayTeamValue": "35%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "30"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "64%",
+				"awayTeamValue": "70%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "45"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "25"
+			}
+		}
+	]
+}

@@ -1,0 +1,120 @@
+{
+	"country": "FRANCE",
+	"league": "Ligue 1 - Round 6",
+	"matchTime": "04.09.2022 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Brest",
+	"awayTeamName": "Strasbourg",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "60%",
+				"awayTeamValue": "40%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "485",
+				"awayTeamValue": "340"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "400",
+				"awayTeamValue": "249"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "108",
+				"awayTeamValue": "91"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "51",
+				"awayTeamValue": "39"
+			}
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "26.06.2022 02:00",
+	"matchState": "Finished",
+	"homeTeamName": "Houston Dynamo",
+	"awayTeamName": "Chicago Fire",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "53%",
+				"awayTeamValue": "47%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "485",
+				"awayTeamValue": "428"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "417",
+				"awayTeamValue": "358"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "95",
+				"awayTeamValue": "100"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "38"
+			}
+		}
+	]
+}

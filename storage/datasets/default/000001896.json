@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Eurocup - Round 1",
+	"matchTime": "12.10.2022 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Cedevita Olimpija",
+	"awayTeamName": "Bursaspor",
+	"homeTeamScore": "73",
+	"awayTeamScore": "81",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "66",
+				"awayTeamValue": "60"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "39.4%",
+				"awayTeamValue": "46.7%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "51.6%",
+				"awayTeamValue": "51.7%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "28.6%",
+				"awayTeamValue": "41.9%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "68.8%",
+				"awayTeamValue": "63.2%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "41"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "21"
+			}
+		}
+	]
+}

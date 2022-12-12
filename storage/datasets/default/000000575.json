@@ -1,0 +1,120 @@
+{
+	"country": "ITALY",
+	"league": "Serie A - Round 2",
+	"matchTime": "20.08.2022 18:30",
+	"matchState": "Finished",
+	"homeTeamName": "Udinese",
+	"awayTeamName": "Salernitana",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "47%",
+				"awayTeamValue": "53%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "381",
+				"awayTeamValue": "412"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "281",
+				"awayTeamValue": "337"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "95",
+				"awayTeamValue": "106"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "50",
+				"awayTeamValue": "54"
+			}
+		}
+	]
+}

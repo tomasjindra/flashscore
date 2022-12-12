@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Group Stage - Round 3",
+	"matchTime": "04.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Liverpool",
+	"awayTeamName": "Rangers",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "61%",
+				"awayTeamValue": "39%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "584",
+				"awayTeamValue": "333"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "504",
+				"awayTeamValue": "258"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "116",
+				"awayTeamValue": "75"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "73",
+				"awayTeamValue": "17"
+			}
+		}
+	]
+}

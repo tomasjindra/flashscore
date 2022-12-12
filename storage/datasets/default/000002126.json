@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - Quarter-finals",
+	"matchTime": "28.07.2022 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Advancing to next roundSligo Rovers (Irl)",
+	"awayTeamName": "Motherwell (Sco)",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "45%",
+				"awayTeamValue": "55%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "42"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "86",
+				"awayTeamValue": "108"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "42",
+				"awayTeamValue": "49"
+			}
+		}
+	]
+}

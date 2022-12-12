@@ -1,0 +1,102 @@
+{
+	"country": "GERMANY",
+	"league": "Bundesliga - Round 4",
+	"matchTime": "27.08.2022 18:30",
+	"matchState": "Finished",
+	"homeTeamName": "Bayern Munich",
+	"awayTeamName": "B. Monchengladbach",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "63%",
+				"awayTeamValue": "37%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "613",
+				"awayTeamValue": "281"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "551",
+				"awayTeamValue": "197"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "155",
+				"awayTeamValue": "49"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "108",
+				"awayTeamValue": "7"
+			}
+		}
+	]
+}

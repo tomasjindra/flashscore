@@ -1,0 +1,90 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 9",
+	"matchTime": "30.03.2021 19:30",
+	"matchState": "Finished",
+	"homeTeamName": "Saudi Arabia",
+	"awayTeamName": "Palestine",
+	"homeTeamScore": "5",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "66%",
+				"awayTeamValue": "34%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "131",
+				"awayTeamValue": "61"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "73",
+				"awayTeamValue": "28"
+			}
+		}
+	]
+}

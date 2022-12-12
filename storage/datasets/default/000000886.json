@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Qualification - Semi-finals",
+	"matchTime": "11.08.2022 19:00",
+	"matchState": "Finished",
+	"homeTeamName": "Advancing to next roundZurich (Sui)",
+	"awayTeamName": "Linfield (Nir)",
+	"homeTeamScore": "3",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "54%",
+				"awayTeamValue": "46%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "127",
+				"awayTeamValue": "105"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "78",
+				"awayTeamValue": "60"
+			}
+		}
+	]
+}

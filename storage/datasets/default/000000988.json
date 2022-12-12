@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Group Stage - Round 1",
+	"matchTime": "06.09.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Salzburg",
+	"awayTeamName": "AC Milan",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "35%",
+				"awayTeamValue": "66%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "257",
+				"awayTeamValue": "499"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "189",
+				"awayTeamValue": "422"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "90",
+				"awayTeamValue": "108"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "44",
+				"awayTeamValue": "59"
+			}
+		}
+	]
+}

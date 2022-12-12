@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "UEFA Nations League - League A - Round 5",
+	"matchTime": "23.09.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Germany",
+	"awayTeamName": "Hungary",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "69%",
+				"awayTeamValue": "31%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "783",
+				"awayTeamValue": "300"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "680",
+				"awayTeamValue": "239"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "201",
+				"awayTeamValue": "65"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "63",
+				"awayTeamValue": "32"
+			}
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "22.05.2022 23:00",
+	"matchState": "Finished",
+	"homeTeamName": "New York City",
+	"awayTeamName": "Chicago Fire",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "62%",
+				"awayTeamValue": "38%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "493",
+				"awayTeamValue": "293"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "99",
+				"awayTeamValue": "105"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "49"
+			}
+		}
+	]
+}

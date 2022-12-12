@@ -1,0 +1,84 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Second stage - Round 1",
+	"matchTime": "03.09.2021 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Cameroon",
+	"awayTeamName": "Malawi",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "51%",
+				"awayTeamValue": "49%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "90",
+				"awayTeamValue": "79"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "40"
+			}
+		}
+	]
+}

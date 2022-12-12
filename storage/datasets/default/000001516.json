@@ -1,0 +1,114 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "19.06.2022 23:00",
+	"matchState": "Finished",
+	"homeTeamName": "New York City",
+	"awayTeamName": "Colorado Rapids",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "66%",
+				"awayTeamValue": "34%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Pass Success %": {
+				"homeTeamValue": "86",
+				"awayTeamValue": "63"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "529",
+				"awayTeamValue": "271"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "454",
+				"awayTeamValue": "170"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "109",
+				"awayTeamValue": "75"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "50",
+				"awayTeamValue": "32"
+			}
+		}
+	]
+}

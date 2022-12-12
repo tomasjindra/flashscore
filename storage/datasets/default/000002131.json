@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - Quarter-finals",
+	"matchTime": "28.07.2022 19:45",
+	"matchState": "Finished",
+	"homeTeamName": "Lechia Gdansk (Pol)",
+	"awayTeamName": "Rapid Vienna (Aut)Advancing to next round",
+	"homeTeamScore": "1",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "57%",
+				"awayTeamValue": "43%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "114",
+				"awayTeamValue": "105"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "80",
+				"awayTeamValue": "71"
+			}
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Second stage - Round 4",
+	"matchTime": "09.10.2021 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Guinea Bissau",
+	"awayTeamName": "Morocco",
+	"homeTeamScore": "0",
+	"awayTeamScore": "3",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "42%",
+				"awayTeamValue": "58%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "75",
+				"awayTeamValue": "110"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "41",
+				"awayTeamValue": "69"
+			}
+		}
+	]
+}

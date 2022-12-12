@@ -1,0 +1,114 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "01.09.2022 03:00",
+	"matchState": "Finished",
+	"homeTeamName": "Austin FC",
+	"awayTeamName": "Portland Timbers",
+	"homeTeamScore": "1",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "71%",
+				"awayTeamValue": "29%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "505",
+				"awayTeamValue": "212"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "442",
+				"awayTeamValue": "146"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "118",
+				"awayTeamValue": "66"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "79",
+				"awayTeamValue": "21"
+			}
+		}
+	]
+}

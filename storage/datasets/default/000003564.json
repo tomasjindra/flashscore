@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "27.03.2021 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Norway",
+	"awayTeamName": "Turkey",
+	"homeTeamScore": "0",
+	"awayTeamScore": "3",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "58%",
+				"awayTeamValue": "42%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "619",
+				"awayTeamValue": "438"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "544",
+				"awayTeamValue": "362"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "153",
+				"awayTeamValue": "83"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "64",
+				"awayTeamValue": "23"
+			}
+		}
+	]
+}

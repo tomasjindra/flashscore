@@ -1,0 +1,90 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 4",
+	"matchTime": "15.10.2019 14:00",
+	"matchState": "Finished",
+	"homeTeamName": "Philippines",
+	"awayTeamName": "China",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "41%",
+				"awayTeamValue": "59%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "102",
+				"awayTeamValue": "131"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "50",
+				"awayTeamValue": "96"
+			}
+		}
+	]
+}

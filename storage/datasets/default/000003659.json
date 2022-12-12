@@ -1,0 +1,78 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 4",
+	"matchTime": "15.10.2019 18:30",
+	"matchState": "Finished",
+	"homeTeamName": "Qatar",
+	"awayTeamName": "Oman",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "54%",
+				"awayTeamValue": "46%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "98",
+				"awayTeamValue": "90"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "73",
+				"awayTeamValue": "68"
+			}
+		}
+	]
+}

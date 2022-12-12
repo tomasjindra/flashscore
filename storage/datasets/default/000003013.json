@@ -1,0 +1,84 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Second stage - Round 6",
+	"matchTime": "16.11.2021 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Tunisia",
+	"awayTeamName": "Zambia",
+	"homeTeamScore": "3",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "53%",
+				"awayTeamValue": "47%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "102",
+				"awayTeamValue": "90"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "59",
+				"awayTeamValue": "53"
+			}
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Third stage - Round 1",
+	"matchTime": "02.09.2021 12:14",
+	"matchState": "Finished",
+	"homeTeamName": "Japan",
+	"awayTeamName": "Oman",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "65%",
+				"awayTeamValue": "35%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "525",
+				"awayTeamValue": "278"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "428",
+				"awayTeamValue": "176"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "105",
+				"awayTeamValue": "71"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "85",
+				"awayTeamValue": "65"
+			}
+		}
+	]
+}

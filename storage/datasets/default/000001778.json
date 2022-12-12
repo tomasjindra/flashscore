@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Euroleague - Round 7",
+	"matchTime": "09.11.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Olimpia Milano",
+	"awayTeamName": "Virtus Bologna",
+	"homeTeamScore": "59",
+	"awayTeamScore": "64",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "49",
+				"awayTeamValue": "59"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "40.8%",
+				"awayTeamValue": "40.7%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "51.7%",
+				"awayTeamValue": "42.9%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "25%",
+				"awayTeamValue": "37.5%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "58.3%",
+				"awayTeamValue": "58.3%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "37"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "21"
+			}
+		}
+	]
+}

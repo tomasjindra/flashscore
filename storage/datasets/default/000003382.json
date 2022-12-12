@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "01.09.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Latvia",
+	"awayTeamName": "Gibraltar",
+	"homeTeamScore": "3",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "61%",
+				"awayTeamValue": "39%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "468",
+				"awayTeamValue": "284"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "385",
+				"awayTeamValue": "194"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "135",
+				"awayTeamValue": "80"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "47",
+				"awayTeamValue": "14"
+			}
+		}
+	]
+}

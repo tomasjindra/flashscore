@@ -1,0 +1,108 @@
+{
+	"country": "SOUTH AMERICA",
+	"league": "World Cup - Qualification - Round 2",
+	"matchTime": "14.10.2020 00:00",
+	"matchState": "Finished",
+	"homeTeamName": "Venezuela",
+	"awayTeamName": "Paraguay",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "33%",
+				"awayTeamValue": "67%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "274",
+				"awayTeamValue": "565"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "68",
+				"awayTeamValue": "125"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "42"
+			}
+		}
+	]
+}

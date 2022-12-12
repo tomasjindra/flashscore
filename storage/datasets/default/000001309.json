@@ -1,0 +1,120 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "11.09.2022 02:30",
+	"matchState": "Finished",
+	"homeTeamName": "Houston Dynamo",
+	"awayTeamName": "Sporting Kansas City",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "37%",
+				"awayTeamValue": "63%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "305",
+				"awayTeamValue": "521"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "244",
+				"awayTeamValue": "465"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "73",
+				"awayTeamValue": "120"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "70"
+			}
+		}
+	]
+}

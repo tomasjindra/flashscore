@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 2",
+	"matchTime": "11.10.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Limoges",
+	"awayTeamName": "Benfica",
+	"homeTeamScore": "67",
+	"awayTeamScore": "68",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "57",
+				"awayTeamValue": "58"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "47.4%",
+				"awayTeamValue": "37.9%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "40",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "55%",
+				"awayTeamValue": "36%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "29.4%",
+				"awayTeamValue": "39.4%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "66.7%",
+				"awayTeamValue": "57.9%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "13"
+			}
+		}
+	]
+}

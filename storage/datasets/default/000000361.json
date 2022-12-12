@@ -1,0 +1,108 @@
+{
+	"country": "GERMANY",
+	"league": "Bundesliga - Round 8",
+	"matchTime": "01.10.2022 15:30",
+	"matchState": "Finished",
+	"homeTeamName": "Eintracht Frankfurt",
+	"awayTeamName": "Union Berlin",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "50%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "444",
+				"awayTeamValue": "475"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "364",
+				"awayTeamValue": "385"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "97",
+				"awayTeamValue": "112"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "75"
+			}
+		}
+	]
+}

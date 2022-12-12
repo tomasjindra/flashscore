@@ -1,0 +1,114 @@
+{
+	"country": "SPAIN",
+	"league": "LaLiga - Round 11",
+	"matchTime": "23.10.2022 16:15",
+	"matchState": "Finished",
+	"homeTeamName": "Betis",
+	"awayTeamName": "Atl. Madrid",
+	"homeTeamScore": "1",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "55%",
+				"awayTeamValue": "45%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "562",
+				"awayTeamValue": "464"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "475",
+				"awayTeamValue": "384"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "130",
+				"awayTeamValue": "114"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "36"
+			}
+		}
+	]
+}

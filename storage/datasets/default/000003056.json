@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "13.11.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Belgium",
+	"awayTeamName": "Estonia",
+	"homeTeamScore": "3",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "75%",
+				"awayTeamValue": "25%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "882",
+				"awayTeamValue": "205"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "801",
+				"awayTeamValue": "131"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "178",
+				"awayTeamValue": "54"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "72",
+				"awayTeamValue": "28"
+			}
+		}
+	]
+}

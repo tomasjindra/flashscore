@@ -1,0 +1,114 @@
+{
+	"country": "ITALY",
+	"league": "Serie A - Round 8",
+	"matchTime": "01.10.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Inter",
+	"awayTeamName": "AS Roma",
+	"homeTeamScore": "1",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "58%",
+				"awayTeamValue": "42%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "541",
+				"awayTeamValue": "404"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "465",
+				"awayTeamValue": "335"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "122",
+				"awayTeamValue": "73"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "44",
+				"awayTeamValue": "19"
+			}
+		}
+	]
+}

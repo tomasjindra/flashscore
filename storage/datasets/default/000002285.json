@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 4",
+	"matchTime": "30.11.2022 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Hapoel Jerusalem",
+	"awayTeamName": "Bakken Bears",
+	"homeTeamScore": "89",
+	"awayTeamScore": "80",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "58",
+				"awayTeamValue": "65"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "30"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "51.7%",
+				"awayTeamValue": "46.2%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "44"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "61.3%",
+				"awayTeamValue": "52.3%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "40.7%",
+				"awayTeamValue": "33.3%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "60%",
+				"awayTeamValue": "76.5%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "20"
+			}
+		}
+	]
+}

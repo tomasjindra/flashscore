@@ -1,0 +1,120 @@
+{
+	"country": "ENGLAND",
+	"league": "Premier League - Round 9",
+	"matchTime": "02.10.2022 17:30",
+	"matchState": "Finished",
+	"homeTeamName": "Leeds",
+	"awayTeamName": "Aston Villa",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "44%",
+				"awayTeamValue": "56%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "375",
+				"awayTeamValue": "479"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "270",
+				"awayTeamValue": "370"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "79",
+				"awayTeamValue": "138"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "53"
+			}
+		}
+	]
+}

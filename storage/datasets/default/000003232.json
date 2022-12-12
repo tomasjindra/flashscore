@@ -1,0 +1,78 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Second stage - Round 3",
+	"matchTime": "07.10.2021 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Nigeria",
+	"awayTeamName": "Central Africa",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "67%",
+				"awayTeamValue": "33%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "96",
+				"awayTeamValue": "69"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "99",
+				"awayTeamValue": "41"
+			}
+		}
+	]
+}

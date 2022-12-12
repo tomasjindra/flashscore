@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "08.10.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Iceland",
+	"awayTeamName": "Armenia",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "51%",
+				"awayTeamValue": "49%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "489",
+				"awayTeamValue": "432"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "408",
+				"awayTeamValue": "346"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "117",
+				"awayTeamValue": "108"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "44",
+				"awayTeamValue": "40"
+			}
+		}
+	]
+}

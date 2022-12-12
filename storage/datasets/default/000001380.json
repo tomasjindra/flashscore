@@ -1,0 +1,114 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "14.08.2022 04:30",
+	"matchState": "Finished",
+	"homeTeamName": "Los Angeles FC",
+	"awayTeamName": "Charlotte",
+	"homeTeamScore": "5",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "52%",
+				"awayTeamValue": "48%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "496",
+				"awayTeamValue": "450"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "415",
+				"awayTeamValue": "368"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "124",
+				"awayTeamValue": "96"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "29"
+			}
+		}
+	]
+}

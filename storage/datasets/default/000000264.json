@@ -1,0 +1,114 @@
+{
+	"country": "FRANCE",
+	"league": "Ligue 1 - Round 4",
+	"matchTime": "28.08.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Paris SG",
+	"awayTeamName": "Monaco",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "67%",
+				"awayTeamValue": "33%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "693",
+				"awayTeamValue": "341"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "636",
+				"awayTeamValue": "271"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "128",
+				"awayTeamValue": "79"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "53",
+				"awayTeamValue": "28"
+			}
+		}
+	]
+}

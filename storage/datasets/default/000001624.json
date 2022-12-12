@@ -1,0 +1,102 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "24.04.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "DC United",
+	"awayTeamName": "New England Revolution",
+	"homeTeamScore": "3",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "32%",
+				"awayTeamValue": "68%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "259",
+				"awayTeamValue": "523"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "85",
+				"awayTeamValue": "138"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "54"
+			}
+		}
+	]
+}

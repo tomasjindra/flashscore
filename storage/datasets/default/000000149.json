@@ -1,0 +1,114 @@
+{
+	"country": "FRANCE",
+	"league": "Ligue 1 - Round 15",
+	"matchTime": "13.11.2022 17:05",
+	"matchState": "Finished",
+	"homeTeamName": "Strasbourg",
+	"awayTeamName": "Lorient",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "61%",
+				"awayTeamValue": "39%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "609",
+				"awayTeamValue": "405"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "517",
+				"awayTeamValue": "307"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "177",
+				"awayTeamValue": "75"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "90",
+				"awayTeamValue": "31"
+			}
+		}
+	]
+}

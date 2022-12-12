@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Euroleague - Round 9",
+	"matchTime": "22.11.2022 20:00",
+	"matchState": "After Overtime",
+	"homeTeamName": "Alba Berlin",
+	"awayTeamName": "Crvena zvezda mts",
+	"homeTeamScore": "84",
+	"awayTeamScore": "88",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "64",
+				"awayTeamValue": "75"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "45.3%",
+				"awayTeamValue": "45.3%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "48"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "56.3%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "40.6%",
+				"awayTeamValue": "25.9%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "52%",
+				"awayTeamValue": "92.9%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "38"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "25"
+			}
+		}
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 8",
+	"matchTime": "11.06.2021 16:30",
+	"matchState": "Finished",
+	"homeTeamName": "Cambodia",
+	"awayTeamName": "Iran",
+	"homeTeamScore": "0",
+	"awayTeamScore": "10",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "34%",
+				"awayTeamValue": "66%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "53",
+				"awayTeamValue": "107"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "74"
+			}
+		}
+	]
+}

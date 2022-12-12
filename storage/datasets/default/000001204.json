@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "UEFA Nations League - League A - Round 2",
+	"matchTime": "05.06.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Portugal",
+	"awayTeamName": "Switzerland",
+	"homeTeamScore": "4",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "54%",
+				"awayTeamValue": "46%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "509",
+				"awayTeamValue": "412"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "451",
+				"awayTeamValue": "341"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "95",
+				"awayTeamValue": "116"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "41",
+				"awayTeamValue": "46"
+			}
+		}
+	]
+}

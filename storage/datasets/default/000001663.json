@@ -1,0 +1,102 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "03.04.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "San Jose Earthquakes",
+	"awayTeamName": "Austin FC",
+	"homeTeamScore": "2",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "64%",
+				"awayTeamValue": "36%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "489",
+				"awayTeamValue": "283"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "124",
+				"awayTeamValue": "57"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "69",
+				"awayTeamValue": "27"
+			}
+		}
+	]
+}

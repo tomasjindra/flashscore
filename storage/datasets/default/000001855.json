@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Eurocup - Round 6",
+	"matchTime": "29.11.2022 20:15",
+	"matchState": "Finished",
+	"homeTeamName": "Joventut Badalona",
+	"awayTeamName": "JL Bourg",
+	"homeTeamScore": "80",
+	"awayTeamScore": "85",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "58",
+				"awayTeamValue": "63"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "53.4%",
+				"awayTeamValue": "49.2%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "65.7%",
+				"awayTeamValue": "58.8%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "34.8%",
+				"awayTeamValue": "37.9%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "83.3%",
+				"awayTeamValue": "75%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "30"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "20"
+			}
+		}
+	]
+}

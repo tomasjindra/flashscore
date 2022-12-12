@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "04.11.2022 00:00",
+	"matchState": "Finished",
+	"homeTeamName": "Orlando Magic",
+	"awayTeamName": "Golden State Warriors",
+	"homeTeamScore": "130",
+	"awayTeamScore": "129",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "78",
+				"awayTeamValue": "97"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "42",
+				"awayTeamValue": "50"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "53.8%",
+				"awayTeamValue": "51.5%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "48",
+				"awayTeamValue": "54"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "60.4%",
+				"awayTeamValue": "57.4%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "43"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "43.3%",
+				"awayTeamValue": "44.2%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "46",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "71.7%",
+				"awayTeamValue": "66.7%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "46",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		}
+	]
+}

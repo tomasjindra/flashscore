@@ -1,0 +1,120 @@
+{
+	"country": "SOUTH AMERICA",
+	"league": "World Cup - Qualification - Round 5",
+	"matchTime": "10.10.2021 22:00",
+	"matchState": "Finished",
+	"homeTeamName": "Bolivia",
+	"awayTeamName": "Peru",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "56%",
+				"awayTeamValue": "44%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "334",
+				"awayTeamValue": "270"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "280",
+				"awayTeamValue": "215"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "93",
+				"awayTeamValue": "52"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "52",
+				"awayTeamValue": "19"
+			}
+		}
+	]
+}

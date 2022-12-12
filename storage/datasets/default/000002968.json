@@ -1,0 +1,120 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Third stage - Round 8",
+	"matchTime": "01.02.2022 15:30",
+	"matchState": "Finished",
+	"homeTeamName": "Iran",
+	"awayTeamName": "United Arab Emirates",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "40%",
+				"awayTeamValue": "60%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "357",
+				"awayTeamValue": "537"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "270",
+				"awayTeamValue": "460"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "103",
+				"awayTeamValue": "124"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "37"
+			}
+		}
+	]
+}

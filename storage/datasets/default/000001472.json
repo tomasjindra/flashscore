@@ -1,0 +1,108 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "10.07.2022 01:00",
+	"matchState": "Finished",
+	"homeTeamName": "Atlanta Utd",
+	"awayTeamName": "Austin FC",
+	"homeTeamScore": "0",
+	"awayTeamScore": "3",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "62%",
+				"awayTeamValue": "38%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "553",
+				"awayTeamValue": "334"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "474",
+				"awayTeamValue": "252"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "131",
+				"awayTeamValue": "69"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "65",
+				"awayTeamValue": "46"
+			}
+		}
+	]
+}

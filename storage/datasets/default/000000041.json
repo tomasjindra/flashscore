@@ -1,0 +1,114 @@
+{
+	"country": "ENGLAND",
+	"league": "Premier League - Round 12",
+	"matchTime": "20.10.2022 21:15",
+	"matchState": "Finished",
+	"homeTeamName": "Leicester",
+	"awayTeamName": "Leeds",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "47%",
+				"awayTeamValue": "53%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "461",
+				"awayTeamValue": "518"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "361",
+				"awayTeamValue": "406"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "30"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "99",
+				"awayTeamValue": "115"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "41",
+				"awayTeamValue": "33"
+			}
+		}
+	]
+}

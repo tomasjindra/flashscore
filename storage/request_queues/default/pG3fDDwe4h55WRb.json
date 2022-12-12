@@ -1,0 +1,9 @@
+{
+	"id": "pG3fDDwe4h55WRb",
+	"json": "{\"id\":\"pG3fDDwe4h55WRb\",\"url\":\"https://www.livesport.com//en/nba/results\",\"loadedUrl\":\"https://www.livesport.com/en/nba/results/\",\"uniqueKey\":\"https://www.livesport.com//en/nba/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"league\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:46.520Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com//en/nba/results",
+	"url": "https://www.livesport.com//en/nba/results"
+}

@@ -1,0 +1,108 @@
+{
+	"country": "SOUTH AMERICA",
+	"league": "World Cup - Qualification - Round 7",
+	"matchTime": "03.06.2021 22:00",
+	"matchState": "Finished",
+	"homeTeamName": "Bolivia",
+	"awayTeamName": "Venezuela",
+	"homeTeamScore": "3",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "53%",
+				"awayTeamValue": "47%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "396",
+				"awayTeamValue": "362"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "110",
+				"awayTeamValue": "86"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "62",
+				"awayTeamValue": "26"
+			}
+		}
+	]
+}

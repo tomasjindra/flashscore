@@ -1,0 +1,120 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Group Stage - Round 2",
+	"matchTime": "15.09.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "AS Roma",
+	"awayTeamName": "HJK",
+	"homeTeamScore": "3",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "62%",
+				"awayTeamValue": "38%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "615",
+				"awayTeamValue": "295"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "542",
+				"awayTeamValue": "221"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "128",
+				"awayTeamValue": "56"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "99",
+				"awayTeamValue": "6"
+			}
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "09.04.2022 22:00",
+	"matchState": "Finished",
+	"homeTeamName": "New York Red Bulls",
+	"awayTeamName": "CF Montreal",
+	"homeTeamScore": "1",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "50%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "395",
+				"awayTeamValue": "399"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "116",
+				"awayTeamValue": "91"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "52",
+				"awayTeamValue": "28"
+			}
+		}
+	]
+}

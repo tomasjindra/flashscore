@@ -1,0 +1,108 @@
+{
+	"country": "USA",
+	"league": "MLS",
+	"matchTime": "03.07.2022 04:00",
+	"matchState": "Finished",
+	"homeTeamName": "Vancouver Whitecaps",
+	"awayTeamName": "Los Angeles FC",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "42%",
+				"awayTeamValue": "58%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "386",
+				"awayTeamValue": "565"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "316",
+				"awayTeamValue": "468"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "94",
+				"awayTeamValue": "99"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "53",
+				"awayTeamValue": "43"
+			}
+		}
+	]
+}

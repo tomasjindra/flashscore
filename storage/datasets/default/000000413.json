@@ -1,0 +1,108 @@
+{
+	"country": "GERMANY",
+	"league": "Bundesliga - Round 3",
+	"matchTime": "19.08.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "B. Monchengladbach",
+	"awayTeamName": "Hertha Berlin",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "59%",
+				"awayTeamValue": "41%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "590",
+				"awayTeamValue": "307"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "501",
+				"awayTeamValue": "236"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "106",
+				"awayTeamValue": "81"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "41",
+				"awayTeamValue": "36"
+			}
+		}
+	]
+}

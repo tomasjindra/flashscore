@@ -1,0 +1,102 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - Semi-finals",
+	"matchTime": "11.08.2022 20:30",
+	"matchState": "After Extra Time",
+	"homeTeamName": "Advancing to next roundLech Poznan (Pol)",
+	"awayTeamName": "Vikingur Reykjavik (Ice)",
+	"homeTeamScore": "4",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "54%",
+				"awayTeamValue": "46%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "38"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "140",
+				"awayTeamValue": "111"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "73",
+				"awayTeamValue": "49"
+			}
+		}
+	]
+}

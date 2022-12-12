@@ -1,0 +1,114 @@
+{
+	"country": "FRANCE",
+	"league": "Ligue 1 - Round 7",
+	"matchTime": "11.09.2022 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Angers",
+	"awayTeamName": "Montpellier",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "45%",
+				"awayTeamValue": "55%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "374",
+				"awayTeamValue": "458"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "289",
+				"awayTeamValue": "370"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "108",
+				"awayTeamValue": "97"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "37",
+				"awayTeamValue": "42"
+			}
+		}
+	]
+}

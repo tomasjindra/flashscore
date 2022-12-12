@@ -1,0 +1,114 @@
+{
+	"country": "SOUTH AMERICA",
+	"league": "World Cup - Qualification - Round 18",
+	"matchTime": "30.03.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "Venezuela",
+	"awayTeamName": "Colombia",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "46%",
+				"awayTeamValue": "54%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "342",
+				"awayTeamValue": "425"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "268",
+				"awayTeamValue": "343"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "87",
+				"awayTeamValue": "110"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "50",
+				"awayTeamValue": "49"
+			}
+		}
+	]
+}

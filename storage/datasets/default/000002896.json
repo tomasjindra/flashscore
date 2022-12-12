@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification - Promotion - Final",
+	"matchTime": "05.06.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "WinnerWales",
+	"awayTeamName": "Ukraine",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "37%",
+				"awayTeamValue": "63%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "260",
+				"awayTeamValue": "580"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "189",
+				"awayTeamValue": "502"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "100",
+				"awayTeamValue": "132"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "47",
+				"awayTeamValue": "61"
+			}
+		}
+	]
+}

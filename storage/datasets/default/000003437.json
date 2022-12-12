@@ -1,0 +1,96 @@
+{
+	"country": "NORTH & CENTRAL AMERICA",
+	"league": "World Cup - Qualification - First stage",
+	"matchTime": "09.06.2021 03:05",
+	"matchState": "Finished",
+	"homeTeamName": "Panama",
+	"awayTeamName": "Dominican Republic",
+	"homeTeamScore": "3",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "53%",
+				"awayTeamValue": "47%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "77",
+				"awayTeamValue": "61"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "45",
+				"awayTeamValue": "36"
+			}
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"country": "ITALY",
+	"league": "Serie A - Round 3",
+	"matchTime": "28.08.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Lecce",
+	"awayTeamName": "Empoli",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "40%",
+				"awayTeamValue": "60%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "302",
+				"awayTeamValue": "464"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "234",
+				"awayTeamValue": "370"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "117",
+				"awayTeamValue": "92"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "51",
+				"awayTeamValue": "24"
+			}
+		}
+	]
+}

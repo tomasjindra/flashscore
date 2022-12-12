@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Group Stage - Round 3",
+	"matchTime": "05.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Manchester City",
+	"awayTeamName": "FC Copenhagen",
+	"homeTeamScore": "5",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "73%",
+				"awayTeamValue": "27%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "855",
+				"awayTeamValue": "274"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "799",
+				"awayTeamValue": "211"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "165",
+				"awayTeamValue": "55"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "91",
+				"awayTeamValue": "9"
+			}
+		}
+	]
+}

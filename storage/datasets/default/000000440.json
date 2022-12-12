@@ -1,0 +1,114 @@
+{
+	"country": "ITALY",
+	"league": "Serie A - Round 15",
+	"matchTime": "12.11.2022 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Napoli",
+	"awayTeamName": "Udinese",
+	"homeTeamScore": "3",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "64%",
+				"awayTeamValue": "36%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "642",
+				"awayTeamValue": "369"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "552",
+				"awayTeamValue": "295"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "126",
+				"awayTeamValue": "95"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "42",
+				"awayTeamValue": "30"
+			}
+		}
+	]
+}

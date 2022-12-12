@@ -1,0 +1,120 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Group Stage - Round 4",
+	"matchTime": "12.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Sporting CP",
+	"awayTeamName": "Marseille",
+	"homeTeamScore": "0",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "34%",
+				"awayTeamValue": "66%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "291",
+				"awayTeamValue": "648"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "230",
+				"awayTeamValue": "598"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "44",
+				"awayTeamValue": "125"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "40"
+			}
+		}
+	]
+}

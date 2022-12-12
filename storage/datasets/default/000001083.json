@@ -1,0 +1,120 @@
+{
+	"country": "EUROPE",
+	"league": "UEFA Nations League - League B - Round 6",
+	"matchTime": "27.09.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Albania",
+	"awayTeamName": "Iceland",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "58%",
+				"awayTeamValue": "42%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "461",
+				"awayTeamValue": "298"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "383",
+				"awayTeamValue": "215"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "118",
+				"awayTeamValue": "83"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "65",
+				"awayTeamValue": "28"
+			}
+		}
+	]
+}

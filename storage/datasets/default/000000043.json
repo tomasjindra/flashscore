@@ -1,0 +1,114 @@
+{
+	"country": "ENGLAND",
+	"league": "Premier League - Round 12",
+	"matchTime": "19.10.2022 21:15",
+	"matchState": "Finished",
+	"homeTeamName": "Manchester Utd",
+	"awayTeamName": "Tottenham",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "52%",
+				"awayTeamValue": "48%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "583",
+				"awayTeamValue": "528"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "498",
+				"awayTeamValue": "445"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "134",
+				"awayTeamValue": "95"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "60",
+				"awayTeamValue": "35"
+			}
+		}
+	]
+}

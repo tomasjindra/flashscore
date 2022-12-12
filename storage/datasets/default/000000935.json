@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Group Stage - Round 4",
+	"matchTime": "12.10.2022 18:45",
+	"matchState": "Finished",
+	"homeTeamName": "Napoli",
+	"awayTeamName": "Ajax",
+	"homeTeamScore": "4",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "44%",
+				"awayTeamValue": "56%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "436",
+				"awayTeamValue": "539"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "390",
+				"awayTeamValue": "482"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "75",
+				"awayTeamValue": "125"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "37",
+				"awayTeamValue": "45"
+			}
+		}
+	]
+}

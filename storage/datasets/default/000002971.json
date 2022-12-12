@@ -1,0 +1,114 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Third stage - Round 8",
+	"matchTime": "01.02.2022 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Syria",
+	"awayTeamName": "South Korea",
+	"homeTeamScore": "0",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "32%",
+				"awayTeamValue": "68%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "266",
+				"awayTeamValue": "560"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "180",
+				"awayTeamValue": "488"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "60",
+				"awayTeamValue": "133"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "50"
+			}
+		}
+	]
+}

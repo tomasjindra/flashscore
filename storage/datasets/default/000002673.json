@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "31.10.2022 02:00",
+	"matchState": "Finished",
+	"homeTeamName": "Phoenix Suns",
+	"awayTeamName": "Houston Rockets",
+	"homeTeamScore": "124",
+	"awayTeamScore": "109",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "84",
+				"awayTeamValue": "87"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "45",
+				"awayTeamValue": "38"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "53.6%",
+				"awayTeamValue": "43.7%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "44",
+				"awayTeamValue": "53"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "75%",
+				"awayTeamValue": "50.9%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "40",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "30%",
+				"awayTeamValue": "32.4%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "73.3%",
+				"awayTeamValue": "84.6%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "49"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		}
+	]
+}

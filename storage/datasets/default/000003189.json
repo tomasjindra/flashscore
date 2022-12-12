@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "09.10.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Moldova",
+	"awayTeamName": "Denmark",
+	"homeTeamScore": "0",
+	"awayTeamScore": "4",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "36%",
+				"awayTeamValue": "64%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "317",
+				"awayTeamValue": "726"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "208",
+				"awayTeamValue": "621"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "68",
+				"awayTeamValue": "163"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "54"
+			}
+		}
+	]
+}

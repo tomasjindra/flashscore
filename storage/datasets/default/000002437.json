@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "03.12.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "Atlanta Hawks",
+	"awayTeamName": "Denver Nuggets",
+	"homeTeamScore": "117",
+	"awayTeamScore": "109",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "88",
+				"awayTeamValue": "85"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "49",
+				"awayTeamValue": "45"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "55.7%",
+				"awayTeamValue": "52.9%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "60",
+				"awayTeamValue": "53"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "65%",
+				"awayTeamValue": "62.3%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "35.7%",
+				"awayTeamValue": "37.5%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "64.3%",
+				"awayTeamValue": "53.8%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		}
+	]
+}

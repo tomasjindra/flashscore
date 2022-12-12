@@ -1,0 +1,114 @@
+{
+	"country": "NORTH & CENTRAL AMERICA",
+	"league": "World Cup - Qualification - Third stage - Round 2",
+	"matchTime": "06.09.2021 01:00",
+	"matchState": "Finished",
+	"homeTeamName": "Costa Rica",
+	"awayTeamName": "Mexico",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "50%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "431",
+				"awayTeamValue": "428"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "359",
+				"awayTeamValue": "356"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "95",
+				"awayTeamValue": "79"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "55",
+				"awayTeamValue": "49"
+			}
+		}
+	]
+}

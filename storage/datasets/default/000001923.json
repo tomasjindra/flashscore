@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Group Stage - Round 5",
+	"matchTime": "28.10.2022 13:00",
+	"matchState": "Finished",
+	"homeTeamName": "Slovacko",
+	"awayTeamName": "FC Koln",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "45%",
+				"awayTeamValue": "55%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "337",
+				"awayTeamValue": "440"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "238",
+				"awayTeamValue": "340"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "92",
+				"awayTeamValue": "97"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "41",
+				"awayTeamValue": "48"
+			}
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 4",
+	"matchTime": "15.10.2019 14:00",
+	"matchState": "Finished",
+	"homeTeamName": "Thailand",
+	"awayTeamName": "United Arab Emirates",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "61%",
+				"awayTeamValue": "39%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "118",
+				"awayTeamValue": "88"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "85",
+				"awayTeamValue": "40"
+			}
+		}
+	]
+}

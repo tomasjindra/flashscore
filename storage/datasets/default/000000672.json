@@ -1,0 +1,114 @@
+{
+	"country": "SPAIN",
+	"league": "LaLiga - Round 5",
+	"matchTime": "11.09.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Betis",
+	"awayTeamName": "Villarreal",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "47%",
+				"awayTeamValue": "53%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "376",
+				"awayTeamValue": "412"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "321",
+				"awayTeamValue": "356"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "67",
+				"awayTeamValue": "64"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "41"
+			}
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Group Stage - Round 4",
+	"matchTime": "13.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Manchester Utd",
+	"awayTeamName": "Omonia",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "72%",
+				"awayTeamValue": "28%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "765",
+				"awayTeamValue": "217"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "678",
+				"awayTeamValue": "142"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "194",
+				"awayTeamValue": "37"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "98",
+				"awayTeamValue": "13"
+			}
+		}
+	]
+}

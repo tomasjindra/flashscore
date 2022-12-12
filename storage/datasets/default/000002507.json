@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "24.11.2022 01:00",
+	"matchState": "Finished",
+	"homeTeamName": "Cleveland Cavaliers",
+	"awayTeamName": "Portland Trail Blazers",
+	"homeTeamScore": "114",
+	"awayTeamScore": "96",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "74",
+				"awayTeamValue": "78"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "41",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "55.4%",
+				"awayTeamValue": "44.9%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "47",
+				"awayTeamValue": "47"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "61.7%",
+				"awayTeamValue": "46.8%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "44.4%",
+				"awayTeamValue": "41.9%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "87%",
+				"awayTeamValue": "100%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		}
+	]
+}

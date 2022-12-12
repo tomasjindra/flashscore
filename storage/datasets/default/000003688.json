@@ -1,0 +1,96 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 3",
+	"matchTime": "10.10.2019 13:00",
+	"matchState": "Finished",
+	"homeTeamName": "South Korea",
+	"awayTeamName": "Sri Lanka",
+	"homeTeamScore": "8",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "65%",
+				"awayTeamValue": "35%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "120",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "89",
+				"awayTeamValue": "6"
+			}
+		}
+	]
+}

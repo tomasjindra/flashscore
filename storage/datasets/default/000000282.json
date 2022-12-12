@@ -1,0 +1,114 @@
+{
+	"country": "FRANCE",
+	"league": "Ligue 1 - Round 2",
+	"matchTime": "14.08.2022 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Troyes",
+	"awayTeamName": "Toulouse",
+	"homeTeamScore": "0",
+	"awayTeamScore": "3",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "32%",
+				"awayTeamValue": "68%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "266",
+				"awayTeamValue": "576"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "204",
+				"awayTeamValue": "500"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "79",
+				"awayTeamValue": "106"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "46"
+			}
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"country": "SPAIN",
+	"league": "LaLiga - Round 5",
+	"matchTime": "11.09.2022 18:30",
+	"matchState": "Finished",
+	"homeTeamName": "Getafe",
+	"awayTeamName": "Real Sociedad",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "33%",
+				"awayTeamValue": "67%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "250",
+				"awayTeamValue": "502"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "171",
+				"awayTeamValue": "424"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "86",
+				"awayTeamValue": "97"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "43"
+			}
+		}
+	]
+}

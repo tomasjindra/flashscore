@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Eurocup - Round 4",
+	"matchTime": "02.11.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Lietkabelis",
+	"awayTeamName": "Cluj-Napoca",
+	"homeTeamScore": "89",
+	"awayTeamScore": "84",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "71",
+				"awayTeamValue": "66"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "49.3%",
+				"awayTeamValue": "47%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "46",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "62.9%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "48%",
+				"awayTeamValue": "29%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "53.8%",
+				"awayTeamValue": "54.2%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "20"
+			}
+		}
+	]
+}

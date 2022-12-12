@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Group Stage - Round 4",
+	"matchTime": "13.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "PSV",
+	"awayTeamName": "Zurich",
+	"homeTeamScore": "5",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "49%",
+				"awayTeamValue": "51%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "462",
+				"awayTeamValue": "449"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "382",
+				"awayTeamValue": "362"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "112",
+				"awayTeamValue": "97"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "63",
+				"awayTeamValue": "37"
+			}
+		}
+	]
+}

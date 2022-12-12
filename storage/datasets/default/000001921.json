@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Group Stage - Round 5",
+	"matchTime": "27.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Basel",
+	"awayTeamName": "Zalgiris",
+	"homeTeamScore": "2",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "58%",
+				"awayTeamValue": "42%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "486",
+				"awayTeamValue": "381"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "423",
+				"awayTeamValue": "322"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "92",
+				"awayTeamValue": "57"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "52",
+				"awayTeamValue": "34"
+			}
+		}
+	]
+}

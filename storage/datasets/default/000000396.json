@@ -1,0 +1,102 @@
+{
+	"country": "GERMANY",
+	"league": "Bundesliga - Round 4",
+	"matchTime": "28.08.2022 17:30",
+	"matchState": "Finished",
+	"homeTeamName": "Werder Bremen",
+	"awayTeamName": "Eintracht Frankfurt",
+	"homeTeamScore": "3",
+	"awayTeamScore": "4",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "55%",
+				"awayTeamValue": "45%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "463",
+				"awayTeamValue": "354"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "369",
+				"awayTeamValue": "270"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "113",
+				"awayTeamValue": "96"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "43"
+			}
+		}
+	]
+}

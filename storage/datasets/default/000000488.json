@@ -1,0 +1,114 @@
+{
+	"country": "ITALY",
+	"league": "Serie A - Round 10",
+	"matchTime": "16.10.2022 12:30",
+	"matchState": "Finished",
+	"homeTeamName": "Inter",
+	"awayTeamName": "Salernitana",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "62%",
+				"awayTeamValue": "38%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "531",
+				"awayTeamValue": "330"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "467",
+				"awayTeamValue": "267"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "115",
+				"awayTeamValue": "63"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "22"
+			}
+		}
+	]
+}

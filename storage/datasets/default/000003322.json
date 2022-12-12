@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "04.09.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Faroe Islands",
+	"awayTeamName": "Denmark",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "25%",
+				"awayTeamValue": "75%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "190",
+				"awayTeamValue": "762"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "118",
+				"awayTeamValue": "675"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "74",
+				"awayTeamValue": "176"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "101"
+			}
+		}
+	]
+}

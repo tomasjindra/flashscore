@@ -1,0 +1,102 @@
+{
+	"country": "GERMANY",
+	"league": "Bundesliga - Round 8",
+	"matchTime": "01.10.2022 15:30",
+	"matchState": "Finished",
+	"homeTeamName": "FC Koln",
+	"awayTeamName": "Dortmund",
+	"homeTeamScore": "3",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "46%",
+				"awayTeamValue": "54%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "346",
+				"awayTeamValue": "485"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "270",
+				"awayTeamValue": "407"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "78",
+				"awayTeamValue": "112"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "42",
+				"awayTeamValue": "58"
+			}
+		}
+	]
+}

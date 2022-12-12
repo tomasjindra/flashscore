@@ -1,0 +1,120 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Group Stage - Round 4",
+	"matchTime": "13.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Union Berlin",
+	"awayTeamName": "Malmo FF",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "45%",
+				"awayTeamValue": "55%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "347",
+				"awayTeamValue": "463"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "256",
+				"awayTeamValue": "360"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "100",
+				"awayTeamValue": "105"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "48",
+				"awayTeamValue": "19"
+			}
+		}
+	]
+}

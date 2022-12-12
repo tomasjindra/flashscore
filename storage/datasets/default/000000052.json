@@ -1,0 +1,114 @@
+{
+	"country": "ENGLAND",
+	"league": "Premier League - Round 11",
+	"matchTime": "16.10.2022 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Leeds",
+	"awayTeamName": "Arsenal",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "47%",
+				"awayTeamValue": "53%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "428",
+				"awayTeamValue": "500"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "328",
+				"awayTeamValue": "415"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "91",
+				"awayTeamValue": "106"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "55",
+				"awayTeamValue": "31"
+			}
+		}
+	]
+}

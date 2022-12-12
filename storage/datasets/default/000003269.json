@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "07.09.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Croatia",
+	"awayTeamName": "Slovenia",
+	"homeTeamScore": "3",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "63%",
+				"awayTeamValue": "37%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "624",
+				"awayTeamValue": "373"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "551",
+				"awayTeamValue": "296"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "130",
+				"awayTeamValue": "74"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "81",
+				"awayTeamValue": "23"
+			}
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "02.09.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Liechtenstein",
+	"awayTeamName": "Germany",
+	"homeTeamScore": "0",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "18%",
+				"awayTeamValue": "82%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "30"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "119",
+				"awayTeamValue": "787"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "61",
+				"awayTeamValue": "708"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "175"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "149"
+			}
+		}
+	]
+}

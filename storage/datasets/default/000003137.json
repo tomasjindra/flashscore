@@ -1,0 +1,78 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Second stage - Round 4",
+	"matchTime": "12.10.2021 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "South Africa",
+	"awayTeamName": "Ethiopia",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "43%",
+				"awayTeamValue": "57%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "106",
+				"awayTeamValue": "111"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "60",
+				"awayTeamValue": "63"
+			}
+		}
+	]
+}

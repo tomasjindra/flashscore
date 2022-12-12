@@ -1,0 +1,108 @@
+{
+	"country": "ENGLAND",
+	"league": "Premier League - Round 14",
+	"matchTime": "29.10.2022 13:30",
+	"matchState": "Finished",
+	"homeTeamName": "Leicester",
+	"awayTeamName": "Manchester City",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "36%",
+				"awayTeamValue": "64%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "385",
+				"awayTeamValue": "691"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "296",
+				"awayTeamValue": "618"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "52",
+				"awayTeamValue": "134"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "85"
+			}
+		}
+	]
+}

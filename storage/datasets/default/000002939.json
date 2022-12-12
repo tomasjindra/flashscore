@@ -1,0 +1,114 @@
+{
+	"country": "SOUTH AMERICA",
+	"league": "World Cup - Qualification - Round 17",
+	"matchTime": "25.03.2022 00:30",
+	"matchState": "Finished",
+	"homeTeamName": "Colombia",
+	"awayTeamName": "Bolivia",
+	"homeTeamScore": "3",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "76%",
+				"awayTeamValue": "24%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "683",
+				"awayTeamValue": "216"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "613",
+				"awayTeamValue": "147"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "139",
+				"awayTeamValue": "60"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "81",
+				"awayTeamValue": "19"
+			}
+		}
+	]
+}

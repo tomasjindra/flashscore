@@ -1,0 +1,78 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Third stage - Final",
+	"matchTime": "29.03.2022 21:30",
+	"matchState": "Finished",
+	"homeTeamName": "Advancing to next roundTunisia",
+	"awayTeamName": "Mali",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "48%",
+				"awayTeamValue": "52%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "106",
+				"awayTeamValue": "125"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "50"
+			}
+		}
+	]
+}

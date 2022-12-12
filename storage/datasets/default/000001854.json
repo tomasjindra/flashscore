@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Eurocup - Round 6",
+	"matchTime": "30.11.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Lietkabelis",
+	"awayTeamName": "Cedevita Olimpija",
+	"homeTeamScore": "104",
+	"awayTeamScore": "98",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "61",
+				"awayTeamValue": "59"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "57.4%",
+				"awayTeamValue": "61%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "63.9%",
+				"awayTeamValue": "73.5%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "48%",
+				"awayTeamValue": "44%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "73.3%",
+				"awayTeamValue": "78.9%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "25"
+			}
+		}
+	]
+}

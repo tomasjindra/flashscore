@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "30.03.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Slovakia",
+	"awayTeamName": "Russia",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "41%",
+				"awayTeamValue": "59%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "366",
+				"awayTeamValue": "575"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "273",
+				"awayTeamValue": "477"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "87",
+				"awayTeamValue": "158"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "71"
+			}
+		}
+	]
+}

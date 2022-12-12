@@ -1,0 +1,102 @@
+{
+	"country": "GERMANY",
+	"league": "Bundesliga - Round 10",
+	"matchTime": "15.10.2022 15:30",
+	"matchState": "Finished",
+	"homeTeamName": "Werder Bremen",
+	"awayTeamName": "Mainz",
+	"homeTeamScore": "0",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "63%",
+				"awayTeamValue": "37%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "646",
+				"awayTeamValue": "269"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "543",
+				"awayTeamValue": "175"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "160",
+				"awayTeamValue": "95"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "45",
+				"awayTeamValue": "38"
+			}
+		}
+	]
+}

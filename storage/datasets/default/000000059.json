@@ -1,0 +1,114 @@
+{
+	"country": "ENGLAND",
+	"league": "Premier League - Round 11",
+	"matchTime": "14.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Brentford",
+	"awayTeamName": "Brighton",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "28%",
+				"awayTeamValue": "72%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "235",
+				"awayTeamValue": "611"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "157",
+				"awayTeamValue": "520"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "66",
+				"awayTeamValue": "124"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "78"
+			}
+		}
+	]
+}

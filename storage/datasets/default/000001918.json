@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Group Stage - Round 6",
+	"matchTime": "03.11.2022 18:45",
+	"matchState": "Finished",
+	"homeTeamName": "Zalgiris",
+	"awayTeamName": "Slovan Bratislava",
+	"homeTeamScore": "1",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "55%",
+				"awayTeamValue": "45%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "460",
+				"awayTeamValue": "332"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "410",
+				"awayTeamValue": "251"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "88",
+				"awayTeamValue": "90"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "52",
+				"awayTeamValue": "40"
+			}
+		}
+	]
+}

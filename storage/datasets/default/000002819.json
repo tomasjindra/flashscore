@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA - Pre-season",
+	"matchTime": "05.10.2022 03:30",
+	"matchState": "Finished",
+	"homeTeamName": "Chicago Bulls",
+	"awayTeamName": "New Orleans Pelicans",
+	"homeTeamScore": "125",
+	"awayTeamScore": "129",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "89",
+				"awayTeamValue": "93"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "46"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "48.3%",
+				"awayTeamValue": "49.5%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "62",
+				"awayTeamValue": "56"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "54.8%",
+				"awayTeamValue": "62.5%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "37"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "33.3%",
+				"awayTeamValue": "29.7%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "88.2%",
+				"awayTeamValue": "72.2%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "46",
+				"awayTeamValue": "44"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		}
+	]
+}

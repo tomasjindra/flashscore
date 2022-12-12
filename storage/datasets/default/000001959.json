@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Group Stage - Round 3",
+	"matchTime": "06.10.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Slavia Prague",
+	"awayTeamName": "CFR Cluj",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "65%",
+				"awayTeamValue": "35%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "603",
+				"awayTeamValue": "186"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "487",
+				"awayTeamValue": "122"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "103",
+				"awayTeamValue": "65"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "107",
+				"awayTeamValue": "39"
+			}
+		}
+	]
+}

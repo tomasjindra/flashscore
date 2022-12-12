@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "14.11.2021 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Malta",
+	"awayTeamName": "Slovakia",
+	"homeTeamScore": "0",
+	"awayTeamScore": "6",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "32%",
+				"awayTeamValue": "68%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "262",
+				"awayTeamValue": "616"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "213",
+				"awayTeamValue": "558"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "54",
+				"awayTeamValue": "129"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "83"
+			}
+		}
+	]
+}

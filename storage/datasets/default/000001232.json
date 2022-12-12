@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "UEFA Nations League - League C - Round 1",
+	"matchTime": "02.06.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Bulgaria",
+	"awayTeamName": "North Macedonia",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "47%",
+				"awayTeamValue": "53%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "38"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "361",
+				"awayTeamValue": "451"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "265",
+				"awayTeamValue": "357"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "110",
+				"awayTeamValue": "114"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "70"
+			}
+		}
+	]
+}

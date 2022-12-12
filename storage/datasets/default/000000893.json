@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa League - Qualification - Semi-finals",
+	"matchTime": "04.08.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "AEK Larnaca (Cyp)",
+	"awayTeamName": "Partizan (Srb)",
+	"homeTeamScore": "2",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "51%",
+				"awayTeamValue": "49%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "99",
+				"awayTeamValue": "96"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "64",
+				"awayTeamValue": "36"
+			}
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"country": "EUROPE",
+	"league": "UEFA Nations League - League A - Round 5",
+	"matchTime": "24.09.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Spain",
+	"awayTeamName": "Switzerland",
+	"homeTeamScore": "1",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "74%",
+				"awayTeamValue": "26%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "809",
+				"awayTeamValue": "278"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "719",
+				"awayTeamValue": "210"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "184",
+				"awayTeamValue": "76"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "78",
+				"awayTeamValue": "21"
+			}
+		}
+	]
+}

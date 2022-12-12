@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 1",
+	"matchTime": "04.10.2022 18:30",
+	"matchState": "Finished",
+	"homeTeamName": "Pinar Karsiyaka",
+	"awayTeamName": "AEK Athens",
+	"homeTeamScore": "91",
+	"awayTeamScore": "88",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "62",
+				"awayTeamValue": "61"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "47.5%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "54.5%",
+				"awayTeamValue": "57.7%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "44.8%",
+				"awayTeamValue": "40%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "84.2%",
+				"awayTeamValue": "80%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "22"
+			}
+		}
+	]
+}

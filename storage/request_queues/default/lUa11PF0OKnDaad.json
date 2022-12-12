@@ -1,0 +1,9 @@
+{
+	"id": "lUa11PF0OKnDaad",
+	"json": "{\"id\":\"lUa11PF0OKnDaad\",\"url\":\"https://www.livesport.com//en/basketball/europe/euroleague/results\",\"loadedUrl\":\"https://www.livesport.com/en/basketball/europe/euroleague/results/\",\"uniqueKey\":\"https://www.livesport.com//en/basketball/europe/euroleague/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"league\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:38.641Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com//en/basketball/europe/euroleague/results",
+	"url": "https://www.livesport.com//en/basketball/europe/euroleague/results"
+}

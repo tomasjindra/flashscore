@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 2",
+	"matchTime": "19.10.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Unicaja",
+	"awayTeamName": "Dijon",
+	"homeTeamScore": "88",
+	"awayTeamScore": "68",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "61",
+				"awayTeamValue": "54"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "54.1%",
+				"awayTeamValue": "44.4%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "55.3%",
+				"awayTeamValue": "53.1%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "52.2%",
+				"awayTeamValue": "31.8%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "58.8%",
+				"awayTeamValue": "68.4%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "18"
+			}
+		}
+	]
+}

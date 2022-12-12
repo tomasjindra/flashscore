@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Euroleague - Round 5",
+	"matchTime": "28.10.2022 19:00",
+	"matchState": "Finished",
+	"homeTeamName": "Crvena zvezda mts",
+	"awayTeamName": "Bayern",
+	"homeTeamScore": "78",
+	"awayTeamScore": "72",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "59",
+				"awayTeamValue": "56"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "42.4%",
+				"awayTeamValue": "33.9%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "51.6%",
+				"awayTeamValue": "48%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "31"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "32.1%",
+				"awayTeamValue": "22.6%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "82.6%",
+				"awayTeamValue": "77.1%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "45",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "24"
+			}
+		}
+	]
+}

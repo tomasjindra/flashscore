@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "12.12.2022 00:30",
+	"matchState": "After Overtime",
+	"homeTeamName": "Atlanta Hawks",
+	"awayTeamName": "Chicago Bulls",
+	"homeTeamScore": "123",
+	"awayTeamScore": "122",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "98",
+				"awayTeamValue": "100"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "47",
+				"awayTeamValue": "48"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "48%",
+				"awayTeamValue": "48%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "59",
+				"awayTeamValue": "73"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "41"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "57.6%",
+				"awayTeamValue": "56.2%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "33.3%",
+				"awayTeamValue": "25.9%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "76.2%",
+				"awayTeamValue": "82.6%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "37",
+				"awayTeamValue": "40"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "45",
+				"awayTeamValue": "53"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		}
+	]
+}

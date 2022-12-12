@@ -1,0 +1,96 @@
+{
+	"country": "EUROPE",
+	"league": "Europa Conference League - Qualification - 1/8-finals",
+	"matchTime": "14.07.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Advancing to next roundTuzla City (Bih)",
+	"awayTeamName": "Tre Penne (San)",
+	"homeTeamScore": "6",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "61%",
+				"awayTeamValue": "39%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "107",
+				"awayTeamValue": "64"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "90",
+				"awayTeamValue": "17"
+			}
+		}
+	]
+}

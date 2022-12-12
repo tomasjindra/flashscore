@@ -1,0 +1,114 @@
+{
+	"country": "FRANCE",
+	"league": "Ligue 1 - Round 3",
+	"matchTime": "19.08.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Lyon",
+	"awayTeamName": "Troyes",
+	"homeTeamScore": "4",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "66%",
+				"awayTeamValue": "34%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "747",
+				"awayTeamValue": "374"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "663",
+				"awayTeamValue": "307"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "176",
+				"awayTeamValue": "70"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "67",
+				"awayTeamValue": "38"
+			}
+		}
+	]
+}

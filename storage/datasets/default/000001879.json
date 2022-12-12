@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Eurocup - Round 3",
+	"matchTime": "26.10.2022 19:00",
+	"matchState": "Finished",
+	"homeTeamName": "Turk Telekom",
+	"awayTeamName": "Hapoel Tel-Aviv",
+	"homeTeamScore": "89",
+	"awayTeamScore": "77",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "66",
+				"awayTeamValue": "60"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "54.5%",
+				"awayTeamValue": "48.3%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "42"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "63.9%",
+				"awayTeamValue": "54.8%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "43.3%",
+				"awayTeamValue": "33.3%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "80%",
+				"awayTeamValue": "65%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "16"
+			}
+		}
+	]
+}

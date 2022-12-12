@@ -1,0 +1,9 @@
+{
+	"id": "BraW26xt81M6oem",
+	"json": "{\"id\":\"BraW26xt81M6oem\",\"url\":\"https://www.livesport.com/en/match/KnKgrUbQ/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/KnKgrUbQ/#/match-summary/match-statistics/0\",\"uniqueKey\":\"https://www.livesport.com/en/match/KnKgrUbQ\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:20:57.613Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/match/KnKgrUbQ",
+	"url": "https://www.livesport.com/en/match/KnKgrUbQ/#/match-summary/match-statistics/0"
+}

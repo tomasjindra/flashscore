@@ -1,0 +1,114 @@
+{
+	"country": "WORLD",
+	"league": "World Cup - Round 2",
+	"matchTime": "27.11.2022 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Spain",
+	"awayTeamName": "Germany",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "64%",
+				"awayTeamValue": "36%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "647",
+				"awayTeamValue": "352"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "565",
+				"awayTeamValue": "281"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "99",
+				"awayTeamValue": "88"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "38"
+			}
+		}
+	]
+}

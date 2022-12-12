@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "08.11.2022 02:15",
+	"matchState": "Finished",
+	"homeTeamName": "Atlanta Hawks",
+	"awayTeamName": "Milwaukee Bucks",
+	"homeTeamScore": "117",
+	"awayTeamScore": "98",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "99",
+				"awayTeamValue": "87"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "46",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "46.5%",
+				"awayTeamValue": "41.4%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "70",
+				"awayTeamValue": "47"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "50%",
+				"awayTeamValue": "48.9%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "40"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "37.9%",
+				"awayTeamValue": "32.5%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "82.4%",
+				"awayTeamValue": "81.3%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "48",
+				"awayTeamValue": "41"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		}
+	]
+}

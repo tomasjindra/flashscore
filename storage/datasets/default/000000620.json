@@ -1,0 +1,114 @@
+{
+	"country": "SPAIN",
+	"league": "LaLiga - Round 11",
+	"matchTime": "22.10.2022 16:15",
+	"matchState": "Finished",
+	"homeTeamName": "Valladolid",
+	"awayTeamName": "Real Sociedad",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "25%",
+				"awayTeamValue": "75%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "185",
+				"awayTeamValue": "560"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "104",
+				"awayTeamValue": "490"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "64",
+				"awayTeamValue": "137"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "53"
+			}
+		}
+	]
+}

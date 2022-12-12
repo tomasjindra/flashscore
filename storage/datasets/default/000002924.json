@@ -1,0 +1,114 @@
+{
+	"country": "NORTH & CENTRAL AMERICA",
+	"league": "World Cup - Qualification - Third stage - Round 13",
+	"matchTime": "28.03.2022 01:05",
+	"matchState": "Finished",
+	"homeTeamName": "Honduras",
+	"awayTeamName": "Mexico",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "33%",
+				"awayTeamValue": "67%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "278",
+				"awayTeamValue": "544"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "186",
+				"awayTeamValue": "461"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "91",
+				"awayTeamValue": "130"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "115"
+			}
+		}
+	]
+}

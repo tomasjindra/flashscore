@@ -1,0 +1,114 @@
+{
+	"country": "ENGLAND",
+	"league": "Premier League - Round 6",
+	"matchTime": "03.09.2022 13:30",
+	"matchState": "Finished",
+	"homeTeamName": "Everton",
+	"awayTeamName": "Liverpool",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "39%",
+				"awayTeamValue": "61%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "302",
+				"awayTeamValue": "469"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "215",
+				"awayTeamValue": "372"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "62",
+				"awayTeamValue": "118"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "64"
+			}
+		}
+	]
+}

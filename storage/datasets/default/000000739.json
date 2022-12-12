@@ -1,0 +1,114 @@
+{
+	"country": "AFRICA",
+	"league": "Africa Cup of Nations - Qualification - Round 2",
+	"matchTime": "07.06.2022 21:00",
+	"matchState": "Finished",
+	"homeTeamName": "Rwanda",
+	"awayTeamName": "Senegal",
+	"homeTeamScore": "0",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "26%",
+				"awayTeamValue": "74%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "186",
+				"awayTeamValue": "511"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "112",
+				"awayTeamValue": "433"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "84",
+				"awayTeamValue": "109"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "83"
+			}
+		}
+	]
+}

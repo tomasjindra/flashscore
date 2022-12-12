@@ -1,0 +1,114 @@
+{
+	"country": "SPAIN",
+	"league": "LaLiga - Round 9",
+	"matchTime": "15.10.2022 14:00",
+	"matchState": "Finished",
+	"homeTeamName": "Girona",
+	"awayTeamName": "Cadiz CF",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "65%",
+				"awayTeamValue": "35%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "483",
+				"awayTeamValue": "278"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "417",
+				"awayTeamValue": "191"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "125",
+				"awayTeamValue": "65"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "83",
+				"awayTeamValue": "13"
+			}
+		}
+	]
+}

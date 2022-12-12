@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "02.09.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Italy",
+	"awayTeamName": "Bulgaria",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "71%",
+				"awayTeamValue": "29%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "836",
+				"awayTeamValue": "251"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "729",
+				"awayTeamValue": "149"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "165",
+				"awayTeamValue": "60"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "92",
+				"awayTeamValue": "11"
+			}
+		}
+	]
+}

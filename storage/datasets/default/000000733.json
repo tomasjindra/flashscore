@@ -1,0 +1,120 @@
+{
+	"country": "AFRICA",
+	"league": "Africa Cup of Nations - Qualification - Round 2",
+	"matchTime": "09.06.2022 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "South Sudan",
+	"awayTeamName": "Mali",
+	"homeTeamScore": "1",
+	"awayTeamScore": "3",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "35%",
+				"awayTeamValue": "65%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "253",
+				"awayTeamValue": "491"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "153",
+				"awayTeamValue": "390"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "94",
+				"awayTeamValue": "124"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "67",
+				"awayTeamValue": "100"
+			}
+		}
+	]
+}

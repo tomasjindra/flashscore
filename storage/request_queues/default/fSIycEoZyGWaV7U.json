@@ -1,0 +1,9 @@
+{
+	"id": "fSIycEoZyGWaV7U",
+	"json": "{\"id\":\"fSIycEoZyGWaV7U\",\"url\":\"https://www.livesport.com/en/hockey/\",\"loadedUrl\":\"https://www.livesport.com/en/hockey/\",\"uniqueKey\":\"https://www.livesport.com/en/hockey\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"sport\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:20.699Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/hockey",
+	"url": "https://www.livesport.com/en/hockey/"
+}

@@ -1,0 +1,114 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Third stage - Round 10",
+	"matchTime": "29.03.2022 13:30",
+	"matchState": "Finished",
+	"homeTeamName": "Iran",
+	"awayTeamName": "Lebanon",
+	"homeTeamScore": "2",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "73%",
+				"awayTeamValue": "27%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "564",
+				"awayTeamValue": "215"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "494",
+				"awayTeamValue": "149"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "138",
+				"awayTeamValue": "69"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "48",
+				"awayTeamValue": "17"
+			}
+		}
+	]
+}

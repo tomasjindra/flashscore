@@ -1,0 +1,102 @@
+{
+	"country": "GERMANY",
+	"league": "Bundesliga - Round 3",
+	"matchTime": "20.08.2022 15:30",
+	"matchState": "Finished",
+	"homeTeamName": "Dortmund",
+	"awayTeamName": "Werder Bremen",
+	"homeTeamScore": "2",
+	"awayTeamScore": "3",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "49%",
+				"awayTeamValue": "51%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "409",
+				"awayTeamValue": "444"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "323",
+				"awayTeamValue": "351"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "104",
+				"awayTeamValue": "108"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "41"
+			}
+		}
+	]
+}

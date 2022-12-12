@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "02.09.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Hungary",
+	"awayTeamName": "England",
+	"homeTeamScore": "0",
+	"awayTeamScore": "4",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "36%",
+				"awayTeamValue": "64%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "372",
+				"awayTeamValue": "669"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "304",
+				"awayTeamValue": "596"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "63",
+				"awayTeamValue": "127"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "52"
+			}
+		}
+	]
+}

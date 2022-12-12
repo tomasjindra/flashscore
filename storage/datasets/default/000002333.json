@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 1",
+	"matchTime": "05.10.2022 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Bonn",
+	"awayTeamName": "Reggiana",
+	"homeTeamScore": "84",
+	"awayTeamScore": "88",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "65",
+				"awayTeamValue": "53"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "30"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "46.2%",
+				"awayTeamValue": "56.6%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "53.5%",
+				"awayTeamValue": "58.3%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "31.8%",
+				"awayTeamValue": "52.9%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "81%",
+				"awayTeamValue": "90.5%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "18"
+			}
+		}
+	]
+}

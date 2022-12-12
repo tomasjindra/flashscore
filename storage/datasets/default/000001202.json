@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "UEFA Nations League - League D - Round 2",
+	"matchTime": "06.06.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Latvia",
+	"awayTeamName": "Liechtenstein",
+	"homeTeamScore": "1",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "57%",
+				"awayTeamValue": "43%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "494",
+				"awayTeamValue": "288"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "398",
+				"awayTeamValue": "214"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "92",
+				"awayTeamValue": "37"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "88",
+				"awayTeamValue": "20"
+			}
+		}
+	]
+}

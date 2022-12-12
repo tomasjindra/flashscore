@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Qualification - Quarter-finals",
+	"matchTime": "21.09.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Leicester Riders",
+	"awayTeamName": "VoluntariAdvancing to next round",
+	"homeTeamScore": "61",
+	"awayTeamScore": "70",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "66",
+				"awayTeamValue": "56"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "36.4%",
+				"awayTeamValue": "44.6%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "54",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "37%",
+				"awayTeamValue": "48.5%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "33.3%",
+				"awayTeamValue": "39.1%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "81.8%",
+				"awayTeamValue": "61.1%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "43"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "15"
+			}
+		}
+	]
+}

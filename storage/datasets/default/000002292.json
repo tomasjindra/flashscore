@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 4",
+	"matchTime": "23.11.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Murcia",
+	"awayTeamName": "Szombathely",
+	"homeTeamScore": "81",
+	"awayTeamScore": "74",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "69",
+				"awayTeamValue": "65"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "42%",
+				"awayTeamValue": "38.5%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "43"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "52.6%",
+				"awayTeamValue": "39.5%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "29%",
+				"awayTeamValue": "36.4%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "63.6%",
+				"awayTeamValue": "76.2%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "49",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "27"
+			}
+		}
+	]
+}

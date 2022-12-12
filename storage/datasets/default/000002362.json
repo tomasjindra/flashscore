@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Qualification - Quarter-finals",
+	"matchTime": "21.09.2022 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Advancing to next roundFMP Beograd",
+	"awayTeamName": "Breogan",
+	"homeTeamScore": "76",
+	"awayTeamScore": "64",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "55",
+				"awayTeamValue": "57"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "52.7%",
+				"awayTeamValue": "42.1%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "60.6%",
+				"awayTeamValue": "52.8%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "40.9%",
+				"awayTeamValue": "23.8%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "60%",
+				"awayTeamValue": "73.3%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "37",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "23"
+			}
+		}
+	]
+}

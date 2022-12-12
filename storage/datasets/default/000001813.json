@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Euroleague - Round 3",
+	"matchTime": "18.10.2022 20:05",
+	"matchState": "Finished",
+	"homeTeamName": "Maccabi Tel Aviv",
+	"awayTeamName": "Monaco",
+	"homeTeamScore": "78",
+	"awayTeamScore": "70",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "69",
+				"awayTeamValue": "64"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "42%",
+				"awayTeamValue": "35.9%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "37",
+				"awayTeamValue": "37"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "45.9%",
+				"awayTeamValue": "43.2%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "37.5%",
+				"awayTeamValue": "25.9%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "100%",
+				"awayTeamValue": "73.9%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "43",
+				"awayTeamValue": "39"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "17"
+			}
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 4",
+	"matchTime": "15.10.2019 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Palestine",
+	"awayTeamName": "Saudi Arabia",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "44%",
+				"awayTeamValue": "56%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "70",
+				"awayTeamValue": "95"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "69",
+				"awayTeamValue": "90"
+			}
+		}
+	]
+}

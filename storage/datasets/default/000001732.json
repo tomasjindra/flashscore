@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Euroleague - Round 12",
+	"matchTime": "08.12.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Partizan",
+	"awayTeamName": "Crvena zvezda mts",
+	"homeTeamScore": "73",
+	"awayTeamScore": "76",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "67",
+				"awayTeamValue": "56"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "30"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "44.8%",
+				"awayTeamValue": "53.6%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "40",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "62.5%",
+				"awayTeamValue": "69.4%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "18.5%",
+				"awayTeamValue": "25%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "100%",
+				"awayTeamValue": "68.8%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "18"
+			}
+		}
+	]
+}

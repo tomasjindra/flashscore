@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Euroleague - Round 4",
+	"matchTime": "21.10.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Baskonia",
+	"awayTeamName": "Olympiacos",
+	"homeTeamScore": "92",
+	"awayTeamScore": "97",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "67",
+				"awayTeamValue": "64"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "49.3%",
+				"awayTeamValue": "50%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "64.7%",
+				"awayTeamValue": "63.9%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "33.3%",
+				"awayTeamValue": "32.1%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "93.8%",
+				"awayTeamValue": "92.3%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "19"
+			}
+		}
+	]
+}

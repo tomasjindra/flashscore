@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "01.12.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "Boston Celtics",
+	"awayTeamName": "Miami Heat",
+	"homeTeamScore": "134",
+	"awayTeamScore": "121",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "83",
+				"awayTeamValue": "90"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "46",
+				"awayTeamValue": "47"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "55.4%",
+				"awayTeamValue": "52.2%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "50"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "63.2%",
+				"awayTeamValue": "58%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "45",
+				"awayTeamValue": "40"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "48.9%",
+				"awayTeamValue": "45%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "87%",
+				"awayTeamValue": "100%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "41",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		}
+	]
+}

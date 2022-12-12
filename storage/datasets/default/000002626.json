@@ -1,0 +1,138 @@
+{
+	"country": "USA",
+	"league": "NBA",
+	"matchTime": "07.11.2022 00:00",
+	"matchState": "Finished",
+	"homeTeamName": "Memphis Grizzlies",
+	"awayTeamName": "Washington Wizards",
+	"homeTeamScore": "103",
+	"awayTeamScore": "97",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "91",
+				"awayTeamValue": "96"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "41"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "42.9%",
+				"awayTeamValue": "42.7%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "62",
+				"awayTeamValue": "55"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "48.4%",
+				"awayTeamValue": "60%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "41"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "31%",
+				"awayTeamValue": "19.5%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "80%",
+				"awayTeamValue": "70%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "50",
+				"awayTeamValue": "49"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Technical Fouls": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		}
+	]
+}

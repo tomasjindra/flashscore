@@ -1,0 +1,72 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Second stage - Round 1",
+	"matchTime": "03.09.2021 15:00",
+	"matchState": "Finished",
+	"homeTeamName": "Mozambique",
+	"awayTeamName": "Ivory Coast",
+	"homeTeamScore": "0",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "44%",
+				"awayTeamValue": "56%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "14"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "42",
+				"awayTeamValue": "38"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "124",
+				"awayTeamValue": "144"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "68"
+			}
+		}
+	]
+}

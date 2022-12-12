@@ -1,0 +1,114 @@
+{
+	"country": "ITALY",
+	"league": "Serie A - Round 4",
+	"matchTime": "31.08.2022 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Napoli",
+	"awayTeamName": "Lecce",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "71%",
+				"awayTeamValue": "29%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "32",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "654",
+				"awayTeamValue": "266"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "569",
+				"awayTeamValue": "194"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "142",
+				"awayTeamValue": "80"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "68",
+				"awayTeamValue": "28"
+			}
+		}
+	]
+}

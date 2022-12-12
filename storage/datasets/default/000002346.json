@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 1",
+	"matchTime": "03.10.2022 17:30",
+	"matchState": "After Overtime",
+	"homeTeamName": "Legia",
+	"awayTeamName": "Hapoel Holon",
+	"homeTeamScore": "81",
+	"awayTeamScore": "84",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "75",
+				"awayTeamValue": "66"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "27"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "41.3%",
+				"awayTeamValue": "40.9%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "37"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "38.9%",
+				"awayTeamValue": "40.5%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "39",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "43.6%",
+				"awayTeamValue": "41.4%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "40%",
+				"awayTeamValue": "78.3%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "38"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "37",
+				"awayTeamValue": "49"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "23",
+				"awayTeamValue": "13"
+			}
+		}
+	]
+}

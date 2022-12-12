@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Euroleague - Round 10",
+	"matchTime": "25.11.2022 20:00",
+	"matchState": "Finished",
+	"homeTeamName": "Panathinaikos",
+	"awayTeamName": "Lyon-Villeurbanne",
+	"homeTeamScore": "77",
+	"awayTeamScore": "58",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "58",
+				"awayTeamValue": "66"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "46.6%",
+				"awayTeamValue": "36.4%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "48"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "47.2%",
+				"awayTeamValue": "43.8%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "45.5%",
+				"awayTeamValue": "16.7%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "86.7%",
+				"awayTeamValue": "70%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "35",
+				"awayTeamValue": "40"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "20"
+			}
+		}
+	]
+}

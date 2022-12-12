@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Eurocup - Round 1",
+	"matchTime": "11.10.2022 19:15",
+	"matchState": "Finished",
+	"homeTeamName": "Ulm",
+	"awayTeamName": "Venezia",
+	"homeTeamScore": "81",
+	"awayTeamScore": "80",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "56",
+				"awayTeamValue": "70"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "48.2%",
+				"awayTeamValue": "41.4%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "37",
+				"awayTeamValue": "36"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "56.8%",
+				"awayTeamValue": "50%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "31.6%",
+				"awayTeamValue": "32.4%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "63.6%",
+				"awayTeamValue": "84.6%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "30",
+				"awayTeamValue": "23"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "41",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "25"
+			}
+		}
+	]
+}

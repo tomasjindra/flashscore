@@ -1,0 +1,9 @@
+{
+	"id": "qTbgAJdQ6GmXMZJ",
+	"json": "{\"id\":\"qTbgAJdQ6GmXMZJ\",\"url\":\"https://www.livesport.com/en/match/OC243Uni/#/match-summary/match-statistics/0\",\"loadedUrl\":\"https://www.livesport.com/en/match/OC243Uni/#/match-summary/match-statistics/0\",\"uniqueKey\":\"https://www.livesport.com/en/match/OC243Uni\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:20:41.906Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/match/OC243Uni",
+	"url": "https://www.livesport.com/en/match/OC243Uni/#/match-summary/match-statistics/0"
+}

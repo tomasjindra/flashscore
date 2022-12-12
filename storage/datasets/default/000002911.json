@@ -1,0 +1,66 @@
+{
+	"country": "AFRICA",
+	"league": "World Cup - Qualification - Third stage - Final",
+	"matchTime": "29.03.2022 19:00",
+	"matchState": "Finished",
+	"homeTeamName": "Nigeria",
+	"awayTeamName": "GhanaAdvancing to next round",
+	"homeTeamScore": "1",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "62%",
+				"awayTeamValue": "38%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "96",
+				"awayTeamValue": "73"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "61",
+				"awayTeamValue": "26"
+			}
+		}
+	]
+}

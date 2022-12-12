@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Eurocup - Round 4",
+	"matchTime": "01.11.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "London Lions",
+	"awayTeamName": "Buducnost",
+	"homeTeamScore": "78",
+	"awayTeamScore": "87",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "65",
+				"awayTeamValue": "63"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "43.1%",
+				"awayTeamValue": "52.4%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "50",
+				"awayTeamValue": "42"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "26",
+				"awayTeamValue": "24"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "52%",
+				"awayTeamValue": "57.1%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "13.3%",
+				"awayTeamValue": "42.9%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "80%",
+				"awayTeamValue": "80%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "25"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "36",
+				"awayTeamValue": "35"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "23"
+			}
+		}
+	]
+}

@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 1",
+	"matchTime": "05.10.2022 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Bahcesehir Kol.",
+	"awayTeamName": "Igokea",
+	"homeTeamScore": "70",
+	"awayTeamScore": "67",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "62",
+				"awayTeamValue": "55"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "27",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "43.5%",
+				"awayTeamValue": "47.3%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "33",
+				"awayTeamValue": "33"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "54.5%",
+				"awayTeamValue": "54.5%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "22"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "31%",
+				"awayTeamValue": "36.4%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "87.5%",
+				"awayTeamValue": "77.8%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "22",
+				"awayTeamValue": "26"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "34"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "17"
+			}
+		}
+	]
+}

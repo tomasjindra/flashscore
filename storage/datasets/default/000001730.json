@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Euroleague - Round 12",
+	"matchTime": "09.12.2022 19:00",
+	"matchState": "Finished",
+	"homeTeamName": "Zalgiris Kaunas",
+	"awayTeamName": "Anadolu Efes",
+	"homeTeamScore": "60",
+	"awayTeamScore": "86",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "66",
+				"awayTeamValue": "57"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "37.9%",
+				"awayTeamValue": "56.1%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "46",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "15"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "45.7%",
+				"awayTeamValue": "53.6%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "20",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "20%",
+				"awayTeamValue": "58.6%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "60%",
+				"awayTeamValue": "71.4%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "10",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "29",
+				"awayTeamValue": "39"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "16",
+				"awayTeamValue": "13"
+			}
+		}
+	]
+}

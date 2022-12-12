@@ -1,0 +1,108 @@
+{
+	"country": "EUROPE",
+	"league": "World Cup - Qualification",
+	"matchTime": "31.03.2021 20:45",
+	"matchState": "Finished",
+	"homeTeamName": "Spain",
+	"awayTeamName": "Kosovo",
+	"homeTeamScore": "3",
+	"awayTeamScore": "1",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "75%",
+				"awayTeamValue": "25%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "8"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "930",
+				"awayTeamValue": "224"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "854",
+				"awayTeamValue": "145"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "133",
+				"awayTeamValue": "66"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "71",
+				"awayTeamValue": "22"
+			}
+		}
+	]
+}

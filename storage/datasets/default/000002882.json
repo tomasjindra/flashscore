@@ -1,0 +1,114 @@
+{
+	"country": "WORLD",
+	"league": "World Cup - Round 1",
+	"matchTime": "23.11.2022 17:00",
+	"matchState": "Finished",
+	"homeTeamName": "Spain",
+	"awayTeamName": "Costa Rica",
+	"homeTeamScore": "7",
+	"awayTeamScore": "0",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "82%",
+				"awayTeamValue": "18%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "18",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "5",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "7"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "24",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "1061",
+				"awayTeamValue": "231"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "1003",
+				"awayTeamValue": "170"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "21"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "202",
+				"awayTeamValue": "63"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "70",
+				"awayTeamValue": "12"
+			}
+		}
+	]
+}

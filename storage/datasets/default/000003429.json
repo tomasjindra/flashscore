@@ -1,0 +1,102 @@
+{
+	"country": "ASIA",
+	"league": "World Cup - Qualification - Second stage - Round 8",
+	"matchTime": "11.06.2021 18:00",
+	"matchState": "Finished",
+	"homeTeamName": "Nepal",
+	"awayTeamName": "Australia",
+	"homeTeamScore": "0",
+	"awayTeamScore": "3",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "29%",
+				"awayTeamValue": "71%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "13"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "15",
+				"awayTeamValue": "10"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "19"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "225",
+				"awayTeamValue": "523"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "50",
+				"awayTeamValue": "94"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "13",
+				"awayTeamValue": "99"
+			}
+		}
+	]
+}

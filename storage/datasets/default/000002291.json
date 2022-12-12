@@ -1,0 +1,132 @@
+{
+	"country": "EUROPE",
+	"league": "Champions League - Round 4",
+	"matchTime": "23.11.2022 20:30",
+	"matchState": "Finished",
+	"homeTeamName": "Limoges",
+	"awayTeamName": "VEF Riga",
+	"homeTeamScore": "80",
+	"awayTeamScore": "53",
+	"statistics": [
+		{
+			"Field Goals Attempted": {
+				"homeTeamValue": "55",
+				"awayTeamValue": "57"
+			}
+		},
+		{
+			"Field Goals Made": {
+				"homeTeamValue": "34",
+				"awayTeamValue": "18"
+			}
+		},
+		{
+			"Field Goals %": {
+				"homeTeamValue": "61.8%",
+				"awayTeamValue": "31.6%"
+			}
+		},
+		{
+			"2-Point Field G. Attempted": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "29"
+			}
+		},
+		{
+			"2-Point Field Goals Made": {
+				"homeTeamValue": "25",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"2-Point Field Goals %": {
+				"homeTeamValue": "65.8%",
+				"awayTeamValue": "41.4%"
+			}
+		},
+		{
+			"3-Point Field G. Attempted": {
+				"homeTeamValue": "17",
+				"awayTeamValue": "28"
+			}
+		},
+		{
+			"3-Point Field Goals Made": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "6"
+			}
+		},
+		{
+			"3-Point Field Goals %": {
+				"homeTeamValue": "52.9%",
+				"awayTeamValue": "21.4%"
+			}
+		},
+		{
+			"Free Throws Attempted": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Free Throws Made": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Free Throws %": {
+				"homeTeamValue": "42.9%",
+				"awayTeamValue": "91.7%"
+			}
+		},
+		{
+			"Offensive Rebounds": {
+				"homeTeamValue": "3",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Defensive Rebounds": {
+				"homeTeamValue": "28",
+				"awayTeamValue": "20"
+			}
+		},
+		{
+			"Total Rebounds": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "32"
+			}
+		},
+		{
+			"Assists": {
+				"homeTeamValue": "21",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Blocks": {
+				"homeTeamValue": "4",
+				"awayTeamValue": "3"
+			}
+		},
+		{
+			"Turnovers": {
+				"homeTeamValue": "12",
+				"awayTeamValue": "16"
+			}
+		},
+		{
+			"Steals": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Personal Fouls": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "17"
+			}
+		}
+	]
+}

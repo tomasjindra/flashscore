@@ -1,0 +1,120 @@
+{
+	"country": "USA",
+	"league": "MLS - Play Offs - 1/8-finals",
+	"matchTime": "16.10.2022 21:00",
+	"matchState": "After Penalties",
+	"homeTeamName": "Advancing to next roundAustin FC",
+	"awayTeamName": "Real Salt Lake",
+	"homeTeamScore": "3",
+	"awayTeamScore": "2",
+	"statistics": [
+		{
+			"Ball Possession": {
+				"homeTeamValue": "68%",
+				"awayTeamValue": "32%"
+			}
+		},
+		{
+			"Goal Attempts": {
+				"homeTeamValue": "38",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Shots on Goal": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Shots off Goal": {
+				"homeTeamValue": "19",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Blocked Shots": {
+				"homeTeamValue": "8",
+				"awayTeamValue": "5"
+			}
+		},
+		{
+			"Free Kicks": {
+				"homeTeamValue": "9",
+				"awayTeamValue": "17"
+			}
+		},
+		{
+			"Corner Kicks": {
+				"homeTeamValue": "14",
+				"awayTeamValue": "2"
+			}
+		},
+		{
+			"Offsides": {
+				"homeTeamValue": "6",
+				"awayTeamValue": "0"
+			}
+		},
+		{
+			"Throw-in": {
+				"homeTeamValue": "31",
+				"awayTeamValue": "12"
+			}
+		},
+		{
+			"Goalkeeper Saves": {
+				"homeTeamValue": "2",
+				"awayTeamValue": "9"
+			}
+		},
+		{
+			"Fouls": {
+				"homeTeamValue": "11",
+				"awayTeamValue": "11"
+			}
+		},
+		{
+			"Red Cards": {
+				"homeTeamValue": "0",
+				"awayTeamValue": "1"
+			}
+		},
+		{
+			"Yellow Cards": {
+				"homeTeamValue": "1",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Total Passes": {
+				"homeTeamValue": "644",
+				"awayTeamValue": "319"
+			}
+		},
+		{
+			"Completed Passes": {
+				"homeTeamValue": "567",
+				"awayTeamValue": "219"
+			}
+		},
+		{
+			"Tackles": {
+				"homeTeamValue": "7",
+				"awayTeamValue": "4"
+			}
+		},
+		{
+			"Attacks": {
+				"homeTeamValue": "156",
+				"awayTeamValue": "72"
+			}
+		},
+		{
+			"Dangerous Attacks": {
+				"homeTeamValue": "110",
+				"awayTeamValue": "30"
+			}
+		}
+	]
+}

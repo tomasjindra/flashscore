@@ -1,0 +1,9 @@
+{
+	"id": "r5w8I4dfNsq9Wj1",
+	"json": "{\"id\":\"r5w8I4dfNsq9Wj1\",\"url\":\"https://www.livesport.com//en/soccer/france/ligue-1/results\",\"loadedUrl\":\"https://www.livesport.com/en/soccer/france/ligue-1/results/\",\"uniqueKey\":\"https://www.livesport.com//en/soccer/france/ligue-1/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"league\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-12T19:19:25.285Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com//en/soccer/france/ligue-1/results",
+	"url": "https://www.livesport.com//en/soccer/france/ligue-1/results"
+}
