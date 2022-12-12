@@ -4,7 +4,7 @@
     "schemaVersion": 1,
     "type":"object",
     "properties": {
-        "title": "Sport",
+        "title": "Country",
         "type": "string",
         "description": "Select sport",
         "editor": "select",
