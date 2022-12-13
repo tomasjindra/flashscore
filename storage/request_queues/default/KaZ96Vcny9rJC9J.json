@@ -1,0 +1,9 @@
+{
+	"id": "KaZ96Vcny9rJC9J",
+	"json": "{\"id\":\"KaZ96Vcny9rJC9J\",\"url\":\"https://www.livesport.com/en/match/naAwi85m/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/naAwi85m\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\"}}",
+	"method": "GET",
+	"orderNo": 1670968841938,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/match/naAwi85m",
+	"url": "https://www.livesport.com/en/match/naAwi85m/#/match-summary/match-summary"
+}

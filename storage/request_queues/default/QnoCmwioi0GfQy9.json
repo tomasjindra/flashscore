@@ -1,0 +1,9 @@
+{
+	"id": "QnoCmwioi0GfQy9",
+	"json": "{\"id\":\"QnoCmwioi0GfQy9\",\"url\":\"https://www.livesport.com/en/match/ttqAqIwN/#/match-summary/match-summary\",\"loadedUrl\":\"https://www.livesport.com/en/match/ttqAqIwN/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/ttqAqIwN\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"locator.textContent: Target closed\\n=========================== logs ===========================\\nwaiting for locator('span.tournamentHeader__country a')\\n============================================================\\n    at file:///Users/tomas/flashscore/src/routes.js:48:73\\n    at async wrap (/Users/tomas/flashscore/node_modules/@apify/timeout/index.js:52:21)\"],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1670968850664,
+	"retryCount": 1,
+	"uniqueKey": "https://www.livesport.com/en/match/ttqAqIwN",
+	"url": "https://www.livesport.com/en/match/ttqAqIwN/#/match-summary/match-summary"
+}

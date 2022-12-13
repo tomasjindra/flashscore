@@ -1,0 +1,9 @@
+{
+	"id": "AaaMmdIN6bhc8Vh",
+	"json": "{\"id\":\"AaaMmdIN6bhc8Vh\",\"url\":\"https://www.livesport.com/en/match/KCFSWvfH/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/KCFSWvfH\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: browserController.newPage() failed: aXX4v1bu8EStd-hYBSFLq\\nCause:browserContext.newPage: Target closed.\\n    at BrowserPool._createPageForBrowser (/Users/tomas/flashscore/node_modules/@crawlee/browser-pool/browser-pool.js:386:19)\"],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":5}}}",
+	"method": "GET",
+	"orderNo": 1670968850672,
+	"retryCount": 1,
+	"uniqueKey": "https://www.livesport.com/en/match/KCFSWvfH",
+	"url": "https://www.livesport.com/en/match/KCFSWvfH/#/match-summary/match-summary"
+}

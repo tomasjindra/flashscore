@@ -1,0 +1,9 @@
+{
+	"id": "pzcOYCZJVf0v01E",
+	"json": "{\"id\":\"pzcOYCZJVf0v01E\",\"url\":\"https://www.livesport.com/en/match/SUXNKbwe/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/SUXNKbwe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\"}}",
+	"method": "GET",
+	"orderNo": 1670968841938,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/match/SUXNKbwe",
+	"url": "https://www.livesport.com/en/match/SUXNKbwe/#/match-summary/match-summary"
+}

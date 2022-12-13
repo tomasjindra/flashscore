@@ -1,0 +1,9 @@
+{
+	"id": "r0xNbE5kyi4hj5F",
+	"json": "{\"id\":\"r0xNbE5kyi4hj5F\",\"url\":\"https://www.livesport.com/en/match/O6CcBERR/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/O6CcBERR\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\"}}",
+	"method": "GET",
+	"orderNo": 1670968841933,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/match/O6CcBERR",
+	"url": "https://www.livesport.com/en/match/O6CcBERR/#/match-summary/match-summary"
+}
