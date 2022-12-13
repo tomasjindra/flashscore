@@ -8,7 +8,7 @@
             "title": "Input URLs",
             "description": "The list of input URLs to be used.",
             "type": "array",
-            "prefill": ["https://www.livesport.com/en/team/argentina/f9OppQjp/results/"],
+            "prefill": "https://www.livesport.com/en/team/argentina/f9OppQjp/results/",
             "editor": "requestListSources"
         }
     },
