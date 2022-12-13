@@ -8,7 +8,7 @@
             "title": "Input URLs",
             "description": "The list of input URLs to be used.",
             "type": "array",
-            "prefill": ["http://example.com"],
+            "prefill": [{ "url": "http://example.com" }],
             "editor": "requestListSources"
         }
     },
