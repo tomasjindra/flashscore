@@ -6,7 +6,6 @@ import { router } from './routes.js';
 await Actor.init();
 
 const { inputURL } = await Actor.getInput();
-console.log(inputURL)
 
 const startUrls = [...inputURL];
 
