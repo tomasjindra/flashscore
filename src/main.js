@@ -5,14 +5,14 @@ import { router } from './routes.js';
 
 await Actor.init();
 
-const { Sport } = await Actor.getInput();
-console.log(Sport)
+const { inputURL } = await Actor.getInput();
+console.log(inputURL)
 
-const startUrls = [`https://www.livesport.com/en/${Sport}`];
+const startUrls = [...inputURL];
 
 const crawler = new PlaywrightCrawler({
 //maxConcurrency:1,
-//headless:false,
+headless:false,
     // proxyConfiguration: new ProxyConfiguration({ proxyUrls: ['...'] }),
     requestHandler: router,
 });

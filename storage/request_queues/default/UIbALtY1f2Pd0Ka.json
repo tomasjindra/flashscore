@@ -1,0 +1,9 @@
+{
+	"id": "UIbALtY1f2Pd0Ka",
+	"json": "{\"id\":\"UIbALtY1f2Pd0Ka\",\"url\":\"https://www.livesport.com/en/team/croatia/K8aznggo/results/\",\"loadedUrl\":\"https://www.livesport.com/en/team/croatia/K8aznggo/results/\",\"uniqueKey\":\"https://www.livesport.com/en/team/croatia/K8aznggo/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-13T18:39:36.050Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/team/croatia/K8aznggo/results",
+	"url": "https://www.livesport.com/en/team/croatia/K8aznggo/results/"
+}

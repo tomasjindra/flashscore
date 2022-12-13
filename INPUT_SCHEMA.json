@@ -1,32 +1,15 @@
 {
     "title": "Adding actor input",
-    "description": "Choose a sport you would like to collect results from.",
+    "description": "Add all values input URLs from which will be collected results and statistics.",
     "type": "object",
     "schemaVersion": 1,
     "properties": {
-        "Sport": {
-            "title": "Sport",
-            "type": "string",
-            "description": "Select sport",
-            "editor": "select",
-            "default": "soccer",
-            "enum": [
-                "soccer",
-                "basketball",
-                "hockey",
-                "tennis",
-                "baseball",
-                "american-football"
-            ],
-            "enumTitles": [
-                "soccer",
-                "basketball",
-                "hockey",
-                "tennis",
-                "baseball",
-                "american-football"
-            ]
+        "inputURL": {
+            "title": "Input URLs",
+            "description": "The list of input URLs to be used.",
+            "type": "array",
+            "editor": "json"
         }
     },
-    "required":["Sport"]
+    "required": ["inputURL"]
 }

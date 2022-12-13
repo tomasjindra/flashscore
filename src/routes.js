@@ -1,54 +1,9 @@
-import { Dataset, createPlaywrightRouter } from 'crawlee';
+import { createPlaywrightRouter } from 'crawlee';
 import { Actor } from 'apify';
-
 
 export const router = createPlaywrightRouter();
 
-//old implementation selecting all sports without an input from user
-/*
-router.addDefaultHandler(async ({ enqueueLinks, log }) => {
-    log.info(`Enqueueing URLs for chosen sports`);
-
-    await enqueueLinks({
-        selector: "a.menuTop__item",
-        label: "sport"
-    });
-});
-*/
-
-//router.addHandler('sport', async ({ request, page, log, enqueueLinks }) => {
-
-
-
-
-
-
-router.addDefaultHandler(async ({ request, page, log, enqueueLinks }) => {
-
-        const title = await page.title();
-        log.info(`Collecting leagues from ${title}`, { url: request.loadedUrl });
-
-        await page.waitForSelector("#my-leagues-list")
-        let leagueElements = await page.$$("#my-leagues-list a") || null
-        let leagueURLs = []
-
-        for (let index = 0; index < leagueElements.length; index++) {
-            let leagueHref = await leagueElements[index].getAttribute("href")
-            let leagueURL = `https://www.livesport.com/${leagueHref}results`
-            leagueURLs.push(leagueURL)
-        }
-
-        log.info(`To be crawled URLs of leagues: ${leagueURLs}`);
-        let _leagueURLs = ["https://www.livesport.com/en/soccer/england/premier-league/results/"]
-        await enqueueLinks({
-            label: "league",
-            urls: _leagueURLs
-        });
-    
-}
-);
-
-router.addHandler('league', async ({ request, page, log, enqueueLinks }) => {
+router.addDefaultHandler(async ({ page, log, enqueueLinks }) => {
 
     const title = await page.title();
 
@@ -57,16 +12,17 @@ router.addHandler('league', async ({ request, page, log, enqueueLinks }) => {
         await page.locator('a:has-text("Show more matches")').click()
 
         //TODO - this can be improved - last loop need to wait a bit for Show more button to not be in state visible
-        await page.waitForTimeout(2000)
+            await page.waitForTimeout(2000)
     }
 
     let matchURLs = []
     let matchesElements = await page.$$("[id^='g_']") || null
 
     for (let index = 0; index < matchesElements.length; index++) {
-        let matchId = await matchesElements[index].getAttribute("id")
-        let adjustedMatchId = matchId.slice(4, matchId.length);
-        matchURLs.push(`https://www.livesport.com/en/match/${adjustedMatchId}/#/match-summary/match-statistics/0`)
+        let g_MatchId = await matchesElements[index].getAttribute("id")
+        let matchId = g_MatchId.slice(4, g_MatchId.length);
+        matchURLs.push(`https://www.livesport.com/en/match/${matchId}/#/match-summary/match-summary`)
+        //matchURLs.push(`https://www.livesport.com/en/match/${matchId}/#/match-summary/match-statistics/0`)
     }
 
     log.info(`Enqueueing ${matchURLs.length} matches URLs for ${title}`)
@@ -87,6 +43,7 @@ router.addHandler('match', async ({ request, page, log }) => {
 
     let results = {
         URL: request.loadedUrl,
+        sport: await page.locator("span.tournamentHeader__sportNav title")?.textContent() || null,
         country: await (await page.locator("span.tournamentHeader__country")?.textContent()).replace(/\:.*$/, "") || null,
         league: await page.locator("span.tournamentHeader__country a")?.textContent() || null,
         matchTime: await page.locator(".duelParticipant__startTime")?.textContent() || null,
@@ -97,9 +54,9 @@ router.addHandler('match', async ({ request, page, log }) => {
         awayTeamScore: await page.locator("div.detailScore__matchInfo div.detailScore__wrapper span")?.last().textContent() || null,
 
     }
-
-    if (request.loadedUrl.includes("statistics")) {
-
+    //if (request.loadedUrl.includes("statistics")) {
+    if (await page.locator('a:has-text("Stats")').isVisible({timeout:2000}) == true) {
+        await page.locator('a:has-text("Stats")').click()
         await page.waitForSelector(".stat__category")
 
         const statCategories = await page.$$(".stat__categoryName")

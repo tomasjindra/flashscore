@@ -1,0 +1,9 @@
+{
+	"id": "F6sYKhuX37fDoYR",
+	"json": "{\"id\":\"F6sYKhuX37fDoYR\",\"url\":\"https://www.livesport.com/en/match/CAir2ii1/#/match-summary/match-summary\",\"loadedUrl\":\"https://www.livesport.com/en/match/CAir2ii1/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/CAir2ii1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-13T18:40:53.400Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/match/CAir2ii1",
+	"url": "https://www.livesport.com/en/match/CAir2ii1/#/match-summary/match-summary"
+}
