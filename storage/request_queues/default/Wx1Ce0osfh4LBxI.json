@@ -1,9 +1,0 @@
-{
-	"id": "Wx1Ce0osfh4LBxI",
-	"json": "{\"id\":\"Wx1Ce0osfh4LBxI\",\"url\":\"https://www.livesport.com/en/match/OAnh50Ag/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/OAnh50Ag\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\"}}",
-	"method": "GET",
-	"orderNo": 1670968841933,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/OAnh50Ag",
-	"url": "https://www.livesport.com/en/match/OAnh50Ag/#/match-summary/match-summary"
-}

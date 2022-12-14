@@ -16,11 +16,6 @@ let object = {
     tennisPlayer: "https://www.livesport.com/en/player/nadal-rafael/xUwlUnRK/results/",
     Original: "https://www.livesport.com/en/player/nadal-rafael/xUwlUnRK/",
 
-//RESENI: pokud je struktura takovahle a chybi tam slovo results tak za tuhle strukturu dat results a pridat do queue
-  //  "https://www.livesport.com/en/team/*/*/
-  // nebo "https://www.livesport.com/en/player/*/*/
-
-  
     soccerLeague: "https://www.livesport.com/en/soccer/england/premier-league/results/",
     originalLeague: "https://www.livesport.com/en/soccer/england/premier-league/#/nunhS7Vn/table/overall",
     
@@ -30,11 +25,13 @@ let object = {
     baseballLeague: "https://www.livesport.com/en/baseball/dominican-republic/lidom/results/",
     originalLeague: "https://www.livesport.com/en/baseball/dominican-republic/lidom/#/OpNglqVa/table/overall",
 
-
-    hockeyLeague: "https://www.livesport.com/en/nhl/results/",
-    originalLeague: "https://www.livesport.com/en/nhl/#/jkdXuB14/table/overall",
-   
-    
     tennisLeague: "https://www.livesport.com/en/tennis/atp-singles/australian-open/results/",
     originalLeague: "https://www.livesport.com/en/tennis/atp-singles/australian-open/#/8Q8MEVel/draw",
+
+//CO jeste neni pokryto
+//nba,ahl,nhl,mlb
+hockeyLeague: "https://www.livesport.com/en/nhl/results/",
+originalLeague: "https://www.livesport.com/en/nhl/#/jkdXuB14/table/overall", 
+    
+
 }

@@ -1,9 +1,0 @@
-{
-	"id": "wqcuIAQHOX9e7pq",
-	"json": "{\"id\":\"wqcuIAQHOX9e7pq\",\"url\":\"https://www.livesport.com/en/team/argentina/f9OppQjp/results/\",\"loadedUrl\":\"https://www.livesport.com/en/team/argentina/f9OppQjp/results/\",\"uniqueKey\":\"https://www.livesport.com/en/team/argentina/f9OppQjp/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-13T22:00:41.941Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/team/argentina/f9OppQjp/results",
-	"url": "https://www.livesport.com/en/team/argentina/f9OppQjp/results/"
-}

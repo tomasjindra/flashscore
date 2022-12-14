@@ -3,9 +3,10 @@ import { Actor } from 'apify';
 
 export const router = createPlaywrightRouter();
 
-router.addDefaultHandler(async ({ page, log, enqueueLinks }) => {
-
+router.addDefaultHandler(async ({ request, page, log, enqueueLinks }) => {
     const title = await page.title();
+
+    log.info(`Processing input URL: ${title}`, { url: request.loadedUrl });
 
     //TODO - is this right way how dynamic number of Show more matches buttons should be handled?
     while (await page.locator('a:has-text("Show more matches")').isVisible() == true) {
@@ -44,7 +45,7 @@ router.addHandler('match', async ({ request, page, log }) => {
     let results = {
         URL: request.loadedUrl,
         sport: await page.locator("span.tournamentHeader__sportNav title")?.textContent() || null,
-        country: await (await page.locator("span.tournamentHeader__country")?.textContent()).replace(/\:.*$/, "") || null,
+        region: await (await page.locator("span.tournamentHeader__country")?.textContent()).replace(/\:.*$/, "") || null,
         league: await page.locator("span.tournamentHeader__country a")?.textContent() || null,
         matchTime: await page.locator(".duelParticipant__startTime")?.textContent() || null,
         matchState: await page.locator(".fixedHeaderDuel__detailStatus")?.first().textContent() || "Not started",
