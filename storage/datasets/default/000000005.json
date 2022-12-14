@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/Kfzy8KZR/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "13.12.2022 04:30",
+	"matchState": "Finished",
+	"homeTeamName": "Los Angeles Clippers",
+	"awayTeamName": "Boston Celtics",
+	"homeTeamScore": "113",
+	"awayTeamScore": "93",
+	"Field Goals Attempted": {
+		"homeTeamValue": "90",
+		"awayTeamValue": "76"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "44",
+		"awayTeamValue": "33"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "48.9%",
+		"awayTeamValue": "43.4%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "65",
+		"awayTeamValue": "37"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "34",
+		"awayTeamValue": "24"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "52.3%",
+		"awayTeamValue": "64.9%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "25",
+		"awayTeamValue": "39"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "10",
+		"awayTeamValue": "9"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "40%",
+		"awayTeamValue": "23.1%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "21",
+		"awayTeamValue": "26"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "15",
+		"awayTeamValue": "18"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "71.4%",
+		"awayTeamValue": "69.2%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "11",
+		"awayTeamValue": "5"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "35",
+		"awayTeamValue": "31"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "46",
+		"awayTeamValue": "36"
+	},
+	"Assists": {
+		"homeTeamValue": "18",
+		"awayTeamValue": "27"
+	},
+	"Blocks": {
+		"homeTeamValue": "2",
+		"awayTeamValue": "6"
+	},
+	"Turnovers": {
+		"homeTeamValue": "10",
+		"awayTeamValue": "15"
+	},
+	"Steals": {
+		"homeTeamValue": "10",
+		"awayTeamValue": "5"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "26",
+		"awayTeamValue": "17"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "1"
+	}
+}

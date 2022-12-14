@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/lzSQ16ks/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "08.12.2022 04:00",
+	"matchState": "Finished",
+	"homeTeamName": "Phoenix Suns",
+	"awayTeamName": "Boston Celtics",
+	"homeTeamScore": "98",
+	"awayTeamScore": "125",
+	"Field Goals Attempted": {
+		"homeTeamValue": "93",
+		"awayTeamValue": "101"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "37",
+		"awayTeamValue": "49"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "39.8%",
+		"awayTeamValue": "48.5%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "61",
+		"awayTeamValue": "56"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "29",
+		"awayTeamValue": "33"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "47.5%",
+		"awayTeamValue": "58.9%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "32",
+		"awayTeamValue": "45"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "8",
+		"awayTeamValue": "16"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "25%",
+		"awayTeamValue": "35.6%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "19",
+		"awayTeamValue": "13"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "16",
+		"awayTeamValue": "11"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "84.2%",
+		"awayTeamValue": "84.6%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "13",
+		"awayTeamValue": "11"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "36",
+		"awayTeamValue": "42"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "49",
+		"awayTeamValue": "53"
+	},
+	"Assists": {
+		"homeTeamValue": "19",
+		"awayTeamValue": "29"
+	},
+	"Blocks": {
+		"homeTeamValue": "4",
+		"awayTeamValue": "3"
+	},
+	"Turnovers": {
+		"homeTeamValue": "18",
+		"awayTeamValue": "12"
+	},
+	"Steals": {
+		"homeTeamValue": "5",
+		"awayTeamValue": "14"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "17",
+		"awayTeamValue": "20"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "0"
+	}
+}

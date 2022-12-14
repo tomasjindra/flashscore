@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/Qe3cPL42/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "14.12.2022 04:00",
+	"matchState": "After Overtime",
+	"homeTeamName": "Los Angeles Lakers",
+	"awayTeamName": "Boston Celtics",
+	"homeTeamScore": "118",
+	"awayTeamScore": "122",
+	"Field Goals Attempted": {
+		"homeTeamValue": "93",
+		"awayTeamValue": "104"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "44",
+		"awayTeamValue": "46"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "47.3%",
+		"awayTeamValue": "44.2%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "64",
+		"awayTeamValue": "56"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "36",
+		"awayTeamValue": "27"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "56.3%",
+		"awayTeamValue": "48.2%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "29",
+		"awayTeamValue": "48"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "8",
+		"awayTeamValue": "19"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "27.6%",
+		"awayTeamValue": "39.6%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "30",
+		"awayTeamValue": "16"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "22",
+		"awayTeamValue": "11"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "73.3%",
+		"awayTeamValue": "68.8%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "7",
+		"awayTeamValue": "13"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "42",
+		"awayTeamValue": "38"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "49",
+		"awayTeamValue": "51"
+	},
+	"Assists": {
+		"homeTeamValue": "23",
+		"awayTeamValue": "27"
+	},
+	"Blocks": {
+		"homeTeamValue": "9",
+		"awayTeamValue": "2"
+	},
+	"Turnovers": {
+		"homeTeamValue": "11",
+		"awayTeamValue": "14"
+	},
+	"Steals": {
+		"homeTeamValue": "7",
+		"awayTeamValue": "6"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "17",
+		"awayTeamValue": "22"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "1"
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/Y1GB1ICe/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "14.12.2022 02:00",
+	"matchState": "Finished",
+	"homeTeamName": "Houston Rockets",
+	"awayTeamName": "Phoenix Suns",
+	"homeTeamScore": "111",
+	"awayTeamScore": "97",
+	"Field Goals Attempted": {
+		"homeTeamValue": "81",
+		"awayTeamValue": "103"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "34",
+		"awayTeamValue": "33"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "42%",
+		"awayTeamValue": "32%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "46",
+		"awayTeamValue": "52"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "22",
+		"awayTeamValue": "20"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "47.8%",
+		"awayTeamValue": "38.5%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "35",
+		"awayTeamValue": "51"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "12",
+		"awayTeamValue": "13"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "34.3%",
+		"awayTeamValue": "25.5%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "34",
+		"awayTeamValue": "19"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "31",
+		"awayTeamValue": "18"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "91.2%",
+		"awayTeamValue": "94.7%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "17",
+		"awayTeamValue": "18"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "50",
+		"awayTeamValue": "26"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "67",
+		"awayTeamValue": "44"
+	},
+	"Assists": {
+		"homeTeamValue": "16",
+		"awayTeamValue": "22"
+	},
+	"Blocks": {
+		"homeTeamValue": "9",
+		"awayTeamValue": "7"
+	},
+	"Turnovers": {
+		"homeTeamValue": "22",
+		"awayTeamValue": "9"
+	},
+	"Steals": {
+		"homeTeamValue": "6",
+		"awayTeamValue": "13"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "21",
+		"awayTeamValue": "24"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "1"
+	}
+}

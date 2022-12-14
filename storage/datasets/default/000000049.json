@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/Y35enRkf/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "08.12.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "New York Knicks",
+	"awayTeamName": "Atlanta Hawks",
+	"homeTeamScore": "113",
+	"awayTeamScore": "89",
+	"Field Goals Attempted": {
+		"homeTeamValue": "83",
+		"awayTeamValue": "85"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "37",
+		"awayTeamValue": "32"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "44.6%",
+		"awayTeamValue": "37.6%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "47",
+		"awayTeamValue": "49"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "20",
+		"awayTeamValue": "26"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "42.6%",
+		"awayTeamValue": "53.1%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "36",
+		"awayTeamValue": "36"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "17",
+		"awayTeamValue": "6"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "47.2%",
+		"awayTeamValue": "16.7%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "24",
+		"awayTeamValue": "24"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "22",
+		"awayTeamValue": "19"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "91.7%",
+		"awayTeamValue": "79.2%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "13",
+		"awayTeamValue": "11"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "42",
+		"awayTeamValue": "28"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "55",
+		"awayTeamValue": "39"
+	},
+	"Assists": {
+		"homeTeamValue": "26",
+		"awayTeamValue": "16"
+	},
+	"Blocks": {
+		"homeTeamValue": "2",
+		"awayTeamValue": "6"
+	},
+	"Turnovers": {
+		"homeTeamValue": "14",
+		"awayTeamValue": "11"
+	},
+	"Steals": {
+		"homeTeamValue": "6",
+		"awayTeamValue": "4"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "23",
+		"awayTeamValue": "17"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "1",
+		"awayTeamValue": "2"
+	}
+}

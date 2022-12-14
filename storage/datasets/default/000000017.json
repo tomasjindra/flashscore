@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/OQ1gsfQm/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "12.12.2022 00:00",
+	"matchState": "Finished",
+	"homeTeamName": "Orlando Magic",
+	"awayTeamName": "Toronto Raptors",
+	"homeTeamScore": "111",
+	"awayTeamScore": "99",
+	"Field Goals Attempted": {
+		"homeTeamValue": "77",
+		"awayTeamValue": "75"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "36",
+		"awayTeamValue": "30"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "46.8%",
+		"awayTeamValue": "40%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "46",
+		"awayTeamValue": "50"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "22",
+		"awayTeamValue": "24"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "47.8%",
+		"awayTeamValue": "48%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "31",
+		"awayTeamValue": "25"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "14",
+		"awayTeamValue": "6"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "45.2%",
+		"awayTeamValue": "24%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "31",
+		"awayTeamValue": "38"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "25",
+		"awayTeamValue": "33"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "80.6%",
+		"awayTeamValue": "86.8%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "11",
+		"awayTeamValue": "7"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "31",
+		"awayTeamValue": "21"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "42",
+		"awayTeamValue": "28"
+	},
+	"Assists": {
+		"homeTeamValue": "25",
+		"awayTeamValue": "18"
+	},
+	"Blocks": {
+		"homeTeamValue": "7",
+		"awayTeamValue": "7"
+	},
+	"Turnovers": {
+		"homeTeamValue": "18",
+		"awayTeamValue": "9"
+	},
+	"Steals": {
+		"homeTeamValue": "3",
+		"awayTeamValue": "9"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "28",
+		"awayTeamValue": "25"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "0"
+	}
+}

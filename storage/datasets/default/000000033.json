@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/lEzgeMYO/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "10.12.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "Cleveland Cavaliers",
+	"awayTeamName": "Sacramento Kings",
+	"homeTeamScore": "95",
+	"awayTeamScore": "106",
+	"Field Goals Attempted": {
+		"homeTeamValue": "79",
+		"awayTeamValue": "66"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "34",
+		"awayTeamValue": "35"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "43%",
+		"awayTeamValue": "53%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "49",
+		"awayTeamValue": "33"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "24",
+		"awayTeamValue": "19"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "49%",
+		"awayTeamValue": "57.6%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "30",
+		"awayTeamValue": "33"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "10",
+		"awayTeamValue": "16"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "33.3%",
+		"awayTeamValue": "48.5%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "22",
+		"awayTeamValue": "32"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "17",
+		"awayTeamValue": "20"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "77.3%",
+		"awayTeamValue": "62.5%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "8",
+		"awayTeamValue": "5"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "28",
+		"awayTeamValue": "33"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "36",
+		"awayTeamValue": "38"
+	},
+	"Assists": {
+		"homeTeamValue": "20",
+		"awayTeamValue": "21"
+	},
+	"Blocks": {
+		"homeTeamValue": "4",
+		"awayTeamValue": "5"
+	},
+	"Turnovers": {
+		"homeTeamValue": "20",
+		"awayTeamValue": "19"
+	},
+	"Steals": {
+		"homeTeamValue": "7",
+		"awayTeamValue": "11"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "23",
+		"awayTeamValue": "22"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "0"
+	}
+}

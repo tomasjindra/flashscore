@@ -1,0 +1,9 @@
+{
+	"id": "naXoIhvW3omgej3",
+	"json": "{\"id\":\"naXoIhvW3omgej3\",\"url\":\"https://www.livesport.com/en/match/AkhLAnGL/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/AkhLAnGL\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\"}}",
+	"method": "GET",
+	"orderNo": 1671053211953,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/match/AkhLAnGL",
+	"url": "https://www.livesport.com/en/match/AkhLAnGL/#/match-summary/match-summary"
+}

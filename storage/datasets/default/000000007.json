@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/6iWW80KL/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "13.12.2022 04:00",
+	"matchState": "Finished",
+	"homeTeamName": "Portland Trail Blazers",
+	"awayTeamName": "Minnesota Timberwolves",
+	"homeTeamScore": "133",
+	"awayTeamScore": "112",
+	"Field Goals Attempted": {
+		"homeTeamValue": "89",
+		"awayTeamValue": "93"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "48",
+		"awayTeamValue": "46"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "53.9%",
+		"awayTeamValue": "49.5%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "43",
+		"awayTeamValue": "66"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "27",
+		"awayTeamValue": "36"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "62.8%",
+		"awayTeamValue": "54.5%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "46",
+		"awayTeamValue": "27"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "21",
+		"awayTeamValue": "10"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "45.7%",
+		"awayTeamValue": "37%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "21",
+		"awayTeamValue": "19"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "16",
+		"awayTeamValue": "10"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "76.2%",
+		"awayTeamValue": "52.6%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "11",
+		"awayTeamValue": "7"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "43",
+		"awayTeamValue": "30"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "54",
+		"awayTeamValue": "37"
+	},
+	"Assists": {
+		"homeTeamValue": "32",
+		"awayTeamValue": "25"
+	},
+	"Blocks": {
+		"homeTeamValue": "4",
+		"awayTeamValue": "2"
+	},
+	"Turnovers": {
+		"homeTeamValue": "19",
+		"awayTeamValue": "10"
+	},
+	"Steals": {
+		"homeTeamValue": "4",
+		"awayTeamValue": "12"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "21",
+		"awayTeamValue": "19"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "0"
+	}
+}

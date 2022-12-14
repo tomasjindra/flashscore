@@ -1,0 +1,9 @@
+{
+	"id": "mbn8hahx8KmSMs5",
+	"json": "{\"id\":\"mbn8hahx8KmSMs5\",\"url\":\"https://www.livesport.com/en/match/tAtIY7Lf/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/tAtIY7Lf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\"}}",
+	"method": "GET",
+	"orderNo": 1671053211951,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/match/tAtIY7Lf",
+	"url": "https://www.livesport.com/en/match/tAtIY7Lf/#/match-summary/match-summary"
+}

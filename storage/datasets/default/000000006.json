@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/xzN23vrq/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "14.12.2022 01:00",
+	"matchState": "Finished",
+	"homeTeamName": "Philadelphia 76ers",
+	"awayTeamName": "Sacramento Kings",
+	"homeTeamScore": "123",
+	"awayTeamScore": "103",
+	"Field Goals Attempted": {
+		"homeTeamValue": "84",
+		"awayTeamValue": "92"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "43",
+		"awayTeamValue": "38"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "51.2%",
+		"awayTeamValue": "41.3%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "49",
+		"awayTeamValue": "50"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "27",
+		"awayTeamValue": "28"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "55.1%",
+		"awayTeamValue": "56%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "35",
+		"awayTeamValue": "42"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "16",
+		"awayTeamValue": "10"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "45.7%",
+		"awayTeamValue": "23.8%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "27",
+		"awayTeamValue": "20"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "21",
+		"awayTeamValue": "17"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "77.8%",
+		"awayTeamValue": "85%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "4",
+		"awayTeamValue": "13"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "38",
+		"awayTeamValue": "35"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "42",
+		"awayTeamValue": "48"
+	},
+	"Assists": {
+		"homeTeamValue": "34",
+		"awayTeamValue": "21"
+	},
+	"Blocks": {
+		"homeTeamValue": "4",
+		"awayTeamValue": "4"
+	},
+	"Turnovers": {
+		"homeTeamValue": "11",
+		"awayTeamValue": "17"
+	},
+	"Steals": {
+		"homeTeamValue": "10",
+		"awayTeamValue": "5"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "21",
+		"awayTeamValue": "22"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "1",
+		"awayTeamValue": "1"
+	}
+}

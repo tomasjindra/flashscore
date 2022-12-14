@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/GQL62bck/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "14.12.2022 01:30",
+	"matchState": "Finished",
+	"homeTeamName": "Milwaukee Bucks",
+	"awayTeamName": "Golden State Warriors",
+	"homeTeamScore": "128",
+	"awayTeamScore": "111",
+	"Field Goals Attempted": {
+		"homeTeamValue": "82",
+		"awayTeamValue": "95"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "45",
+		"awayTeamValue": "38"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "54.9%",
+		"awayTeamValue": "40%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "53",
+		"awayTeamValue": "45"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "33",
+		"awayTeamValue": "18"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "62.3%",
+		"awayTeamValue": "40%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "29",
+		"awayTeamValue": "50"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "12",
+		"awayTeamValue": "20"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "41.4%",
+		"awayTeamValue": "40%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "32",
+		"awayTeamValue": "19"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "26",
+		"awayTeamValue": "15"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "81.3%",
+		"awayTeamValue": "78.9%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "12",
+		"awayTeamValue": "12"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "43",
+		"awayTeamValue": "25"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "55",
+		"awayTeamValue": "37"
+	},
+	"Assists": {
+		"homeTeamValue": "22",
+		"awayTeamValue": "25"
+	},
+	"Blocks": {
+		"homeTeamValue": "5",
+		"awayTeamValue": "2"
+	},
+	"Turnovers": {
+		"homeTeamValue": "21",
+		"awayTeamValue": "18"
+	},
+	"Steals": {
+		"homeTeamValue": "8",
+		"awayTeamValue": "7"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "18",
+		"awayTeamValue": "22"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "3",
+		"awayTeamValue": "6"
+	}
+}

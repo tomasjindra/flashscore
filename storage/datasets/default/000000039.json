@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/MmQYapKg/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "09.12.2022 02:30",
+	"matchState": "Finished",
+	"homeTeamName": "San Antonio Spurs",
+	"awayTeamName": "Houston Rockets",
+	"homeTeamScore": "118",
+	"awayTeamScore": "109",
+	"Field Goals Attempted": {
+		"homeTeamValue": "83",
+		"awayTeamValue": "98"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "46",
+		"awayTeamValue": "44"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "55.4%",
+		"awayTeamValue": "44.9%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "47",
+		"awayTeamValue": "69"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "33",
+		"awayTeamValue": "34"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "70.2%",
+		"awayTeamValue": "49.3%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "36",
+		"awayTeamValue": "29"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "13",
+		"awayTeamValue": "10"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "36.1%",
+		"awayTeamValue": "34.5%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "15",
+		"awayTeamValue": "15"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "13",
+		"awayTeamValue": "11"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "86.7%",
+		"awayTeamValue": "73.3%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "7",
+		"awayTeamValue": "16"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "31",
+		"awayTeamValue": "26"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "38",
+		"awayTeamValue": "42"
+	},
+	"Assists": {
+		"homeTeamValue": "25",
+		"awayTeamValue": "23"
+	},
+	"Blocks": {
+		"homeTeamValue": "7",
+		"awayTeamValue": "4"
+	},
+	"Turnovers": {
+		"homeTeamValue": "16",
+		"awayTeamValue": "14"
+	},
+	"Steals": {
+		"homeTeamValue": "5",
+		"awayTeamValue": "3"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "19",
+		"awayTeamValue": "19"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "1"
+	}
+}

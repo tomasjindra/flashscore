@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/M157EqZn/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "10.12.2022 02:30",
+	"matchState": "Finished",
+	"homeTeamName": "New Orleans Pelicans",
+	"awayTeamName": "Phoenix Suns",
+	"homeTeamScore": "128",
+	"awayTeamScore": "117",
+	"Field Goals Attempted": {
+		"homeTeamValue": "90",
+		"awayTeamValue": "86"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "46",
+		"awayTeamValue": "43"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "51.1%",
+		"awayTeamValue": "50%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "63",
+		"awayTeamValue": "42"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "38",
+		"awayTeamValue": "21"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "60.3%",
+		"awayTeamValue": "50%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "27",
+		"awayTeamValue": "44"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "8",
+		"awayTeamValue": "22"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "29.6%",
+		"awayTeamValue": "50%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "35",
+		"awayTeamValue": "13"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "28",
+		"awayTeamValue": "9"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "80%",
+		"awayTeamValue": "69.2%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "13",
+		"awayTeamValue": "8"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "31",
+		"awayTeamValue": "29"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "44",
+		"awayTeamValue": "37"
+	},
+	"Assists": {
+		"homeTeamValue": "27",
+		"awayTeamValue": "30"
+	},
+	"Blocks": {
+		"homeTeamValue": "1",
+		"awayTeamValue": "3"
+	},
+	"Turnovers": {
+		"homeTeamValue": "11",
+		"awayTeamValue": "17"
+	},
+	"Steals": {
+		"homeTeamValue": "10",
+		"awayTeamValue": "6"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "15",
+		"awayTeamValue": "25"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "0",
+		"awayTeamValue": "0"
+	}
+}

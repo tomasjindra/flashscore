@@ -1,0 +1,96 @@
+{
+	"URL": "https://www.livesport.com/en/match/ChFF0xS1/#/match-summary/match-summary",
+	"sport": "Basketball",
+	"region": "USA",
+	"league": "NBA",
+	"matchTime": "14.12.2022 03:00",
+	"matchState": "Finished",
+	"homeTeamName": "Utah Jazz",
+	"awayTeamName": "New Orleans Pelicans",
+	"homeTeamScore": "121",
+	"awayTeamScore": "100",
+	"Field Goals Attempted": {
+		"homeTeamValue": "103",
+		"awayTeamValue": "93"
+	},
+	"Field Goals Made": {
+		"homeTeamValue": "49",
+		"awayTeamValue": "37"
+	},
+	"Field Goals %": {
+		"homeTeamValue": "47.6%",
+		"awayTeamValue": "39.8%"
+	},
+	"2-Point Field G. Attempted": {
+		"homeTeamValue": "56",
+		"awayTeamValue": "66"
+	},
+	"2-Point Field Goals Made": {
+		"homeTeamValue": "34",
+		"awayTeamValue": "33"
+	},
+	"2-Point Field Goals %": {
+		"homeTeamValue": "60.7%",
+		"awayTeamValue": "50%"
+	},
+	"3-Point Field G. Attempted": {
+		"homeTeamValue": "47",
+		"awayTeamValue": "27"
+	},
+	"3-Point Field Goals Made": {
+		"homeTeamValue": "15",
+		"awayTeamValue": "4"
+	},
+	"3-Point Field Goals %": {
+		"homeTeamValue": "31.9%",
+		"awayTeamValue": "14.8%"
+	},
+	"Free Throws Attempted": {
+		"homeTeamValue": "12",
+		"awayTeamValue": "33"
+	},
+	"Free Throws Made": {
+		"homeTeamValue": "8",
+		"awayTeamValue": "22"
+	},
+	"Free Throws %": {
+		"homeTeamValue": "66.7%",
+		"awayTeamValue": "66.7%"
+	},
+	"Offensive Rebounds": {
+		"homeTeamValue": "19",
+		"awayTeamValue": "15"
+	},
+	"Defensive Rebounds": {
+		"homeTeamValue": "40",
+		"awayTeamValue": "28"
+	},
+	"Total Rebounds": {
+		"homeTeamValue": "59",
+		"awayTeamValue": "43"
+	},
+	"Assists": {
+		"homeTeamValue": "31",
+		"awayTeamValue": "25"
+	},
+	"Blocks": {
+		"homeTeamValue": "10",
+		"awayTeamValue": "3"
+	},
+	"Turnovers": {
+		"homeTeamValue": "19",
+		"awayTeamValue": "17"
+	},
+	"Steals": {
+		"homeTeamValue": "4",
+		"awayTeamValue": "12"
+	},
+	"Personal Fouls": {
+		"homeTeamValue": "23",
+		"awayTeamValue": "17"
+	},
+	"Technical Fouls": {
+		"homeTeamValue": "1",
+		"awayTeamValue": "2"
+	}
+}
