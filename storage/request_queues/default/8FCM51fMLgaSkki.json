@@ -1,9 +1,0 @@
-{
-	"id": "8FCM51fMLgaSkki",
-	"json": "{\"id\":\"8FCM51fMLgaSkki\",\"url\":\"https://www.livesport.com/en/match/YgK3RAD5/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/YgK3RAD5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\"}}",
-	"method": "GET",
-	"orderNo": 1671125561475,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/YgK3RAD5",
-	"url": "https://www.livesport.com/en/match/YgK3RAD5/#/match-summary/match-summary"
-}

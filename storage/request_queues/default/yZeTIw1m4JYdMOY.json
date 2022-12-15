@@ -1,9 +1,0 @@
-{
-	"id": "yZeTIw1m4JYdMOY",
-	"json": "{\"id\":\"yZeTIw1m4JYdMOY\",\"url\":\"https://www.livesport.com/en/match/YcpnQtYb/#/match-summary/match-summary\",\"loadedUrl\":\"https://www.livesport.com/en/match/YcpnQtYb/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/YcpnQtYb\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"elementHandle.textContent: Element is not attached to the DOM\\n    at file:///Users/tomas/flashscore/src/routes.js:70:52\\n    at async wrap (/Users/tomas/flashscore/node_modules/@apify/timeout/index.js:52:21)\"],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":5}}}",
-	"method": "GET",
-	"orderNo": 1671125571442,
-	"retryCount": 1,
-	"uniqueKey": "https://www.livesport.com/en/match/YcpnQtYb",
-	"url": "https://www.livesport.com/en/match/YcpnQtYb/#/match-summary/match-summary"
-}

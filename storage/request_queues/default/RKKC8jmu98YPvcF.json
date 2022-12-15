@@ -1,9 +1,0 @@
-{
-	"id": "RKKC8jmu98YPvcF",
-	"json": "{\"id\":\"RKKC8jmu98YPvcF\",\"url\":\"https://www.livesport.com/en/match/boeAMJlL/#/match-summary/match-summary\",\"loadedUrl\":\"https://www.livesport.com/en/match/boeAMJlL/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/boeAMJlL\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-15T17:32:46.039Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.livesport.com/en/match/boeAMJlL",
-	"url": "https://www.livesport.com/en/match/boeAMJlL/#/match-summary/match-summary"
-}

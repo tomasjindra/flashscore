@@ -1,0 +1,9 @@
+{
+	"id": "dHtMBNZntUnc6C5",
+	"json": "{\"id\":\"dHtMBNZntUnc6C5\",\"url\":\"https://www.livesport.com/en/player/nicolau-matheus/KlU0O2e8/results\",\"loadedUrl\":\"https://www.livesport.com/en/player/nicolau-matheus/KlU0O2e8/results/\",\"uniqueKey\":\"https://www.livesport.com/en/player/nicolau-matheus/KlU0O2e8/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-15T20:38:15.596Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.livesport.com/en/player/nicolau-matheus/KlU0O2e8/results",
+	"url": "https://www.livesport.com/en/player/nicolau-matheus/KlU0O2e8/results"
+}
