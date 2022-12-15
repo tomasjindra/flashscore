@@ -7,6 +7,7 @@ import { updateInputUrls } from './utilities/functions/updateInputUrls.js'
 await Actor.init();
 
 const { inputURL } = await Actor.getInput();
+console.log(inputURL);
 updateInputUrls(inputURL)
 
 const startUrls = [...inputURL];

@@ -1,96 +1,96 @@
 {
-	"URL": "https://www.livesport.com/en/match/xzN23vrq/#/match-summary/match-summary",
+	"URL": "https://www.livesport.com/en/match/Kfd6NaZE/#/match-summary/match-summary",
 	"sport": "Basketball",
 	"region": "USA",
 	"league": "NBA",
-	"matchTime": "14.12.2022 01:00",
+	"matchTime": "15.12.2022 01:00",
 	"matchState": "Finished",
-	"homeTeamName": "Philadelphia 76ers",
-	"awayTeamName": "Sacramento Kings",
-	"homeTeamScore": "123",
-	"awayTeamScore": "103",
+	"homeTeamName": "Indiana Pacers",
+	"awayTeamName": "Golden State Warriors",
+	"homeTeamScore": "125",
+	"awayTeamScore": "119",
 	"Field Goals Attempted": {
-		"homeTeamValue": "84",
-		"awayTeamValue": "92"
+		"homeTeamValue": "87",
+		"awayTeamValue": "86"
 	},
 	"Field Goals Made": {
-		"homeTeamValue": "43",
-		"awayTeamValue": "38"
+		"homeTeamValue": "44",
+		"awayTeamValue": "40"
 	},
 	"Field Goals %": {
-		"homeTeamValue": "51.2%",
-		"awayTeamValue": "41.3%"
+		"homeTeamValue": "50.6%",
+		"awayTeamValue": "46.5%"
 	},
 	"2-Point Field G. Attempted": {
-		"homeTeamValue": "49",
-		"awayTeamValue": "50"
+		"homeTeamValue": "48",
+		"awayTeamValue": "53"
 	},
 	"2-Point Field Goals Made": {
-		"homeTeamValue": "27",
-		"awayTeamValue": "28"
+		"homeTeamValue": "28",
+		"awayTeamValue": "26"
 	},
 	"2-Point Field Goals %": {
-		"homeTeamValue": "55.1%",
-		"awayTeamValue": "56%"
+		"homeTeamValue": "58.3%",
+		"awayTeamValue": "49.1%"
 	},
 	"3-Point Field G. Attempted": {
-		"homeTeamValue": "35",
-		"awayTeamValue": "42"
+		"homeTeamValue": "39",
+		"awayTeamValue": "33"
 	},
 	"3-Point Field Goals Made": {
 		"homeTeamValue": "16",
-		"awayTeamValue": "10"
+		"awayTeamValue": "14"
 	},
 	"3-Point Field Goals %": {
-		"homeTeamValue": "45.7%",
-		"awayTeamValue": "23.8%"
+		"homeTeamValue": "41%",
+		"awayTeamValue": "42.4%"
 	},
 	"Free Throws Attempted": {
-		"homeTeamValue": "27",
-		"awayTeamValue": "20"
+		"homeTeamValue": "25",
+		"awayTeamValue": "29"
 	},
 	"Free Throws Made": {
 		"homeTeamValue": "21",
-		"awayTeamValue": "17"
+		"awayTeamValue": "25"
 	},
 	"Free Throws %": {
-		"homeTeamValue": "77.8%",
-		"awayTeamValue": "85%"
+		"homeTeamValue": "84%",
+		"awayTeamValue": "86.2%"
 	},
 	"Offensive Rebounds": {
-		"homeTeamValue": "4",
-		"awayTeamValue": "13"
+		"homeTeamValue": "5",
+		"awayTeamValue": "12"
 	},
 	"Defensive Rebounds": {
-		"homeTeamValue": "38",
-		"awayTeamValue": "35"
+		"homeTeamValue": "29",
+		"awayTeamValue": "34"
 	},
 	"Total Rebounds": {
-		"homeTeamValue": "42",
-		"awayTeamValue": "48"
+		"homeTeamValue": "34",
+		"awayTeamValue": "46"
 	},
 	"Assists": {
-		"homeTeamValue": "34",
-		"awayTeamValue": "21"
+		"homeTeamValue": "30",
+		"awayTeamValue": "27"
 	},
 	"Blocks": {
-		"homeTeamValue": "4",
+		"homeTeamValue": "8",
 		"awayTeamValue": "4"
 	},
 	"Turnovers": {
-		"homeTeamValue": "11",
-		"awayTeamValue": "17"
+		"homeTeamValue": "18",
+		"awayTeamValue": "24"
 	},
 	"Steals": {
 		"homeTeamValue": "10",
 		"awayTeamValue": "5"
 	},
 	"Personal Fouls": {
-		"homeTeamValue": "21",
-		"awayTeamValue": "22"
+		"homeTeamValue": "25",
+		"awayTeamValue": "20"
 	},
 	"Technical Fouls": {
-		"homeTeamValue": "1",
-		"awayTeamValue": "1"
+		"homeTeamValue": "0",
+		"awayTeamValue": "3"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"id": "Y5Wzkd4w60kSyLw",
-	"json": "{\"id\":\"Y5Wzkd4w60kSyLw\",\"url\":\"https://www.livesport.com/en/nba/results\",\"loadedUrl\":\"https://www.livesport.com/en/nba/results/\",\"uniqueKey\":\"https://www.livesport.com/en/nba/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-14T21:26:51.961Z\"}",
+	"json": "{\"id\":\"Y5Wzkd4w60kSyLw\",\"url\":\"https://www.livesport.com/en/nba/results\",\"loadedUrl\":\"https://www.livesport.com/en/nba/results/\",\"uniqueKey\":\"https://www.livesport.com/en/nba/results\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-15T16:50:27.728Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

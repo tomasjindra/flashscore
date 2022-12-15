@@ -1,96 +1,96 @@
 {
-	"URL": "https://www.livesport.com/en/match/Y1GB1ICe/#/match-summary/match-summary",
+	"URL": "https://www.livesport.com/en/match/SKaELw4R/#/match-summary/match-summary",
 	"sport": "Basketball",
 	"region": "USA",
 	"league": "NBA",
-	"matchTime": "14.12.2022 02:00",
-	"matchState": "Finished",
-	"homeTeamName": "Houston Rockets",
-	"awayTeamName": "Phoenix Suns",
-	"homeTeamScore": "111",
-	"awayTeamScore": "97",
+	"matchTime": "15.12.2022 01:30",
+	"matchState": "After Overtime",
+	"homeTeamName": "Chicago Bulls",
+	"awayTeamName": "New York Knicks",
+	"homeTeamScore": "120",
+	"awayTeamScore": "128",
 	"Field Goals Attempted": {
-		"homeTeamValue": "81",
-		"awayTeamValue": "103"
+		"homeTeamValue": "84",
+		"awayTeamValue": "91"
 	},
 	"Field Goals Made": {
-		"homeTeamValue": "34",
-		"awayTeamValue": "33"
+		"homeTeamValue": "46",
+		"awayTeamValue": "45"
 	},
 	"Field Goals %": {
-		"homeTeamValue": "42%",
-		"awayTeamValue": "32%"
+		"homeTeamValue": "54.8%",
+		"awayTeamValue": "49.5%"
 	},
 	"2-Point Field G. Attempted": {
-		"homeTeamValue": "46",
-		"awayTeamValue": "52"
+		"homeTeamValue": "56",
+		"awayTeamValue": "57"
 	},
 	"2-Point Field Goals Made": {
-		"homeTeamValue": "22",
-		"awayTeamValue": "20"
+		"homeTeamValue": "37",
+		"awayTeamValue": "27"
 	},
 	"2-Point Field Goals %": {
-		"homeTeamValue": "47.8%",
-		"awayTeamValue": "38.5%"
+		"homeTeamValue": "66.1%",
+		"awayTeamValue": "47.4%"
 	},
 	"3-Point Field G. Attempted": {
-		"homeTeamValue": "35",
-		"awayTeamValue": "51"
+		"homeTeamValue": "28",
+		"awayTeamValue": "34"
 	},
 	"3-Point Field Goals Made": {
-		"homeTeamValue": "12",
-		"awayTeamValue": "13"
+		"homeTeamValue": "9",
+		"awayTeamValue": "18"
 	},
 	"3-Point Field Goals %": {
-		"homeTeamValue": "34.3%",
-		"awayTeamValue": "25.5%"
+		"homeTeamValue": "32.1%",
+		"awayTeamValue": "52.9%"
 	},
 	"Free Throws Attempted": {
-		"homeTeamValue": "34",
-		"awayTeamValue": "19"
+		"homeTeamValue": "22",
+		"awayTeamValue": "25"
 	},
 	"Free Throws Made": {
-		"homeTeamValue": "31",
-		"awayTeamValue": "18"
+		"homeTeamValue": "19",
+		"awayTeamValue": "20"
 	},
 	"Free Throws %": {
-		"homeTeamValue": "91.2%",
-		"awayTeamValue": "94.7%"
+		"homeTeamValue": "86.4%",
+		"awayTeamValue": "80%"
 	},
 	"Offensive Rebounds": {
-		"homeTeamValue": "17",
-		"awayTeamValue": "18"
+		"homeTeamValue": "3",
+		"awayTeamValue": "15"
 	},
 	"Defensive Rebounds": {
-		"homeTeamValue": "50",
-		"awayTeamValue": "26"
+		"homeTeamValue": "28",
+		"awayTeamValue": "33"
 	},
 	"Total Rebounds": {
-		"homeTeamValue": "67",
-		"awayTeamValue": "44"
+		"homeTeamValue": "31",
+		"awayTeamValue": "48"
 	},
 	"Assists": {
-		"homeTeamValue": "16",
-		"awayTeamValue": "22"
+		"homeTeamValue": "25",
+		"awayTeamValue": "25"
 	},
 	"Blocks": {
-		"homeTeamValue": "9",
-		"awayTeamValue": "7"
+		"homeTeamValue": "7",
+		"awayTeamValue": "5"
 	},
 	"Turnovers": {
-		"homeTeamValue": "22",
-		"awayTeamValue": "9"
+		"homeTeamValue": "12",
+		"awayTeamValue": "18"
 	},
 	"Steals": {
 		"homeTeamValue": "6",
-		"awayTeamValue": "13"
+		"awayTeamValue": "7"
 	},
 	"Personal Fouls": {
-		"homeTeamValue": "21",
-		"awayTeamValue": "24"
+		"homeTeamValue": "18",
+		"awayTeamValue": "25"
 	},
 	"Technical Fouls": {
-		"homeTeamValue": "0",
-		"awayTeamValue": "1"
+		"homeTeamValue": "1",
+		"awayTeamValue": "0"
 	}
 }

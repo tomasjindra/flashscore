@@ -1,96 +1,96 @@
 {
-	"URL": "https://www.livesport.com/en/match/ChFF0xS1/#/match-summary/match-summary",
+	"URL": "https://www.livesport.com/en/match/KIvgEed1/#/match-summary/match-summary",
 	"sport": "Basketball",
 	"region": "USA",
 	"league": "NBA",
-	"matchTime": "14.12.2022 03:00",
+	"matchTime": "15.12.2022 03:00",
 	"matchState": "Finished",
-	"homeTeamName": "Utah Jazz",
-	"awayTeamName": "New Orleans Pelicans",
-	"homeTeamScore": "121",
-	"awayTeamScore": "100",
+	"homeTeamName": "Denver Nuggets",
+	"awayTeamName": "Washington Wizards",
+	"homeTeamScore": "141",
+	"awayTeamScore": "128",
 	"Field Goals Attempted": {
-		"homeTeamValue": "103",
-		"awayTeamValue": "93"
+		"homeTeamValue": "83",
+		"awayTeamValue": "91"
 	},
 	"Field Goals Made": {
-		"homeTeamValue": "49",
-		"awayTeamValue": "37"
+		"homeTeamValue": "54",
+		"awayTeamValue": "48"
 	},
 	"Field Goals %": {
-		"homeTeamValue": "47.6%",
-		"awayTeamValue": "39.8%"
+		"homeTeamValue": "65.1%",
+		"awayTeamValue": "52.7%"
 	},
 	"2-Point Field G. Attempted": {
-		"homeTeamValue": "56",
-		"awayTeamValue": "66"
+		"homeTeamValue": "67",
+		"awayTeamValue": "52"
 	},
 	"2-Point Field Goals Made": {
-		"homeTeamValue": "34",
-		"awayTeamValue": "33"
+		"homeTeamValue": "50",
+		"awayTeamValue": "29"
 	},
 	"2-Point Field Goals %": {
-		"homeTeamValue": "60.7%",
-		"awayTeamValue": "50%"
+		"homeTeamValue": "74.6%",
+		"awayTeamValue": "55.8%"
 	},
 	"3-Point Field G. Attempted": {
-		"homeTeamValue": "47",
-		"awayTeamValue": "27"
+		"homeTeamValue": "16",
+		"awayTeamValue": "39"
 	},
 	"3-Point Field Goals Made": {
-		"homeTeamValue": "15",
-		"awayTeamValue": "4"
+		"homeTeamValue": "4",
+		"awayTeamValue": "19"
 	},
 	"3-Point Field Goals %": {
-		"homeTeamValue": "31.9%",
-		"awayTeamValue": "14.8%"
+		"homeTeamValue": "25%",
+		"awayTeamValue": "48.7%"
 	},
 	"Free Throws Attempted": {
-		"homeTeamValue": "12",
-		"awayTeamValue": "33"
+		"homeTeamValue": "35",
+		"awayTeamValue": "23"
 	},
 	"Free Throws Made": {
-		"homeTeamValue": "8",
-		"awayTeamValue": "22"
+		"homeTeamValue": "29",
+		"awayTeamValue": "13"
 	},
 	"Free Throws %": {
-		"homeTeamValue": "66.7%",
-		"awayTeamValue": "66.7%"
+		"homeTeamValue": "82.9%",
+		"awayTeamValue": "56.5%"
 	},
 	"Offensive Rebounds": {
-		"homeTeamValue": "19",
-		"awayTeamValue": "15"
+		"homeTeamValue": "7",
+		"awayTeamValue": "4"
 	},
 	"Defensive Rebounds": {
-		"homeTeamValue": "40",
-		"awayTeamValue": "28"
+		"homeTeamValue": "38",
+		"awayTeamValue": "20"
 	},
 	"Total Rebounds": {
-		"homeTeamValue": "59",
-		"awayTeamValue": "43"
+		"homeTeamValue": "45",
+		"awayTeamValue": "24"
 	},
 	"Assists": {
 		"homeTeamValue": "31",
-		"awayTeamValue": "25"
+		"awayTeamValue": "40"
 	},
 	"Blocks": {
-		"homeTeamValue": "10",
-		"awayTeamValue": "3"
+		"homeTeamValue": "7",
+		"awayTeamValue": "5"
 	},
 	"Turnovers": {
 		"homeTeamValue": "19",
-		"awayTeamValue": "17"
+		"awayTeamValue": "14"
 	},
 	"Steals": {
-		"homeTeamValue": "4",
-		"awayTeamValue": "12"
+		"homeTeamValue": "8",
+		"awayTeamValue": "10"
 	},
 	"Personal Fouls": {
-		"homeTeamValue": "23",
-		"awayTeamValue": "17"
+		"homeTeamValue": "17",
+		"awayTeamValue": "28"
 	},
 	"Technical Fouls": {
-		"homeTeamValue": "1",
-		"awayTeamValue": "2"
+		"homeTeamValue": "0",
+		"awayTeamValue": "0"
 	}
 }
