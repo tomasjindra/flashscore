@@ -1,5 +1,7 @@
 {
     "inputURL": [
-        "https://www.livesport.com/en/nba/#/CpvDJmdj/table/overall"
+        {
+            "url": "https://www.livesport.com/en/nba/#/CpvDJmdj/table/overall"
+        }
     ]
 }

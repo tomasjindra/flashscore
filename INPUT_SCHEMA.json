@@ -9,7 +9,9 @@
             "description": "The list of input URLs to be used.",
             "type": "array",
             "prefill": [
-                "https://www.livesport.com/en/nba/#/CpvDJmdj/table/overall"
+                {
+                    "url": "https://www.livesport.com/en/nba/#/CpvDJmdj/table/overall"
+                }
             ],
             "editor": "requestListSources"
         }

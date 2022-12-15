@@ -1,9 +1,9 @@
 {
 	"id": "YBA73tg6EBiglzp",
-	"json": "{\"id\":\"YBA73tg6EBiglzp\",\"url\":\"https://www.livesport.com/en/match/Qe3cPL42/#/match-summary/match-summary\",\"loadedUrl\":\"https://www.livesport.com/en/match/Qe3cPL42/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/Qe3cPL42\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"locator.textContent: Target page, context or browser has been closed\\n    at file:///Users/tomas/flashscore/src/routes.js:50:71\\n    at async wrap (/Users/tomas/flashscore/node_modules/@apify/timeout/index.js:52:21)\"],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":5}}}",
+	"json": "{\"id\":\"YBA73tg6EBiglzp\",\"url\":\"https://www.livesport.com/en/match/Qe3cPL42/#/match-summary/match-summary\",\"loadedUrl\":\"https://www.livesport.com/en/match/Qe3cPL42/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/Qe3cPL42\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-15T17:32:46.090Z\"}",
 	"method": "GET",
-	"orderNo": 1671123032512,
-	"retryCount": 1,
+	"orderNo": null,
+	"retryCount": 0,
 	"uniqueKey": "https://www.livesport.com/en/match/Qe3cPL42",
 	"url": "https://www.livesport.com/en/match/Qe3cPL42/#/match-summary/match-summary"
 }

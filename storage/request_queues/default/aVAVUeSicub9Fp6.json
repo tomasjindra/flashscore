@@ -1,9 +1,9 @@
 {
 	"id": "aVAVUeSicub9Fp6",
-	"json": "{\"id\":\"aVAVUeSicub9Fp6\",\"url\":\"https://www.livesport.com/en/match/OQ1gsfQm/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/OQ1gsfQm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"match\"}}",
+	"json": "{\"id\":\"aVAVUeSicub9Fp6\",\"url\":\"https://www.livesport.com/en/match/OQ1gsfQm/#/match-summary/match-summary\",\"loadedUrl\":\"https://www.livesport.com/en/match/OQ1gsfQm/#/match-summary/match-summary\",\"uniqueKey\":\"https://www.livesport.com/en/match/OQ1gsfQm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"elementHandle.textContent: Element is not attached to the DOM\\n    at file:///Users/tomas/flashscore/src/routes.js:72:64\\n    at async wrap (/Users/tomas/flashscore/node_modules/@apify/timeout/index.js:52:21)\"],\"headers\":{},\"userData\":{\"label\":\"match\",\"__crawlee\":{\"state\":5}}}",
 	"method": "GET",
-	"orderNo": 1671123027718,
-	"retryCount": 0,
+	"orderNo": 1671125571441,
+	"retryCount": 1,
 	"uniqueKey": "https://www.livesport.com/en/match/OQ1gsfQm",
 	"url": "https://www.livesport.com/en/match/OQ1gsfQm/#/match-summary/match-summary"
 }
