@@ -1,4 +1,6 @@
 export const terms = [
+    "team",
+    "player",
     "soccer",
     "baseball",
     "basketball",
@@ -36,7 +38,5 @@ export const terms = [
     "tennis",
     "volleyball",
     "water-polo",
-    "winter-sports",
-    "team",
-    "player"
+    "winter-sports"
 ]

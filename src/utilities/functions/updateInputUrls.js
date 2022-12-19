@@ -1,6 +1,5 @@
 import { terms } from "../terms.js"
 
-
 export const updateInputUrls = (inputURL) => {
     for (let i = 0; i < inputURL.length; i++) {
         if (!inputURL[i].url.includes("results")) {
