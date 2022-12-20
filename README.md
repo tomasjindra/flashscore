@@ -4,6 +4,9 @@ The results of your favourite leagues, teams or players are at your fingertips. 
 ## Input parameters
 - **inputURL** - The list of input URLs to be used. It can be URL for a specific team, player or league (e.g. for Premier League: https://www.flashscore.com/en/soccer/england/premier-league/#/nunhS7Vn/table/overall 
 
+## Cost of usage
+You can get a bit more than 1 000 results for 1 USD.
+
 ## How to use the actor?
 
 1.) On flashscore.com choose a league / team / player which you would like to scrape and copy the URL from your browser.
@@ -36,8 +39,6 @@ You can download the dataset with your results in various formats such as JSON, 
 **Example of data to be collected:**
 ![](/assets/images/output_example.png "Output example")
 
-## Cost of usage
-You can get a bit more than 1 000 results for 1 USD.
 
 ## Match details in JSON Format
 
