@@ -44,84 +44,84 @@ You can download the dataset with your results in various formats such as JSON, 
 
 ```json
 {
-"URL": "https://www.flashscore.com/en/match/rBfk6fO7/#/match-summary/match-summary",
-"sport": "Soccer",
-"region": "WORLD",
-"league": "World Cup - Play Offs - Final",
-"matchTime": "18.12.2022 15:00",
-"matchState": "After Penalties",
-"homeTeamName": "Argentina",
-"awayTeamName": "France",
-"homeTeamScore": "4",
-"awayTeamScore": "3",
-"Ball Possession": {
-"homeTeamValue": "54%",
-"awayTeamValue": "46%"
-},
-"Goal Attempts": {
-"homeTeamValue": "21",
-"awayTeamValue": "10"
-},
-"Shots on Goal": {
-"homeTeamValue": "9",
-"awayTeamValue": "5"
-},
-"Shots off Goal": {
-"homeTeamValue": "9",
-"awayTeamValue": "3"
-},
-"Blocked Shots": {
-"homeTeamValue": "3",
-"awayTeamValue": "2"
-},
-"Free Kicks": {
-"homeTeamValue": "22",
-"awayTeamValue": "28"
-},
-"Corner Kicks": {
-"homeTeamValue": "6",
-"awayTeamValue": "5"
-},
-"Offsides": {
-"homeTeamValue": "4",
-"awayTeamValue": "4"
-},
-"Throw-in": {
-"homeTeamValue": "25",
-"awayTeamValue": "22"
-},
-"Goalkeeper Saves": {
-"homeTeamValue": "2",
-"awayTeamValue": "6"
-},
-"Fouls": {
-"homeTeamValue": "26",
-"awayTeamValue": "19"
-},
-"Yellow Cards": {
-"homeTeamValue": "4",
-"awayTeamValue": "3"
-},
-"Total Passes": {
-"homeTeamValue": "648",
-"awayTeamValue": "516"
-},
-"Completed Passes": {
-"homeTeamValue": "544",
-"awayTeamValue": "419"
-},
-"Tackles": {
-"homeTeamValue": "23",
-"awayTeamValue": "26"
-},
-"Attacks": {
-"homeTeamValue": "81",
-"awayTeamValue": "113"
-},
-"Dangerous Attacks": {
-"homeTeamValue": "42",
-"awayTeamValue": "31"
-}
+    "URL": "https://www.flashscore.com/en/match/rBfk6fO7/#/match-summary/match-summary",
+    "sport": "Soccer",
+    "region": "WORLD",
+    "league": "World Cup - Play Offs - Final",
+    "matchTime": "18.12.2022 15:00",
+    "matchState": "After Penalties",
+    "homeTeamName": "Argentina",
+    "awayTeamName": "France",
+    "homeTeamScore": "4",
+    "awayTeamScore": "3",
+    "Ball Possession": {
+        "homeTeamValue": "54%",
+        "awayTeamValue": "46%"
+    },
+    "Goal Attempts": {
+        "homeTeamValue": "21",
+        "awayTeamValue": "10"
+    },
+    "Shots on Goal": {
+        "homeTeamValue": "9",
+        "awayTeamValue": "5"
+    },
+    "Shots off Goal": {
+        "homeTeamValue": "9",
+        "awayTeamValue": "3"
+    },
+    "Blocked Shots": {
+        "homeTeamValue": "3",
+        "awayTeamValue": "2"
+    },
+    "Free Kicks": {
+        "homeTeamValue": "22",
+        "awayTeamValue": "28"
+    },
+    "Corner Kicks": {
+        "homeTeamValue": "6",
+        "awayTeamValue": "5"
+    },
+    "Offsides": {
+        "homeTeamValue": "4",
+        "awayTeamValue": "4"
+    },
+    "Throw-in": {
+        "homeTeamValue": "25",
+        "awayTeamValue": "22"
+    },
+    "Goalkeeper Saves": {
+        "homeTeamValue": "2",
+        "awayTeamValue": "6"
+    },
+    "Fouls": {
+        "homeTeamValue": "26",
+        "awayTeamValue": "19"
+    },
+    "Yellow Cards": {
+        "homeTeamValue": "4",
+        "awayTeamValue": "3"
+    },
+    "Total Passes": {
+        "homeTeamValue": "648",
+        "awayTeamValue": "516"
+    },
+    "Completed Passes": {
+        "homeTeamValue": "544",
+        "awayTeamValue": "419"
+    },
+    "Tackles": {
+        "homeTeamValue": "23",
+        "awayTeamValue": "26"
+    },
+    "Attacks": {
+        "homeTeamValue": "81",
+        "awayTeamValue": "113"
+    },
+    "Dangerous Attacks": {
+        "homeTeamValue": "42",
+        "awayTeamValue": "31"
+    }
 },
 
 ```
