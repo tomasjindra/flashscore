@@ -6,13 +6,9 @@
     "properties": {
         "inputURL": {
             "title": "Input URLs",
-            "description": "The list of input URLs to be used.",
+            "description": "The list of input URLs to be used. It can be URL for a specific team, player or league (e.g.https://www.livesport.com/en/soccer/england/premier-league/#/nunhS7Vn/table/overall",
             "type": "array",
-            "prefill": [
-                {
-                    "url": "https://www.livesport.com/en/team/slavia-prague/viXGgnyB/"
-                }
-            ],
+            "prefill": [],
             "editor": "requestListSources"
         }
     },
