@@ -31,11 +31,9 @@
                         "component": "table",
                         "properties": {
                             "sport": {
-                                "label": "Sport",
                                 "format": "text"
                             },
                             "region": {
-                                "label": "Region",
                                 "format": "text"
                             },
                             "league": {
