@@ -1,19 +1,20 @@
 ## Features
-The results of your favourite leagues, teams or players are at your fingertips. Get all match results including the most important statistics from 3️⃣0️⃣﹢ sports such as ⚽️ Soccer, 🎾 Tennis, 🏀 Basketball, 🏒 Ice hockey, 🏈 American football, ⚾️ Baseball and more using the API created from https://www.flashscore.com/. 
+The results of your favourite leagues, teams or players are at your fingertips. Get all match results including the most important statistics from 30+ sports such as ⚽️ Soccer, 🎾 Tennis, 🏀 Basketball, 🏒 Ice hockey, 🏈 American football, ⚾️ Baseball and more using the API created from https://www.flashscore.com/. 
 
 ## Input parameters
 - **inputURL** - The list of input URLs to be used. It can be URL for a specific team, player or league (e.g. for Premier League: https://www.flashscore.com/en/soccer/england/premier-league/#/nunhS7Vn/table/overall 
 
 ## How to use the actor?
-1. On flashscore.com choose a league / team / player which you would like to scrape and copy the URL from your browser.
+
+1.) On flashscore.com choose a league / team / player which you would like to scrape and copy the URL from your browser.
 
 ![](/assets/images/intro_step1.png "Intro step 1")
 
-2. Paste the URL you have just copied to the Input URLs field in the Flashscore actor under "Input" tab  
+2.) Paste the URL you have just copied to the Input URLs field in the Flashscore actor under "Input" tab  
 
 ![](/assets/images/intro_step2.png "Intro step 2")
 
-3. Hit green ✅ start button and enjoy your data!
+3.) Hit green ✅ start button and enjoy your data!
 
 ![](/assets/images/intro_step3.png "Intro step 3")
 
