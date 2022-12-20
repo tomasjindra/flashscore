@@ -2,7 +2,7 @@
 The results of your favourite leagues, teams or players are at your fingertips. Get all match results including the most important statistics from 30+ sports such as ⚽️ Soccer, 🎾 Tennis, 🏀 Basketball, 🏒 Ice hockey, 🏈 American football, ⚾️ Baseball and more using the API created from https://www.flashscore.com/. 
 
 ## Input parameters
-- **inputURL** - The list of input URLs to be used. It can be URL for a specific team, player or league (e.g. for Premier League: https://www.flashscore.com/en/soccer/england/premier-league/#/nunhS7Vn/table/overall 
+- **inputURL** - The list of input URLs to be used. It can be URL for a specific team, player or league (e.g. for Premier League: https://www.flashscore.com/en/soccer/england/premier-league/#/nunhS7Vn/table/overall). Feel free to also add more URLs at the same time, just press the add button. 
 
 ## Cost of usage
 You can get a bit more than 1 000 results for 1 USD.
