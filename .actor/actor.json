@@ -1,7 +1,7 @@
 {
     "actorSpecification": 1,
-    "name": "zappos-scraper",
-    "title": "Zappos Scraper",
+    "name": "flashscore",
+    "title": "Flashscore",
     "description": "",
     "version": "1.0.0",
     "storages": {
@@ -10,7 +10,7 @@
             "title": "Flashscore Dataset",
             "description": "",
             "views": {
-                "results": {
+                "overview": {
                     "title": "Overview",
                     "description": "It can take about one minute until the first results are available.",
                     "transformation": {
