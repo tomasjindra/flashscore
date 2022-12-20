@@ -11,15 +11,15 @@ You can get a bit more than 1 000 results for 1 USD.
 
 1.) On flashscore.com choose a league / team / player which you would like to scrape and copy the URL from your browser.
 
-![](/assets/images/intro-step1.png "Intro step 1")
+![](/assets/images/intro_step1.png "Intro step 1")
 
 2.) Paste the URL you have just copied to the Input URLs field in the Flashscore actor under "Input" tab  
 
-![](/assets/images/intro-step2.png "Intro step 2")
+![](/assets/images/intro_step2.png "Intro step 2")
 
 3.) Hit green ✅ start button and enjoy your data!
 
-![](/assets/images/intro-step3.png "Intro step 3")
+![](/assets/images/intro_step3.png "Intro step 3")
 
 
 ## Input example
@@ -37,7 +37,7 @@ You can get a bit more than 1 000 results for 1 USD.
 You can download the dataset with your results in various formats such as JSON, HTML, CSV, or Excel.
 
 **Example of data to be collected:**
-![](/assets/images/output-example.png "Output example")
+![](/assets/images/output_example.png "Output example")
 
 
 ## Match details in JSON Format
