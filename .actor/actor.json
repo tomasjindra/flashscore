@@ -1,0 +1,68 @@
+{
+    "actorSpecification": 1,
+    "name": "zappos-scraper",
+    "title": "Zappos Scraper",
+    "description": "",
+    "version": "1.0.0",
+    "storages": {
+        "dataset": {
+            "actorSpecification": 1,
+            "title": "Flashscore Dataset",
+            "description": "",
+            "views": {
+                "results": {
+                    "title": "Overview",
+                    "description": "It can take about one minute until the first results are available.",
+                    "transformation": {
+                        "fields": [
+                            "sport",
+                            "region",
+                            "league",
+                            "matchTime",
+                            "matchState",
+                            "homeTeamName",
+                            "awayTeamName",
+                            "homeTeamScore",
+                            "awayTeamScore",
+                            "URL"
+                        ]
+                    },
+                    "display": {
+                        "component": "table",
+                        "properties": {
+                            "sport": {
+                                "label": "Sport",
+                                "format": "text"
+                            },
+                            "region": {
+                                "label": "Region",
+                                "format": "text"
+                            },
+                            "league": {
+                                "format": "text"
+                            },
+                            "matchTime": {
+                                "format": "text"
+                            },
+                            "homeTeamName": {
+                                "format": "text"
+                            },
+                            "awayTeamName": {
+                                "format": "text"
+                            },
+                            "homeTeamScore": {
+                                "format": "number"
+                            },
+                            "awayTeamScore": {
+                                "format": "number"
+                            },
+                            "URL": {
+                                "format": "link"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

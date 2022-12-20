@@ -38,7 +38,6 @@ router.addHandler('match', async ({ request, page, log }) => {
     let regexForRegionExtraction = /\:.*$/
 
     let results = {
-        URL: request.loadedUrl,
         sport: await page.locator("span.tournamentHeader__sportNav title")?.textContent() || null,
         region: await (await page.locator("span.tournamentHeader__country")?.textContent()).replace(regexForRegionExtraction, "") || null,
         league: await page.locator("span.tournamentHeader__country a")?.textContent() || null,
@@ -49,6 +48,7 @@ router.addHandler('match', async ({ request, page, log }) => {
         //how to ignore the elements if it's not available e.g. MMA
         homeTeamScore: await page.locator("div.detailScore__matchInfo div.detailScore__wrapper span")?.first()?.textContent() || null,
         awayTeamScore: await page.locator("div.detailScore__matchInfo div.detailScore__wrapper span")?.last()?.textContent() || null,
+        URL: request.loadedUrl,
 
     }
     //todo - can be the following line impoved? 
