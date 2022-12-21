@@ -17,7 +17,7 @@ router.addDefaultHandler(async ({ request, page, log, enqueueLinks }) => {
         let matchElementId = await matchesElements[i].getAttribute("id")
         let regexForRedundantPartOfId = /.*_/gm
         let matchId = matchElementId.replace(regexForRedundantPartOfId, "")
-        matchURLs.push(`https://www.flashscore.com/en/match/${matchId}/#/match-summary/match-summary`)
+        matchURLs.push(`https://www.flashscore.com/match/${matchId}/#/match-summary/match-summary`)
     }
 
     log.info(`Enqueueing ${matchURLs.length} matches URLs for ${title}`)
