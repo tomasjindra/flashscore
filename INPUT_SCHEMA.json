@@ -14,9 +14,23 @@
                 }
             ],
             "editor": "requestListSources"
+        },
+        "proxyConfiguration": {
+            "title": "Proxy configuration",
+            "type": "object",
+            "editor": "proxy",
+            "description": "The best option is usually Automatic proxy. But you can also use your own proxies or no proxy",
+            "default": {
+                "useApifyProxy": true
+            },
+            "prefill": {
+                "useApifyProxy": true
+            },
+            "sectionCaption": "Proxy and browser configuration"
         }
     },
     "required": [
-        "inputURL"
+        "inputURL",
+        "proxyConfiguration"
     ]
 }

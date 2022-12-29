@@ -5,19 +5,15 @@ import { updateInputUrls } from './utilities/functions/updateInputUrls.js'
 
 await Actor.init();
 
-const { inputURL } = await Actor.getInput();
+const { inputURL, proxyConfiguration } = await Actor.getInput();
 console.log(inputURL);
 updateInputUrls(inputURL)
 
 const startUrls = [...inputURL];
-//const proxyConfiguration = await Actor.createProxyConfiguration();
-
 
 const crawler = new PlaywrightCrawler({
     headless: false,
-    //how to set proxies for public actor if there is no IP blocking, etc.?
-    //proxyConfiguration: new ProxyConfiguration({ proxyUrls: ['...'] }),
-    //proxyConfiguration,
+    proxyConfiguration: await Actor.createProxyConfiguration(proxyConfiguration),
     requestHandler: router,
 });
 
