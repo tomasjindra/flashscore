@@ -49,7 +49,7 @@ router.addHandler('match', async ({ request, page, log }) => {
         homeTeamScore: await page.locator("div.detailScore__matchInfo div.detailScore__wrapper span")?.first()?.textContent() || null,
         awayTeamScore: await page.locator("div.detailScore__matchInfo div.detailScore__wrapper span")?.last()?.textContent() || null,
         URL: request.loadedUrl,
-
+        timestamp: new Date().toISOString()
     }
     //todo - can be the following line impoved? 
     if (await page.locator('a:has-text("Stats")').isVisible({ timeout: 2000 }) == true) {
